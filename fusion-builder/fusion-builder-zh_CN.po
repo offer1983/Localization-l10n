@@ -16,14 +16,14 @@ msgstr ""
 
 #: inc/class-fusion-dynamic-data-callbacks.php:350
 msgid "404"
-msgstr ""
+msgstr "404，网页不存在"
 
 #: front-end/class-fusion-builder-front.php:1149
 #: inc/lib/inc/fusion-app/templates/front-end-toolbar.php:66
 #: inc/lib/inc/fusion-app/templates/front-end-toolbar.php:68
 #: shortcodes/fusion-container.php:2488
 msgid "Draft"
-msgstr ""
+msgstr "草稿"
 
 #. translators: The title.
 #: front-end/class-fusion-builder-front.php:1231
@@ -32,7 +32,7 @@ msgstr ""
 #: inc/class-fusion-form-builder-table.php:275
 #: inc/class-fusion-template-builder-table.php:292
 msgid "Edit %s with Avada Live"
-msgstr ""
+msgstr "编辑 %s 使用 Avada Live"
 
 #: front-end/class-fusion-builder-front.php:1231
 #: inc/class-awb-off-canvas-table.php:266
@@ -44,7 +44,7 @@ msgstr ""
 #: inc/class-fusion-template-builder-table.php:292
 #: inc/class-fusion-template-builder.php:2269
 msgid "Avada Live"
-msgstr ""
+msgstr "Avada Live"
 
 #: front-end/class-fusion-builder-front.php:1247
 #: inc/lib/inc/class-fusion-patcher-admin-screen.php:290
@@ -52,24 +52,24 @@ msgstr ""
 #: inc/lib/inc/redux/framework/FusionReduxCore/inc/fields/slides/field_slides.php:204
 #: shortcodes/components/woo-tabs.php:539 shortcodes/fusion-post-cards.php:2098
 msgid "Description"
-msgstr ""
+msgstr "描述"
 
 #: front-end/class-fusion-builder-front.php:1275
 msgid "Out of stock"
-msgstr ""
+msgstr "缺货"
 
 #. Translators: Reviews count.
 #: front-end/class-fusion-builder-front.php:1285
 msgid "<span class=\"count\">%s</span> customer review"
-msgstr ""
+msgstr "<span class=\"count\">%s</span> 客户评论"
 
 #: front-end/class-fusion-builder-front.php:1285
 msgid "Example"
-msgstr ""
+msgstr "例子"
 
 #: front-end/class-fusion-builder-front.php:1290
 msgid "Element content will render here."
-msgstr ""
+msgstr "元素内容将在这里呈现"
 
 #: front-end/class-fusion-builder-front.php:1400
 #: front-end/class-fusion-builder-front.php:1403 inc/helpers.php:2297
@@ -83,51 +83,51 @@ msgstr ""
 #: shortcodes/fusion-gallery.php:1163 shortcodes/fusion-gravity-form.php:42
 #: shortcodes/fusion-gravity-form.php:44
 msgid "Global Options"
-msgstr ""
+msgstr "全局选项"
 
 #: front-end/class-fusion-builder-front.php:1406
 #: front-end/class-fusion-builder-front.php:1410
 #: front-end/templates/context-menu-inline.php:12 inc/helpers.php:2303
 msgid "Reset To Default"
-msgstr ""
+msgstr "重置为默认"
 
 #: front-end/class-fusion-builder-front.php:1419
 #: inc/class-awb-demo-import.php:286 inc/class-fusion-builder-admin.php:93
 #: inc/helpers.php:2312
 #: inc/lib/inc/fusion-app/templates/front-end-toolbar.php:149
 msgid "Preview"
-msgstr ""
+msgstr "预览"
 
 #: front-end/class-fusion-builder-front.php:1433 inc/helpers.php:2278
 msgid "Dynamic Content"
-msgstr ""
+msgstr "动态内容"
 
 #: front-end/class-fusion-builder-front.php:1437
 #: inc/lib/inc/fusion-app/templates/options/typography.php:12
 #: inc/lib/inc/redux/custom-fields/typography/field_typography.php:112
 msgid "Global Typography"
-msgstr ""
+msgstr "全局排版"
 
 #: front-end/class-fusion-builder-front.php:1797 inc/helpers.php:2005
 #: inc/lib/inc/functions.php:426 shortcodes/components/meta.php:513
 #: shortcodes/components/related.php:240 shortcodes/components/related.php:388
 #: shortcodes/fusion-recent-posts.php:418
 msgid "0 Comments"
-msgstr ""
+msgstr "没有评论"
 
 #: front-end/class-fusion-builder-front.php:1797 inc/helpers.php:2005
 #: inc/lib/inc/functions.php:426 shortcodes/components/meta.php:513
 #: shortcodes/components/related.php:240 shortcodes/components/related.php:388
 #: shortcodes/fusion-recent-posts.php:418
 msgid "1 Comment"
-msgstr ""
+msgstr "1条评论"
 
 #: front-end/class-fusion-builder-front.php:1797 inc/helpers.php:2005
 #: inc/lib/inc/functions.php:426 shortcodes/components/meta.php:513
 #: shortcodes/components/related.php:240 shortcodes/components/related.php:388
 #: shortcodes/fusion-recent-posts.php:418
 msgid "% Comments"
-msgstr ""
+msgstr "% 评论"
 
 #: front-end/templates/column-library.php:13
 #: front-end/templates/container-library.php:13
@@ -140,7 +140,7 @@ msgstr ""
 #: inc/lib/inc/redux/custom-fields/iconpicker/field_iconpicker.php:55
 #: shortcodes/fusion-search.php:366
 msgid "Search"
-msgstr ""
+msgstr "搜索"
 
 #: front-end/templates/column-library.php:22
 #: front-end/templates/container-library.php:22
@@ -148,7 +148,7 @@ msgstr ""
 #: inc/class-fusion-builder-library.php:986 inc/templates/column-library.php:25
 #: inc/templates/column-library.php:33 inc/templates/element-library.php:34
 msgid "Studio"
-msgstr ""
+msgstr "工作室"
 
 #: front-end/templates/column-library.php:49
 #: front-end/templates/container-library.php:50
@@ -156,7 +156,7 @@ msgstr ""
 #: inc/templates/column-library.php:66 inc/templates/column-library.php:106
 #: inc/templates/element-library.php:153
 msgid "You need to be registered to access the Avada Studio."
-msgstr ""
+msgstr "你需要注册才能访问 Avada Studio"
 
 #: front-end/templates/context-menu-inline.php:13
 #: inc/class-fusion-builder-options-panel.php:61
@@ -166,7 +166,7 @@ msgstr ""
 #: inc/lib/inc/fusion-app/helpers.php:216
 #: inc/lib/inc/fusion-app/helpers.php:264
 msgid "Element Options"
-msgstr ""
+msgstr "元素选项"
 
 #: front-end/templates/context-menu-inline.php:14
 #: front-end/templates/front-end-child-element.php:18
@@ -174,7 +174,7 @@ msgstr ""
 #: front-end/templates/front-end-parent-element.php:28
 #: front-end/templates/nested-row.php:23 inc/lib/inc/fusion-app/helpers.php:268
 msgid "Delete Element"
-msgstr ""
+msgstr "删除元素"
 
 #: front-end/templates/context-menu.php:110
 #: inc/class-awb-off-canvas-table.php:258
@@ -190,14 +190,14 @@ msgstr ""
 #: inc/class-fusion-template-builder-table.php:284
 #: inc/lib/inc/fusion-app/helpers.php:296 inc/templates/context-menu.php:105
 msgid "Edit"
-msgstr ""
+msgstr "编辑"
 
 #: front-end/templates/context-menu.php:113
 #: inc/lib/inc/fusion-app/helpers.php:209
 #: inc/lib/inc/fusion-app/templates/front-end-toolbar.php:83
 #: inc/templates/context-menu.php:108
 msgid "Save"
-msgstr ""
+msgstr "保存"
 
 #: front-end/templates/context-menu.php:116
 #: inc/class-awb-off-canvas-table.php:261
@@ -206,7 +206,7 @@ msgstr ""
 #: inc/class-fusion-template-builder-table.php:287
 #: inc/templates/context-menu.php:111
 msgid "Clone"
-msgstr ""
+msgstr "克隆"
 
 #: front-end/templates/context-menu.php:119 inc/admin-screens/options.php:334
 #: inc/lib/inc/fusion-app/helpers.php:297
@@ -220,37 +220,37 @@ msgstr ""
 #: inc/lib/inc/redux/framework/FusionReduxCore/inc/fields/slides/field_slides.php:190
 #: inc/templates/context-menu.php:114
 msgid "Remove"
-msgstr ""
+msgstr "清楚"
 
 #: front-end/templates/context-menu.php:122 inc/templates/context-menu.php:117
 msgid "Copy"
-msgstr ""
+msgstr "复制"
 
 #: front-end/templates/context-menu.php:126 inc/templates/context-menu.php:120
 msgid "Paste Before"
-msgstr ""
+msgstr "粘贴到前面"
 
 #: front-end/templates/context-menu.php:127 inc/templates/context-menu.php:121
 msgid "Paste After"
-msgstr ""
+msgstr "粘贴到后面"
 
 #: front-end/templates/context-menu.php:131 inc/templates/context-menu.php:125
 msgid "Paste At Start"
-msgstr ""
+msgstr "粘贴到开始"
 
 #: front-end/templates/context-menu.php:132 inc/templates/context-menu.php:126
 msgid "Paste At End"
-msgstr ""
+msgstr "粘贴到最后"
 
 #: front-end/templates/dynamic-selection.php:14
 #: inc/lib/inc/fusion-app/helpers.php:560
 #: inc/templates/dynamic-selection.php:13
 msgid "Select Dynamic Content"
-msgstr ""
+msgstr "选择动态内容"
 
 #: front-end/templates/dynamic-selection.php:20
 msgid "Search Dynamic Content"
-msgstr ""
+msgstr "搜索动态内容"
 
 #: front-end/templates/featured-image.php:49
 #: inc/lib/inc/templates/rollover.php:137 shortcodes/fusion-gallery.php:1024
