@@ -12,7 +12,7 @@ msgstr ""
 "Project-Id-Version: Avada\n"
 "Report-Msgid-Bugs-To: https://wordpress.org/support/theme/Avada\n"
 "POT-Creation-Date: 2022-01-17 11:25:54+00:00\n"
-"PO-Revision-Date: 2017-02-26 16:16+0800\n"
+"PO-Revision-Date: 2022-03-17 12:48+0800\n"
 "Last-Translator: SinnohZeng\n"
 "Language-Team: Chinese (China) (http://www.transifex.com/projects/p/avada/"
 "language/zh_CN/)\n"
@@ -21,7 +21,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Poedit 2.1\n"
+"X-Generator: Poedit 3.0.1\n"
 
 #: includes/metaboxes/tabs/tab_template.php:204
 msgid "404"
@@ -215,7 +215,7 @@ msgstr "发表评论"
 
 #: footer.php:60
 msgid "Page load link"
-msgstr ""
+msgstr "页面加载链接"
 
 #: header.php:42
 msgid "Skip to content"
@@ -223,79 +223,80 @@ msgstr "跳过内容"
 
 #: includes/admin-screens/dashboard.php:51
 msgid "Show Setup Steps"
-msgstr ""
+msgstr "显示安装步骤"
 
 #: includes/admin-screens/dashboard.php:57
 msgid "Welcome To Avada!"
-msgstr ""
+msgstr "欢迎使用Avada!"
 
 #: includes/admin-screens/dashboard.php:58
 msgid ""
 "Avada is now installed and ready to use! Get ready to build something "
 "beautiful. We hope you enjoy it!"
 msgstr ""
+"Avada 现已安装完毕，随时可以使用！准备好创建美妙的东西。我们希望您喜欢！"
 
 #: includes/admin-screens/dashboard.php:66
 msgid "Watch Avada Website Builder In Action."
-msgstr ""
+msgstr "观看Avada网站生成器是如何运作的。"
 
 #: includes/admin-screens/dashboard.php:71
 #: includes/admin-screens/dashboard.php:161
 #: includes/admin-screens/dashboard.php:179
 msgid "WPEngine Logo"
-msgstr ""
+msgstr "WPEngine Logo"
 
 #: includes/admin-screens/dashboard.php:77
 msgid "Set Up Your Website"
-msgstr ""
+msgstr "设置你的网站"
 
 #: includes/admin-screens/dashboard.php:78
 msgid "Set up your website with 3 easy steps."
-msgstr ""
+msgstr "通过简单的3步来设置你的网站。"
 
 #: includes/admin-screens/dashboard.php:80
 msgid "Link to product registration"
-msgstr ""
+msgstr "产品注册链接"
 
 #: includes/admin-screens/dashboard.php:82
 #: includes/lib/inc/class-fusion-product-registration.php:709
 msgid "Register Your Website"
-msgstr ""
+msgstr "注册您的网站"
 
 #: includes/admin-screens/dashboard.php:83
 msgid ""
 "Enter your purchase code in the form below to register this copy of Avada."
-msgstr ""
+msgstr "在表格中输入您购买的Avada注册代码。"
 
 #: includes/admin-screens/dashboard.php:88
 msgid "Link to prebuilt websites"
-msgstr ""
+msgstr "链接到预建网站"
 
 #: includes/admin-screens/dashboard.php:90
 msgid "Select A Prebuilt Website"
-msgstr ""
+msgstr "选择一个预建网站"
 
 #: includes/admin-screens/dashboard.php:91
 msgid "One-click import one of our professionally designed, prebuilt websites."
-msgstr ""
+msgstr "一键导入我们专业设计的预建网站。"
 
 #: includes/admin-screens/dashboard.php:96
 msgid "Live edit website"
-msgstr ""
+msgstr "实时编辑网站"
 
 #: includes/admin-screens/dashboard.php:98
 msgid "Customize Your Website"
-msgstr ""
+msgstr "自定义您的网站"
 
 #: includes/admin-screens/dashboard.php:99
 msgid ""
 "Edit your website live, directly on the front-end, with Avada's amazing "
 "design tools."
-msgstr ""
+msgstr "使用 Avada 出色的设计工具直接在前端实时编辑您的网站。"
 
 #: includes/admin-screens/dashboard.php:111
 msgid "Avada Resources"
-msgstr ""
+msgstr "Avada资源"
 
 # @ Avada
 #: includes/admin-screens/dashboard.php:114
@@ -306,21 +307,21 @@ msgstr "推荐"
 #. translators: Item price.
 #: includes/admin-screens/dashboard.php:126
 msgid "Only %s - Buy Now"
-msgstr ""
+msgstr "仅 %s - 立即购买"
 
 #. translators: Item price.
 #: includes/admin-screens/dashboard.php:130
 msgid "On Sale - Only %s"
-msgstr ""
+msgstr "特价 - 仅 %s"
 
 #: includes/admin-screens/dashboard.php:135
 #: includes/admin-screens/dashboard.php:148
 msgid "Buy Another License"
-msgstr ""
+msgstr "购买另一个许可证"
 
 #: includes/admin-screens/dashboard.php:141
 msgid "Sale"
-msgstr ""
+msgstr "销售"
 
 #: includes/admin-screens/dashboard.php:144
 #: includes/class-avada-migrate.php:387
@@ -333,34 +334,37 @@ msgid ""
 "Buy another license of the Avada Website Builder for your next project. "
 "Streamline your work and save time for the more important things."
 msgstr ""
+"为您的下一个项目购买另一个 Avada Website Builder 许可证。 简化您的工作并为更"
+"重要的事情节省时间。"
 
 #: includes/admin-screens/dashboard.php:158
 #: includes/admin-screens/dashboard.php:176
 msgid "Discount"
-msgstr ""
+msgstr "折扣"
 
 #: includes/admin-screens/dashboard.php:165
 msgid "Avada Hosting"
-msgstr ""
+msgstr "Avada资源"
 
 #: includes/admin-screens/dashboard.php:168
 msgid ""
 "Launch your site in seconds on WP Engine who offer optimized hosting for the "
 "Avada Website Builder."
 msgstr ""
+"在为 Avada Website Builder 提供优化托管的 WP Engine 上几秒钟内启动您的网站。"
 
 #: includes/admin-screens/dashboard.php:169
 msgid "Enjoy 4 months free!"
-msgstr ""
+msgstr "免费享受4个月！"
 
 #: includes/admin-screens/dashboard.php:172
 #: includes/admin-screens/dashboard.php:189
 msgid "Get Special Offer"
-msgstr ""
+msgstr "获得特别优惠"
 
 #: includes/admin-screens/dashboard.php:183
 msgid "Avada Special Hosting"
-msgstr ""
+msgstr "Avada 特别托管"
 
 #: includes/admin-screens/dashboard.php:186
 msgid ""
@@ -368,72 +372,80 @@ msgid ""
 "hosting. Sign up and have Avada installed and activated for you with one "
 "click."
 msgstr ""
+"我们与 SiteGround 合作，为您提供全方位服务的 WordPress 托管。 注册并一键为您"
+"安装和激活 Avada。"
 
 #: includes/admin-screens/dashboard.php:196
 msgid "Codeable Logo"
-msgstr ""
+msgstr "可编码 Logo"
 
 #: includes/admin-screens/dashboard.php:200
 msgid "Avada Customization"
-msgstr ""
+msgstr "Avada 定制"
 
 #: includes/admin-screens/dashboard.php:203
 msgid ""
 "We work with Codeable who offers amazing customization services. They are "
 "equipped to handle both large and small customization jobs."
 msgstr ""
+"我们与提供惊人定制服务的 Codeable 合作。 他们具备处理大型和小型定制工作的能"
+"力。"
 
 #: includes/admin-screens/dashboard.php:206
 msgid "Get Free Quote"
-msgstr ""
+msgstr "获得特别优惠"
 
 #: includes/admin-screens/dashboard.php:214
 msgid "Avada Integrations"
-msgstr ""
+msgstr "Avada 集成"
 
 #: includes/admin-screens/dashboard.php:217
 msgid "Premium Additions"
-msgstr ""
+msgstr "高级添加"
 
 #: includes/admin-screens/dashboard.php:225
 msgid "HubSpot Logo"
-msgstr ""
+msgstr "HubSpot Logo"
 
 #: includes/admin-screens/dashboard.php:229
 msgid "CRM, Marketing & Sales"
-msgstr ""
+msgstr "客户关系管理、营销和销售"
 
 #: includes/admin-screens/dashboard.php:232
 msgid ""
 "HubSpot offers a full stack of software for marketing, sales, and also "
 "customer service, with a completely free CRM at its core. Grow now!"
 msgstr ""
+"HubSpot 为营销、销售和客户服务提供全套软件，其核心是完全免费的 CRM。 现在成"
+"长！"
 
 #: includes/admin-screens/dashboard.php:235
 msgid "WP Marketing"
-msgstr ""
+msgstr "WP 营销"
 
 #: includes/admin-screens/dashboard.php:242
 msgid "WPML Logo"
-msgstr ""
+msgstr "WPML Logo"
 
 #: includes/admin-screens/dashboard.php:246
 msgid "Multilingual Sites"
-msgstr ""
+msgstr "多语言网站"
 
 #: includes/admin-screens/dashboard.php:249
 msgid ""
 "WPML makes it easy to build multilingual sites and run them. It's powerful "
 "enough for corporate sites, yet simple for blogs."
 msgstr ""
+"WPML 使构建和运行多语言站点变得容易。 它对于企业网站来说足够强大，但对于博客"
+"来说却很简单。"
 
 #: includes/admin-screens/dashboard.php:252
 msgid "WP Multilingual"
-msgstr ""
+msgstr "WP 多语言"
 
 #: includes/admin-screens/dashboard.php:259
 msgid "EC Logo"
-msgstr ""
+msgstr "EC Logo"
 
 #: includes/admin-screens/dashboard.php:263
 #: includes/options/events_calendar.php:36 includes/options/sidebars.php:568
@@ -445,56 +457,58 @@ msgid ""
 "Power your events for free with The Events Calendar, or upgrade to Pro to "
 "unlock recurring events, views, premium support, and more."
 msgstr ""
+"使用活动日历免费为您的活动提供动力，或升级到专业版以解锁重复活动、视图、高级"
+"支持等。"
 
 #: includes/admin-screens/dashboard.php:269
 msgid "WP Events Calendar"
-msgstr ""
+msgstr "WP 活动日历"
 
 #: includes/admin-screens/performance.php:43
 #: includes/admin-screens/performance.php:46 includes/class-avada-admin.php:524
 #: includes/class-awb-performance-wizard.php:1438
 msgid "Performance Wizard"
-msgstr ""
+msgstr "性能向导"
 
 #: includes/admin-screens/performance.php:44
 msgid "Follow the wizard to optimize your website."
-msgstr ""
+msgstr "按照向导优化您的网站。"
 
 #: includes/admin-screens/performance.php:50
 msgid "Before Starting"
-msgstr ""
+msgstr "在开始之前"
 
 #: includes/admin-screens/performance.php:51
 msgid "Ensure you are ready to optimize your website."
-msgstr ""
+msgstr "确保您已准备好优化您的网站。"
 
 #: includes/admin-screens/performance.php:55
 msgid "Build Your Website"
-msgstr ""
+msgstr "建立您的网站"
 
 #: includes/admin-screens/performance.php:56
 msgid "Build your website before starting with performance optimization."
-msgstr ""
+msgstr "在开始性能优化之前构建您的网站。"
 
 #: includes/admin-screens/performance.php:63
 msgid "Read The Documentation"
-msgstr ""
+msgstr "阅读文档"
 
 #: includes/admin-screens/performance.php:64
 msgid ""
 "Learn more about performance in our documentation, and pick up extra tips "
 "and tricks."
-msgstr ""
+msgstr "在我们的文档中了解有关性能的更多信息，并获取额外的提示和技巧。"
 
 #: includes/admin-screens/performance.php:72
 msgid "Select Testing"
-msgstr ""
+msgstr "选择测试"
 
 #: includes/admin-screens/performance.php:73
 msgid ""
 "Select if you would like to attempt before and after testing.  Will slow "
 "down process if selected.."
-msgstr ""
+msgstr "选择是否要在测试前后尝试。如果选择将减慢此过程"
 
 # @ Avada
 #: includes/admin-screens/performance.php:78
@@ -535,11 +549,11 @@ msgstr "桌面"
 
 #: includes/admin-screens/performance.php:86
 msgid "Let's Start"
-msgstr ""
+msgstr "让我们开始吧"
 
 #: includes/admin-screens/performance.php:93
 msgid "Avada Features"
-msgstr ""
+msgstr "Avada 功能"
 
 #: includes/admin-screens/performance.php:94
 msgid ""
@@ -549,6 +563,9 @@ msgid ""
 "again. Click the 'Find Recommendations' button to scan your website and "
 "present recommendations."
 msgstr ""
+"在此步骤中，您可以禁用任何不使用的功能，从而减少加载的代码量。 请小心，因为禁"
+"用您正在使用的功能将导致行为中断，直到再次启用它。 单击“查找推荐”按钮以扫描您"
+"的网站并提供推荐。"
 
 #: includes/admin-screens/performance.php:96
 #: includes/admin-screens/performance.php:192
@@ -556,18 +573,18 @@ msgstr ""
 #: includes/admin-screens/performance.php:362
 #: includes/admin-screens/performance.php:516
 msgid "Find Recommendations"
-msgstr ""
+msgstr "查找建议"
 
 #: includes/admin-screens/performance.php:97
 #: includes/admin-screens/performance.php:193
 #: includes/admin-screens/performance.php:238
 #: includes/admin-screens/performance.php:517
 msgid "Apply All"
-msgstr ""
+msgstr "全部应用"
 
 #: includes/admin-screens/performance.php:103
 msgid "Disable Unused Features"
-msgstr ""
+msgstr "禁用未使用的功能"
 
 #: includes/admin-screens/performance.php:125
 #: includes/class-avada-megamenu-framework.php:157
@@ -617,17 +634,17 @@ msgstr "关"
 
 #: includes/admin-screens/performance.php:138
 msgid "Other Feature Recommendations"
-msgstr ""
+msgstr "其他功能推荐"
 
 #: includes/admin-screens/performance.php:146
 msgid ""
 "Recommend disabling. Flex layouts are faster to render and cause less "
 "content layout shift."
-msgstr ""
+msgstr "建议禁用。 Flex 布局的渲染速度更快，并导致更少的内容布局偏移。"
 
 #: includes/admin-screens/performance.php:153
 msgid "Global Header"
-msgstr ""
+msgstr "全局标题"
 
 #: includes/admin-screens/performance.php:154
 msgid ""
@@ -635,26 +652,30 @@ msgid ""
 "be used as the default website header instead of the legacy approach using "
 "global options."
 msgstr ""
+"可以在布局构建器页面上构建全局标题。 设置后，它将用作默认网站标题，而不是使用"
+"全局选项的传统方法。"
 
 #: includes/admin-screens/performance.php:157
 msgid "Build Header"
-msgstr ""
+msgstr "构建标题"
 
 #: includes/admin-screens/performance.php:160
 msgid ""
 "Recommend building a global header. Older legacy header assets will not be "
 "loaded and new approach causes less content layout shift."
 msgstr ""
+"建议构建一个全局标头。 将不会加载较旧的旧标头资产，并且新方法会减少内容布局的"
+"变化。"
 
 #: includes/admin-screens/performance.php:167
 msgid ""
 "Recommend setting to desktop only to disable element animations on mobile "
 "devices."
-msgstr ""
+msgstr "建议仅设置为桌面以禁用移动设备上的元素动画。"
 
 #: includes/admin-screens/performance.php:171
 msgid "No extra feature recommendations found for your current setup."
-msgstr ""
+msgstr "没有为您当前的设置找到额外的功能建议。"
 
 #: includes/admin-screens/performance.php:174
 #: includes/admin-screens/performance.php:225
@@ -672,11 +693,11 @@ msgstr "保存修改"
 #: includes/admin-screens/performance.php:346
 #: includes/admin-screens/performance.php:506
 msgid "Next Step"
-msgstr ""
+msgstr "下一步"
 
 #: includes/admin-screens/performance.php:183
 msgid "Avada Icons"
-msgstr ""
+msgstr "Avada 图标"
 
 #: includes/admin-screens/performance.php:184
 msgid ""
@@ -684,11 +705,13 @@ msgid ""
 "you are using. You can also disable unused icon sets, and read about how to "
 "optimize your icons."
 msgstr ""
+"在此步骤中，您可以扫描您的网站以获取有关您正在使用的任何图标的信息。 您还可以"
+"禁用未使用的图标集，并了解如何优化您的图标。"
 
 #: includes/admin-screens/performance.php:188
 #: includes/admin-screens/performance.php:358
 msgid "Warning: Large number of posts detected, scanning might take a while."
-msgstr ""
+msgstr "警告：检测到大量帖子，扫描可能需要一段时间。"
 
 # @ Avada
 #: includes/admin-screens/performance.php:202
@@ -710,28 +733,29 @@ msgstr "内容"
 
 #: includes/admin-screens/performance.php:204
 msgid "Meta"
-msgstr ""
+msgstr "元素"
 
 #: includes/admin-screens/performance.php:209
 msgid ""
 "Run the icon scan to have an overview of usage. Note, the time this will "
 "take will depend on the size of your website."
 msgstr ""
+"运行图标扫描以了解使用情况。 请注意，这将花费的时间取决于您网站的大小。"
 
 #: includes/admin-screens/performance.php:221
 #: includes/admin-screens/performance.php:501
 msgid "Tip"
-msgstr ""
+msgstr "提示"
 
 #: includes/admin-screens/performance.php:221
 msgid ""
 "Convert from Font Awesome to a single custom icon set to improve your load "
 "time."
-msgstr ""
+msgstr "从字体转换为单个自定义图标集以提高您的负载时间。"
 
 #: includes/admin-screens/performance.php:221
 msgid "Find Out How!"
-msgstr ""
+msgstr "了解如何！"
 
 #: includes/admin-screens/performance.php:233
 msgid "Avada Fonts/Typography"
@@ -2401,7 +2425,7 @@ msgstr "导入页面选项"
 msgid ""
 "Import Page Options.  You can import via file or copy and paste from JSON "
 "data."
-msgstr ""
+msgstr "导入页面选项。 您可以通过文件导入或从 JSON 数据复制和粘贴。"
 
 #: includes/avada-app/class-fusion-panel.php:1159
 #: includes/metaboxes/tabs/tab_avada_page_options.php:69
@@ -2412,39 +2436,39 @@ msgstr "导出页面选项"
 #: includes/avada-app/class-fusion-panel.php:1160
 msgid ""
 "Export your Page Options.  You can either export as a file or copy the data."
-msgstr ""
+msgstr "导出您的页面选项。 您可以导出为文件或复制数据。"
 
 #: includes/avada-app/class-fusion-panel.php:1375
 #: includes/avada-app/class-fusion-panel.php:1383
 #: includes/avada-app/panel/templates/sidebar.php:60
 #: includes/options/shortcode_styling.php:30
 msgid "Avada Builder Elements"
-msgstr ""
+msgstr "Avada构建器元素"
 
 #: includes/avada-app/class-fusion-panel.php:1388
 #: includes/avada-app/panel/templates/sidebar.php:66
 msgid "Add-on Elements"
-msgstr ""
+msgstr "附加元素"
 
 #: includes/avada-app/class-fusion-panel.php:1495
 msgid "Import Global Options"
-msgstr ""
+msgstr "导入全局选项"
 
 #: includes/avada-app/class-fusion-panel.php:1496
 msgid ""
 "Import Global Options. You can import via file, copy and paste or select an "
 "Avada prebuilt website."
-msgstr ""
+msgstr "导入全局选项。 您可以通过文件导入、复制和粘贴或选择 Avada 预建网站。"
 
 #: includes/avada-app/class-fusion-panel.php:1503
 #: includes/avada-app/class-fusion-panel.php:1508
 msgid "Export Global Options"
-msgstr ""
+msgstr "导出全局选项"
 
 #: includes/avada-app/class-fusion-panel.php:1504
 msgid ""
 "Export your Global Options. You can either export as a file or copy the data."
-msgstr ""
+msgstr "导出您的全局选项。 您可以导出为文件或复制数据。"
 
 #: includes/avada-app/fusion-panel.php:125
 #: includes/avada-app/panel/templates/sidebar.php:32 includes/bootstrap.php:242
@@ -2455,7 +2479,7 @@ msgstr ""
 #: includes/lib/inc/class-fusion-featured-image.php:168
 #: includes/lib/inc/fusion-app/templates/modal-dialog-more.php:34
 msgid "Global Options"
-msgstr ""
+msgstr "全局选项"
 
 #: includes/avada-app/fusion-panel.php:128
 msgid "Reset To Default"
@@ -2467,7 +2491,7 @@ msgstr "重置默认设置"
 #: includes/lib/inc/redux/custom-fields/typography/field_typography.php:112
 #: includes/options/typography.php:160
 msgid "Global Typography"
-msgstr ""
+msgstr "全球排版"
 
 #: includes/avada-app/panel/templates/sidebar.php:15
 #: includes/avada-app/panel/templates/sidebar.php:39
@@ -2478,17 +2502,17 @@ msgstr "页面选项"
 #: includes/avada-app/panel/templates/sidebar.php:39
 #: includes/metaboxes/metaboxes.php:306
 msgid "Layout Section Options"
-msgstr ""
+msgstr "布局部分选项"
 
 #: includes/avada-app/panel/templates/sidebar.php:17
 #: includes/metaboxes/metaboxes.php:307
 msgid "Form Options"
-msgstr ""
+msgstr "表单选项"
 
 #: includes/avada-app/panel/templates/sidebar.php:18
 #: includes/metaboxes/metaboxes.php:308
 msgid "Off Canvas Options"
-msgstr ""
+msgstr "关闭画布选项"
 
 #: includes/avada-app/panel/templates/sidebar.php:40
 msgid "Taxonomy Options"
@@ -21655,11 +21679,11 @@ msgstr ""
 
 #: includes/options/woocommerce.php:1334
 msgid "WooCommerce Out Of Stock Badge Text"
-msgstr ""
+msgstr "WooCommerce 缺货徽章文本"
 
 #: includes/options/woocommerce.php:1335
 msgid "Default value is: Out of stock"
-msgstr ""
+msgstr "默认值为：缺货"
 
 #: includes/options/woocommerce.php:1337
 #: templates/wc-product-loop-outofstock-flash.php:23
@@ -21668,7 +21692,7 @@ msgstr "缺货"
 
 #: includes/plugins/multiple_sidebars.php:159
 msgid "Widget Area already exists, please use a different name."
-msgstr ""
+msgstr "小部件区域已存在，请使用其他名称。"
 
 #: includes/plugins/multiple_sidebars.php:224
 msgid "No Widget area defined."
@@ -21755,7 +21779,7 @@ msgstr "关于作者: %s"
 
 #: sliding_bar.php:50
 msgid "Toggle Sliding Bar Area"
-msgstr ""
+msgstr "切换滑动条区域"
 
 #: sliding_bar.php:57 sliding_bar.php:63
 msgid "Close Sliding Bar Area"
@@ -21783,7 +21807,7 @@ msgstr "编辑资料"
 
 #: templates/blog-layout.php:357 templates/blog-layout.php:387
 msgid "More on"
-msgstr ""
+msgstr "更多关于"
 
 # @ Avada
 #: templates/blog-layout.php:358 templates/blog-layout.php:388
@@ -21793,7 +21817,7 @@ msgstr "阅读更多"
 # @ Avada
 #: templates/blog-layout.php:370
 msgid "Protected"
-msgstr ""
+msgstr "受保护"
 
 # @ Avada
 #: templates/blog-layout.php:429
@@ -21819,11 +21843,11 @@ msgstr "前往  \"%s\""
 
 #: templates/header-v6.php:43 templates/menu-mobile-flyout.php:34
 msgid "Toggle Search"
-msgstr ""
+msgstr "切换搜索"
 
 #: templates/header-v6.php:47 templates/menu-mobile-flyout.php:40
 msgid "Toggle Menu"
-msgstr ""
+msgstr "切换菜单"
 
 #: templates/menu-mobile-main.php:33
 msgid "Main Menu Mobile"
@@ -21835,15 +21859,15 @@ msgstr "固定式移动设备主菜单"
 
 #: templates/menu-mobile-modern.php:22
 msgid "Toggle mobile menu"
-msgstr ""
+msgstr "切换到移动版菜单"
 
 #: templates/menu-mobile-modern.php:26
 msgid "Toggle mobile search"
-msgstr ""
+msgstr "切换到移动版搜索"
 
 #: templates/menu-mobile-modern.php:35
 msgid "Toggle mobile cart"
-msgstr ""
+msgstr "切换到移动版购物车"
 
 #: templates/to-top.php:26
 msgid "Go to Top"
@@ -21917,7 +21941,7 @@ msgstr "选择一个国家&hellip;"
 #: templates/wc-cart-shipping-calc.php:56
 #: templates/wc-cart-shipping-calc.php:68
 msgid "State / County"
-msgstr ""
+msgstr "州 / 县"
 
 # @ woocommerce
 #: templates/wc-cart-shipping-calc.php:57
@@ -21954,7 +21978,7 @@ msgstr "评分"
 
 #: templates/wc-catalog-ordering.php:64 templates/wc-catalog-ordering.php:86
 msgid "Relevance"
-msgstr ""
+msgstr "关联"
 
 #. translators: Name, Price, Date etc.
 #. translators: Relevance, Price, Date etc.
