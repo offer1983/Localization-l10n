@@ -4,290 +4,290 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Fusion Core 3.1.6\n"
 "Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/fusion-core\n"
-"POT-Creation-Date: 2021-12-15 12:03:07+00:00\n"
-"PO-Revision-Date: 2017-06-22 11:03+0300\n"
+"POT-Creation-Date: 2022-01-17 11:27:34+00:00\n"
+"PO-Revision-Date: 2022-04-03 19:21+0800\n"
 "Last-Translator: Aristeides <info@theme-fusion.com>\n"
 "Language-Team: Chinese (simplified)\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: grunt-wp-i18n1.0.0\n"
+"X-Generator: Poedit 3.0.1\n"
 
 #: fusion-slider/class-fusion-slider.php:109
 #: fusion-slider/class-fusion-slider.php:143
 #: shortcodes/fusion-fusionslider.php:669
 msgid "Avada Slider"
-msgstr ""
+msgstr "Avada滑块"
 
 #: fusion-slider/class-fusion-slider.php:110
 #: includes/class-fusioncore-plugin.php:536
 msgid "Parent Slide:"
-msgstr ""
+msgstr "父级幻灯片："
 
 #: fusion-slider/class-fusion-slider.php:111
 #: includes/class-fusioncore-plugin.php:537
 msgid "Add or Edit Slides"
-msgstr ""
+msgstr "添加或编辑幻灯片"
 
 #: fusion-slider/class-fusion-slider.php:112
 msgid "View Slide"
-msgstr ""
+msgstr "查看幻灯片"
 
 #: fusion-slider/class-fusion-slider.php:113
 #: fusion-slider/class-fusion-slider.php:114
 #: includes/class-fusioncore-plugin.php:539
 #: includes/class-fusioncore-plugin.php:540
 msgid "Add New Slide"
-msgstr ""
+msgstr "添加新幻灯片"
 
 #: fusion-slider/class-fusion-slider.php:115
 #: includes/class-fusioncore-plugin.php:541
 msgid "Edit Slide"
-msgstr ""
+msgstr "编辑幻灯片"
 
 #: fusion-slider/class-fusion-slider.php:116
 #: includes/class-fusioncore-plugin.php:542
 msgid "Update Slide"
-msgstr ""
+msgstr "更新幻灯片"
 
 #: fusion-slider/class-fusion-slider.php:117
 #: includes/class-fusioncore-plugin.php:543
 msgid "Search Slide"
-msgstr ""
+msgstr "搜索幻灯片"
 
 #: fusion-slider/class-fusion-slider.php:118
 #: includes/class-fusioncore-plugin.php:544
 msgid "Not found"
-msgstr ""
+msgstr "未找到"
 
 #: fusion-slider/class-fusion-slider.php:119
 #: includes/class-fusioncore-plugin.php:545
 msgid "Not found in Trash"
-msgstr ""
+msgstr "在\"废纸篓\"中找不到"
 
 #: fusion-slider/class-fusion-slider.php:120
 #: includes/class-fusioncore-plugin.php:546
 msgid "Slide published."
-msgstr ""
+msgstr "幻灯片已发布。"
 
 #: fusion-slider/class-fusion-slider.php:121
 #: includes/class-fusioncore-plugin.php:547
 msgid "Slide published privately."
-msgstr ""
+msgstr "私下发布的幻灯片。"
 
 #: fusion-slider/class-fusion-slider.php:122
 #: includes/class-fusioncore-plugin.php:548
 msgid "Slide reverted to draft."
-msgstr ""
+msgstr "幻灯片已恢复为草稿。"
 
 #: fusion-slider/class-fusion-slider.php:123
 #: includes/class-fusioncore-plugin.php:549
 msgid "Slide scheduled."
-msgstr ""
+msgstr "已排定幻灯片。"
 
 #: fusion-slider/class-fusion-slider.php:124
 #: includes/class-fusioncore-plugin.php:550
 msgid "Slide updated."
-msgstr ""
+msgstr "幻灯片已更新。"
 
 #: fusion-slider/class-fusion-slider.php:142
 #: fusion-slider/class-fusion-slider.php:299
 #: fusion-slider/class-fusion-slider.php:301
 #: fusion-slider/class-fusion-slider.php:430
 msgid "Avada Sliders"
-msgstr ""
+msgstr "Avada滑块"
 
 #: fusion-slider/class-fusion-slider.php:144
 msgid "Add or Edit Sliders"
-msgstr ""
+msgstr "添加或编辑滑块"
 
 #: fusion-slider/class-fusion-slider.php:145
 msgid "All Sliders"
-msgstr ""
+msgstr "所有滑块"
 
 #: fusion-slider/class-fusion-slider.php:146
 msgid "Parent Slider:"
-msgstr ""
+msgstr "父级滑块："
 
 #: fusion-slider/class-fusion-slider.php:147
 msgid "New Slider Name"
-msgstr ""
+msgstr "新滑块名称"
 
 #: fusion-slider/class-fusion-slider.php:148
 msgid "Add Slider"
-msgstr ""
+msgstr "添加滑块"
 
 #: fusion-slider/class-fusion-slider.php:149
 msgid "Edit Slider"
-msgstr ""
+msgstr "编辑滑块"
 
 #: fusion-slider/class-fusion-slider.php:150
 msgid "Update Slider"
-msgstr ""
+msgstr "更新滑块"
 
 #: fusion-slider/class-fusion-slider.php:151
 msgid "Separate sliders with commas"
-msgstr ""
+msgstr "用逗号分隔滑块"
 
 #: fusion-slider/class-fusion-slider.php:152
 msgid "Search Sliders"
-msgstr ""
+msgstr "搜索滑块"
 
 #: fusion-slider/class-fusion-slider.php:153
 msgid "Add or remove sliders"
-msgstr ""
+msgstr "添加或删除滑块"
 
 #: fusion-slider/class-fusion-slider.php:154
 msgid "Choose from the most used sliders"
-msgstr ""
+msgstr "从最常用的滑块中进行选择"
 
 #: fusion-slider/class-fusion-slider.php:155
 #: includes/class-fusioncore-plugin.php:576
 msgid "Not Found"
-msgstr ""
+msgstr "未找到"
 
 #: fusion-slider/class-fusion-slider.php:299
 #: fusion-slider/class-fusion-slider.php:382
 #: fusion-slider/class-fusion-slider.php:388
 msgid "Sliders"
-msgstr ""
+msgstr "滑块"
 
 #: fusion-slider/class-fusion-slider.php:302
 #: fusion-slider/class-fusion-slider.php:438
 msgid "Avada Slides"
-msgstr ""
+msgstr "Avada幻灯片"
 
 #: fusion-slider/class-fusion-slider.php:305
 msgid "Export / Import"
-msgstr ""
+msgstr "出口/进口"
 
 #: fusion-slider/class-fusion-slider.php:389
 msgid "Edit your Avada Sliders."
-msgstr ""
+msgstr "编辑您的  滑块。"
 
 #: fusion-slider/class-fusion-slider.php:397
 msgid "Slides"
-msgstr ""
+msgstr "幻灯片"
 
 #: fusion-slider/class-fusion-slider.php:398
 msgid "Edit your Avada Slides."
-msgstr ""
+msgstr "编辑您的  幻灯片。"
 
 #: fusion-slider/class-fusion-slider.php:406
 msgid "Export / Import Sliders"
-msgstr ""
+msgstr "导出/导入滑块"
 
 #: fusion-slider/class-fusion-slider.php:407
 msgid "Export & import your Avada sliders."
-msgstr ""
+msgstr "导出和导入您的  滑块。"
 
 #. translators: %s: "Slides Page Link".
 #: fusion-slider/class-fusion-slider.php:433
 msgid "To edit single slides, please go to the %s."
-msgstr ""
+msgstr "要编辑单张幻灯片，请转到%s。"
 
 #: fusion-slider/class-fusion-slider.php:434
 msgid "Slides Page"
-msgstr ""
+msgstr "幻灯片页面"
 
 #. translators: %s: "Slides Page Link".
 #: fusion-slider/class-fusion-slider.php:441
 msgid "To edit sliders, please go to the  %s."
-msgstr ""
+msgstr "要编辑滑块，请转到%s。"
 
 #: fusion-slider/class-fusion-slider.php:442
 msgid "Sliders Page"
-msgstr ""
+msgstr "滑块页面"
 
 #: fusion-slider/class-fusion-slider.php:457
 msgid ""
 "Create stunning sliders that seamlessly integrate with your pages built with "
 "the Avada Website Builder."
-msgstr ""
+msgstr "创建令人惊叹的滑块，与使用  建站神器构建的页面无缝集成。"
 
 #: fusion-slider/class-fusion-slider.php:662
 msgid "Error: Sliders could not be exported"
-msgstr ""
+msgstr "错误：无法导出滑块"
 
 #: fusion-slider/class-fusion-slider.php:663
 msgid "Please make sure wp-content/uploads folder is writeable."
-msgstr ""
+msgstr "请确保wp内容/上传文件夹是可写的。"
 
 #: fusion-slider/class-fusion-slider.php:968
 msgid "Error: No file to import"
-msgstr ""
+msgstr "错误：没有要导入的文件"
 
 #: fusion-slider/class-fusion-slider.php:969
 msgid ""
 "Please make sure to upload a zip file containing valid Avada Slider export "
 "data."
-msgstr ""
+msgstr "请确保上传包含有效  滑块导出数据的 zip 文件。"
 
 #: fusion-slider/class-fusion-slider.php:1026
 #: fusion-slider/templates/clone-button-after-title.php:19
 msgid "Clone this slide"
-msgstr ""
+msgstr "克隆此幻灯片"
 
 #: fusion-slider/class-fusion-slider.php:1026
 #: fusion-slider/class-fusion-slider.php:1047
 msgid "Clone"
-msgstr ""
+msgstr "克隆"
 
 #: fusion-slider/class-fusion-slider.php:1047
 msgid "Clone this slider"
-msgstr ""
+msgstr "克隆此滑块"
 
 #. translators: The term title.
 #. translators: The post title.
 #: fusion-slider/class-fusion-slider.php:1098
 #: fusion-slider/class-fusion-slider.php:1220
 msgid "%s ( Cloned )"
-msgstr ""
+msgstr "%s （ 克隆 ）"
 
 #: fusion-slider/class-fusion-slider.php:1168
 msgid "No slide to clone."
-msgstr ""
+msgstr "没有要克隆的幻灯片。"
 
 #. translators: The ID found.
 #: fusion-slider/class-fusion-slider.php:1188
 msgid "Cloning failed. Post not found. ID: %s"
-msgstr ""
+msgstr "克隆失败。未找到帖子。ID： %s"
 
 #: fusion-slider/templates/add-new-meta-fields.php:13
 #: fusion-slider/templates/edit-meta-fields.php:13
 msgid "Slider Size"
-msgstr ""
+msgstr "滑块大小"
 
 #: fusion-slider/templates/add-new-meta-fields.php:24
 #: fusion-slider/templates/edit-meta-fields.php:25
 msgid "Enter a pixel value for width and height, ex: 1000px"
-msgstr ""
+msgstr "输入宽度和高度的像素值，例如：1000px"
 
 #: fusion-slider/templates/add-new-meta-fields.php:27
 #: fusion-slider/templates/edit-meta-fields.php:29
 msgid "Slider Content Max Width"
-msgstr ""
+msgstr "滑块内容最大宽度"
 
 #: fusion-slider/templates/add-new-meta-fields.php:29
 #: fusion-slider/templates/edit-meta-fields.php:32
 msgid ""
 "Controls the content width. In pixels, ex: 850px. Leave blank for site width."
-msgstr ""
+msgstr "控制内容宽度。以像素为单位，例如：850px。将网站宽度留空。"
 
 #: fusion-slider/templates/add-new-meta-fields.php:32
 #: fusion-slider/templates/edit-meta-fields.php:36
 msgid "Full Screen Slider"
-msgstr ""
+msgstr "全屏滑块"
 
 #: fusion-slider/templates/add-new-meta-fields.php:36
 msgid "Check this option if you want full width and height of the screen."
-msgstr ""
+msgstr "如果需要屏幕的全宽和全高，请选中此选项。"
 
 #: fusion-slider/templates/add-new-meta-fields.php:40
 #: fusion-slider/templates/edit-meta-fields.php:46
 msgid "Parallax Scrolling Effect"
-msgstr ""
+msgstr "视差滚动效果"
 
 #: fusion-slider/templates/add-new-meta-fields.php:44
 #: fusion-slider/templates/edit-meta-fields.php:51
@@ -298,11 +298,14 @@ msgid ""
 "margin which is based on the overall header size. ex: 500px will show as "
 "415px. Please adjust accordingly."
 msgstr ""
+"选中此框以启用视差滚动效果。这仅在页面选项中分配滑块时有效，而不适用于元素。"
+"启用后，您输入的滑块高度将不准确，因为负边距基于整体标头大小。例如：500px 将"
+"显示为 415px。请进行相应调整。"
 
 #: fusion-slider/templates/add-new-meta-fields.php:48
 #: fusion-slider/templates/edit-meta-fields.php:58
 msgid "Slider Indicator"
-msgstr ""
+msgstr "滑块指示器"
 
 #: fusion-slider/templates/add-new-meta-fields.php:50
 #: fusion-slider/templates/edit-meta-fields.php:61
@@ -315,196 +318,196 @@ msgstr ""
 #: shortcodes/fusion-portfolio.php:1697 shortcodes/fusion-portfolio.php:2210
 #: shortcodes/fusion-portfolio.php:2411
 msgid "None"
-msgstr ""
+msgstr "没有"
 
 #: fusion-slider/templates/add-new-meta-fields.php:51
 #: fusion-slider/templates/edit-meta-fields.php:62
 msgid "Scroll Down Indicator"
-msgstr ""
+msgstr "向下滚动指示器"
 
 #: fusion-slider/templates/add-new-meta-fields.php:52
 #: fusion-slider/templates/edit-meta-fields.php:63
 msgid "Pagination Circles"
-msgstr ""
+msgstr "分页圆圈"
 
 #: fusion-slider/templates/add-new-meta-fields.php:54
 #: fusion-slider/templates/edit-meta-fields.php:65
 msgid ""
 "Choose do you want to display pagination circler or scroll down indicator."
-msgstr ""
+msgstr "选择是否要显示分页圆圈或向下滚动指示器。"
 
 #: fusion-slider/templates/add-new-meta-fields.php:57
 #: fusion-slider/templates/edit-meta-fields.php:69
 msgid "Slider Indicator Color"
-msgstr ""
+msgstr "滑块指示器颜色"
 
 #. translators: The default value.
 #: fusion-slider/templates/add-new-meta-fields.php:60
 #: fusion-slider/templates/edit-meta-fields.php:73
 msgid "Default: %s"
-msgstr ""
+msgstr "默认值：%s"
 
 #. translators: The default value text.
 #: fusion-slider/templates/add-new-meta-fields.php:62
 #: fusion-slider/templates/edit-meta-fields.php:75
 msgid ""
 "Select a color for the slider indicator icon. Hex color code, ex: #fff. %s"
-msgstr ""
+msgstr "为滑块指示器图标选择一种颜色。十六进制颜色代码，例如：#fff. %s"
 
 #: fusion-slider/templates/add-new-meta-fields.php:65
 #: fusion-slider/templates/edit-meta-fields.php:80
 msgid "Display Navigation Arrows"
-msgstr ""
+msgstr "显示导航箭头"
 
 #: fusion-slider/templates/add-new-meta-fields.php:69
 #: fusion-slider/templates/edit-meta-fields.php:85
 msgid "Check this box to display the navigation arrows."
-msgstr ""
+msgstr "选中此框以显示导航箭头。"
 
 #: fusion-slider/templates/add-new-meta-fields.php:73
 #: fusion-slider/templates/edit-meta-fields.php:90
 msgid "Navigation Arrow Size"
-msgstr ""
+msgstr "导航箭头大小"
 
 #: fusion-slider/templates/add-new-meta-fields.php:75
 #: fusion-slider/templates/edit-meta-fields.php:93
 msgid "Enter a pixel value for the arrow size, ex: 14px"
-msgstr ""
+msgstr "输入箭头大小的像素值，例如：14px"
 
 #: fusion-slider/templates/add-new-meta-fields.php:78
 #: fusion-slider/templates/edit-meta-fields.php:97
 msgid "Navigation Box Size"
-msgstr ""
+msgstr "导航框大小"
 
 #: fusion-slider/templates/add-new-meta-fields.php:89
 msgid "Enter a pixel value for width and height, ex: 40px"
-msgstr ""
+msgstr "输入宽度和高度的像素值，例如：40px"
 
 #: fusion-slider/templates/add-new-meta-fields.php:92
 #: fusion-slider/templates/edit-meta-fields.php:114
 msgid "Slideshow Speed"
-msgstr ""
+msgstr "幻灯片放映速度"
 
 #: fusion-slider/templates/add-new-meta-fields.php:94
 #: fusion-slider/templates/edit-meta-fields.php:117
 msgid "Controls the speed of the slideshow. 1000 = 1 second."
-msgstr ""
+msgstr "控制幻灯片放映的速度。1000 = 1 秒。"
 
 #: fusion-slider/templates/add-new-meta-fields.php:97
 #: fusion-slider/templates/edit-meta-fields.php:121
 msgid "Slide Loop"
-msgstr ""
+msgstr "滑动环"
 
 #: fusion-slider/templates/add-new-meta-fields.php:101
 #: fusion-slider/templates/edit-meta-fields.php:126
 msgid "Check this box to have the slider loop infinitely."
-msgstr ""
+msgstr "选中此框可使滑块无限循环。"
 
 #: fusion-slider/templates/add-new-meta-fields.php:105
 #: fusion-slider/templates/edit-meta-fields.php:131
 msgid "Autoplay"
-msgstr ""
+msgstr "自动播放"
 
 #: fusion-slider/templates/add-new-meta-fields.php:109
 #: fusion-slider/templates/edit-meta-fields.php:136
 msgid "Check this box to autoplay the slides."
-msgstr ""
+msgstr "选中此框可自动播放幻灯片。"
 
 #: fusion-slider/templates/add-new-meta-fields.php:113
 #: fusion-slider/templates/edit-meta-fields.php:141
 #: shortcodes/fusion-faq.php:985 shortcodes/fusion-portfolio.php:2456
 msgid "Order By"
-msgstr ""
+msgstr "排序方式"
 
 #: fusion-slider/templates/add-new-meta-fields.php:115
 #: fusion-slider/templates/edit-meta-fields.php:144
 #: shortcodes/fusion-faq.php:990 shortcodes/fusion-portfolio.php:2461
 msgid "Date"
-msgstr ""
+msgstr "日期"
 
 #: fusion-slider/templates/add-new-meta-fields.php:116
 #: fusion-slider/templates/edit-meta-fields.php:145
 msgid "ID"
-msgstr ""
+msgstr "用户名"
 
 #: fusion-slider/templates/add-new-meta-fields.php:117
 #: fusion-slider/templates/edit-meta-fields.php:146
 msgid "Title"
-msgstr ""
+msgstr "标题"
 
 #: fusion-slider/templates/add-new-meta-fields.php:118
 #: fusion-slider/templates/edit-meta-fields.php:147
 msgid "Modified"
-msgstr ""
+msgstr "调整"
 
 #: fusion-slider/templates/add-new-meta-fields.php:119
 #: fusion-slider/templates/edit-meta-fields.php:148
 #: shortcodes/fusion-faq.php:996 shortcodes/fusion-portfolio.php:2468
 msgid "Random"
-msgstr ""
+msgstr "随机"
 
 #: fusion-slider/templates/add-new-meta-fields.php:121
 #: fusion-slider/templates/edit-meta-fields.php:150
 msgid "Defines how the slides should be ordered."
-msgstr ""
+msgstr "定义幻灯片的排序方式。"
 
 #: fusion-slider/templates/add-new-meta-fields.php:124
 #: fusion-slider/templates/edit-meta-fields.php:154
 #: shortcodes/fusion-faq.php:1006 shortcodes/fusion-portfolio.php:2478
 msgid "Order"
-msgstr ""
+msgstr "次序"
 
 #: fusion-slider/templates/add-new-meta-fields.php:126
 #: fusion-slider/templates/edit-meta-fields.php:157
 #: shortcodes/fusion-faq.php:1011 shortcodes/fusion-portfolio.php:2483
 msgid "Descending"
-msgstr ""
+msgstr "降序"
 
 #: fusion-slider/templates/add-new-meta-fields.php:127
 #: fusion-slider/templates/edit-meta-fields.php:158
 #: shortcodes/fusion-faq.php:1012 shortcodes/fusion-portfolio.php:2484
 msgid "Ascending"
-msgstr ""
+msgstr "升序"
 
 #: fusion-slider/templates/add-new-meta-fields.php:129
 #: fusion-slider/templates/edit-meta-fields.php:160
 msgid "Defines the sorting order of the slides."
-msgstr ""
+msgstr "定义幻灯片的排序顺序。"
 
 #: fusion-slider/templates/add-new-meta-fields.php:132
 #: fusion-slider/templates/edit-meta-fields.php:164
 msgid "Animation"
-msgstr ""
+msgstr "动画"
 
 #: fusion-slider/templates/add-new-meta-fields.php:134
 msgid "Fade"
-msgstr ""
+msgstr "褪色"
 
 #: fusion-slider/templates/add-new-meta-fields.php:135
 msgid "Slide"
-msgstr ""
+msgstr "滑"
 
 #: fusion-slider/templates/add-new-meta-fields.php:138
 #: fusion-slider/templates/edit-meta-fields.php:171
 msgid "The type of animation when slides rotate."
-msgstr ""
+msgstr "幻灯片旋转时的动画类型。"
 
 #: fusion-slider/templates/add-new-meta-fields.php:142
 #: fusion-slider/templates/edit-meta-fields.php:176
 msgid "Animation Speed"
-msgstr ""
+msgstr "动画速度"
 
 #: fusion-slider/templates/add-new-meta-fields.php:144
 #: fusion-slider/templates/edit-meta-fields.php:179
 msgid ""
 "Controls the speed of the slide transition from slide to slide. 1000 = 1 "
 "second."
-msgstr ""
+msgstr "控制幻灯片从一张幻灯片到另一张幻灯片的切换速度。1000 = 1 秒。"
 
 #: fusion-slider/templates/add-new-meta-fields.php:147
 #: fusion-slider/templates/edit-meta-fields.php:183
 msgid "Responsive Typography Sensitivity"
-msgstr ""
+msgstr "响应式排版灵敏度"
 
 #: fusion-slider/templates/add-new-meta-fields.php:149
 #: fusion-slider/templates/edit-meta-fields.php:186
@@ -512,69 +515,74 @@ msgid ""
 "Enter a value between <code>0</code> and <code>1</code>. ex: <code>0.1</"
 "code>."
 msgstr ""
+"输入一个介于 <code>0</code> 和 <code>1</code> 之间的值。例如：<code>0.1</"
+"code>。"
 
 #: fusion-slider/templates/add-new-meta-fields.php:152
 #: fusion-slider/templates/edit-meta-fields.php:190
 msgid "Minimum Font Size Factor"
-msgstr ""
+msgstr "最小字体大小因子"
 
 #: fusion-slider/templates/add-new-meta-fields.php:154
 #: fusion-slider/templates/edit-meta-fields.php:193
 msgid ""
 "The minimum font-size of elements affected by responsive typography is body "
 "font-size multiplied by this factor."
-msgstr ""
+msgstr "受响应式版式影响的元素的最小字体大小是正文字体大小乘以此系数。"
 
 #: fusion-slider/templates/clone-button-edit-form.php:12
 #: fusion-slider/templates/clone-button-edit-form.php:13
 msgid "Clone This Slider"
-msgstr ""
+msgstr "克隆此滑块"
 
 #: fusion-slider/templates/edit-meta-fields.php:41
 msgid ""
 "Check this option if you want full width and height of the screen. NOTE: "
 "This option is available on slider shortcodes as 'Full Height'."
 msgstr ""
+"如果需要屏幕的全宽和全高，请选中此选项。注意：此选项在滑块短代码中可用为\"全"
+"高\"。"
 
 #: fusion-slider/templates/edit-meta-fields.php:110
 msgid ""
 "Enter a pixel for height. Width accepts pixel and percentage values., ex: "
 "40px"
-msgstr ""
+msgstr "输入像素作为高度。宽度接受像素和百分比值，例如：40px"
 
 #: fusion-slider/templates/export-import-sliders.php:12
 msgid "Export and Import Avada Sliders"
-msgstr ""
+msgstr "导出和导入  滑块"
 
 #: fusion-slider/templates/export-import-sliders.php:13
 msgid ""
 "Export your Avada Sliders to use them on a different install or import the "
 "slider zip to add sliders to this install."
 msgstr ""
+"导出  滑块以在其他安装上使用它们，或导入滑块 zip 以将滑块添加到此安装中。"
 
 #: fusion-slider/templates/export-import-sliders.php:18
 msgid "Export"
-msgstr ""
+msgstr "导出"
 
 #: fusion-slider/templates/export-import-sliders.php:22
 msgid "Sliders will be exported in zip format."
-msgstr ""
+msgstr "滑块将以 zip 格式导出。"
 
 #: fusion-slider/templates/export-import-sliders.php:24
 msgid "Export All Sliders"
-msgstr ""
+msgstr "导出所有滑块"
 
 #: fusion-slider/templates/export-import-sliders.php:31
 msgid "Import"
-msgstr ""
+msgstr "导入"
 
 #: fusion-slider/templates/export-import-sliders.php:37
 msgid "Upload And Import"
-msgstr ""
+msgstr "上传和导入"
 
 #: fusion-slider/templates/slider.php:47 shortcodes/fusion-fusionslider.php:203
 msgid "Loading..."
-msgstr ""
+msgstr "装载。。。"
 
 #. Translators: 1 is the required WordPress version and 2 is the user's current
 #. version.
@@ -582,7 +590,7 @@ msgstr ""
 msgid ""
 "Avada Core requires at least WordPress version %1$s. You are running version "
 "%2$s. Please upgrade and try again."
-msgstr ""
+msgstr " Core至少需要WordPress版本%1$s。您运行的是版本 %2$s。请升级并重试。"
 
 #. Translators: 1 is the required PHP version and 2 is the user's current
 #. version.
@@ -590,287 +598,292 @@ msgstr ""
 msgid ""
 "Avada Core requires at least PHP version %1$s. You are running version %2$s. "
 "Please upgrade and try again."
-msgstr ""
+msgstr " Core 至少需要 PHP 版本 %1$s。您运行的是版本 %2$s。请升级并重试。"
 
 #: includes/bootstrap.php:138
 msgid "Image"
-msgstr ""
+msgstr "图像"
 
 #: includes/class-fusion-contact.php:205
 msgid ""
 "By checking this box, you confirm that you have read and are agreeing to our "
 "terms of use regarding the storage of the data submitted through this form."
 msgstr ""
+"选中此框，即表示您确认您已阅读并同意我们关于存储通过此表单提交的数据的使用条"
+"款。"
 
 #: includes/class-fusion-contact.php:257
 msgid ""
 "Please check if you've filled all the fields with valid information. Thank "
 "you."
-msgstr ""
+msgstr "请检查您是否已使用有效信息填写了所有字段。谢谢。"
 
 #: includes/class-fusion-contact.php:259
 msgid ""
 "Please check if you've filled all the fields with valid information and that "
 "the data privacy terms confirmation box is checked. Thank you."
 msgstr ""
+"请检查您是否已使用有效信息填写了所有字段，以及是否选中了数据隐私条款确认框。"
+"谢谢。"
 
 #: includes/class-fusion-contact.php:273 includes/class-fusion-contact.php:562
 msgid "Name (required)"
-msgstr ""
+msgstr "姓名（必填）"
 
 #: includes/class-fusion-contact.php:302 includes/class-fusion-contact.php:563
 msgid "Email (required)"
-msgstr ""
+msgstr "电子邮件 （必填）"
 
 #: includes/class-fusion-contact.php:324 includes/class-fusion-contact.php:557
 #: includes/class-fusion-contact.php:569
 msgid "Message"
-msgstr ""
+msgstr "消息"
 
 #: includes/class-fusion-contact.php:388
 msgid ""
 "Sorry, reCAPTCHA could not verify that you are a human. Please try again."
-msgstr ""
+msgstr "抱歉，reCAPTCHA 无法验证您是人类。请重试。"
 
 #: includes/class-fusion-contact.php:390
 msgid ""
 "reCAPTCHA configuration error. Please check the Global Options settings and "
 "your reCAPTCHA account settings."
-msgstr ""
+msgstr "重新验证码配置错误。请检查全局选项设置和您的reCAPTCHA帐户设置。"
 
 #: includes/class-fusion-contact.php:408
 msgid "confirmed"
-msgstr ""
+msgstr "证实"
 
 #. translators: The name.
 #: includes/class-fusion-contact.php:418
 msgid "Name: %s"
-msgstr ""
+msgstr "名称： %s"
 
 #. translators: The email.
 #: includes/class-fusion-contact.php:420
 msgid "Email: %s"
-msgstr ""
+msgstr "电子邮件： %s"
 
 #. translators: The subject.
 #: includes/class-fusion-contact.php:422
 msgid "Subject: %s"
-msgstr ""
+msgstr "主题： %s"
 
 #. translators: The comments.
 #: includes/class-fusion-contact.php:424
 msgid "Message: %s"
-msgstr ""
+msgstr "消息： %s"
 
 #. translators: The data privacy terms.
 #: includes/class-fusion-contact.php:428
 msgid "Data Privacy Terms: %s"
-msgstr ""
+msgstr "数据隐私条款： %s"
 
 #: includes/class-fusion-contact.php:498 includes/class-fusion-contact.php:501
 msgid ""
 "Form email address is not set in Global Options. Please fill in a valid "
 "address to make contact form work."
 msgstr ""
+"\"全局选项\"中未设置表单电子邮件地址。请填写有效的地址，使联系表格正常工作。"
 
 #. translators: The name from the contact form.
 #: includes/class-fusion-contact.php:524 includes/class-fusion-contact.php:534
 msgid ""
 "Thank you %s for using our contact form! Your email was successfully sent!"
-msgstr ""
+msgstr "感谢您使用我们的联系表格！您的电子邮件已成功发送！"
 
 #: includes/class-fusion-contact.php:564
 msgid "Subject"
-msgstr ""
+msgstr "主题"
 
 #: includes/class-fusion-contact.php:596
 msgid "Submit Form"
-msgstr ""
+msgstr "提交表格"
 
 #: includes/class-fusion-portfolio.php:91
 msgid "All items displayed."
-msgstr ""
+msgstr "显示的所有项目。"
 
 #: includes/class-fusion-portfolio.php:92
 msgid "Loading the next set of posts..."
-msgstr ""
+msgstr "正在加载下一组帖子..."
 
 #: includes/class-fusioncore-plugin.php:409
 msgid "Add New Portfolio Post"
-msgstr ""
+msgstr "添加新的投资组合帖子"
 
 #: includes/class-fusioncore-plugin.php:410
 msgid "Edit Portfolio Post"
-msgstr ""
+msgstr "编辑投资组合帖子"
 
 #: includes/class-fusioncore-plugin.php:411
 msgid "Portfolio published."
-msgstr ""
+msgstr "作品集已发布。"
 
 #: includes/class-fusioncore-plugin.php:412
 msgid "Portfolio published privately."
-msgstr ""
+msgstr "私下发布的作品集。"
 
 #: includes/class-fusioncore-plugin.php:413
 msgid "Portfolio reverted to draft."
-msgstr ""
+msgstr "作品集恢复为草稿。"
 
 #: includes/class-fusioncore-plugin.php:414
 msgid "Portfolio scheduled."
-msgstr ""
+msgstr "已计划的项目组合。"
 
 #: includes/class-fusioncore-plugin.php:415
 msgid "Portfolio updated."
-msgstr ""
+msgstr "投资组合已更新。"
 
 #: includes/class-fusioncore-plugin.php:433
 msgid "Portfolio Categories"
-msgstr ""
+msgstr "投资组合类别"
 
 #: includes/class-fusioncore-plugin.php:448
 msgid "Portfolio Skills"
-msgstr ""
+msgstr "投资组合技能"
 
 #: includes/class-fusioncore-plugin.php:451
 msgid "Add New Skill"
-msgstr ""
+msgstr "添加新技能"
 
 #: includes/class-fusioncore-plugin.php:466
 msgid "Portfolio Tags"
-msgstr ""
+msgstr "投资组合标签"
 
 #: includes/class-fusioncore-plugin.php:485
 msgid "Add New FAQ Post"
-msgstr ""
+msgstr "添加新的常见问题解答帖子"
 
 #: includes/class-fusioncore-plugin.php:486
 msgid "Edit FAQ Post"
-msgstr ""
+msgstr "编辑常见问题帖子"
 
 #: includes/class-fusioncore-plugin.php:487
 msgid "FAQ published."
-msgstr ""
+msgstr "常见问题解答已发布。"
 
 #: includes/class-fusioncore-plugin.php:488
 msgid "FAQ published privately."
-msgstr ""
+msgstr "私下发布的常见问题解答。"
 
 #: includes/class-fusioncore-plugin.php:489
 msgid "FAQ reverted to draft."
-msgstr ""
+msgstr "常见问题解答已恢复为草稿。"
 
 #: includes/class-fusioncore-plugin.php:490
 msgid "FAQ scheduled."
-msgstr ""
+msgstr "常见问题解答已安排。"
 
 #: includes/class-fusioncore-plugin.php:491
 msgid "FAQ updated."
-msgstr ""
+msgstr "常见问题解答已更新。"
 
 #: includes/class-fusioncore-plugin.php:509
 msgid "FAQ Categories"
-msgstr ""
+msgstr "常见问题 分类"
 
 #: includes/class-fusioncore-plugin.php:535
 msgid "Elastic Slider"
-msgstr ""
+msgstr "弹性滑块"
 
 #: includes/class-fusioncore-plugin.php:538
 msgid "View Slides"
-msgstr ""
+msgstr "查看幻灯片"
 
 #: includes/class-fusioncore-plugin.php:565
 msgid "Add or Edit Groups"
-msgstr ""
+msgstr "添加或编辑组"
 
 #: includes/class-fusioncore-plugin.php:566
 msgid "All Groups"
-msgstr ""
+msgstr "所有组"
 
 #: includes/class-fusioncore-plugin.php:567
 msgid "Parent Group:"
-msgstr ""
+msgstr "父级："
 
 #: includes/class-fusioncore-plugin.php:568
 msgid "New Group Name"
-msgstr ""
+msgstr "新组名称"
 
 #: includes/class-fusioncore-plugin.php:569
 msgid "Add Groups"
-msgstr ""
+msgstr "添加组"
 
 #: includes/class-fusioncore-plugin.php:570
 msgid "Edit Group"
-msgstr ""
+msgstr "编辑组"
 
 #: includes/class-fusioncore-plugin.php:571
 msgid "Update Group"
-msgstr ""
+msgstr "更新组"
 
 #: includes/class-fusioncore-plugin.php:572
 msgid "Separate groups with commas"
-msgstr ""
+msgstr "用逗号分隔组"
 
 #: includes/class-fusioncore-plugin.php:573
 msgid "Search Groups"
-msgstr ""
+msgstr "搜索组"
 
 #: includes/class-fusioncore-plugin.php:574
 msgid "Add or remove groups"
-msgstr ""
+msgstr "添加或删除组"
 
 #: includes/class-fusioncore-plugin.php:575
 msgid "Choose from the most used groups"
-msgstr ""
+msgstr "从最常用的组中进行选择"
 
 #: includes/class-fusioncore-plugin.php:1060
 #: includes/class-fusioncore-plugin.php:1102
 msgid "ThemeFusion News"
-msgstr ""
+msgstr "ThemeFusion 新闻"
 
 #: includes/class-fusioncore-plugin.php:1114
 msgid "Avada Logo"
-msgstr ""
+msgstr "Avada标志"
 
 #. translators: Item price.
 #: includes/class-fusioncore-plugin.php:1124
 msgid "Only %s - Buy Now"
-msgstr ""
+msgstr "仅 %s - 立即购买"
 
 #. translators: Item price.
 #: includes/class-fusioncore-plugin.php:1128
 msgid "On Sale - Only %s"
-msgstr ""
+msgstr "促销 - 仅 %s"
 
 #: includes/class-fusioncore-plugin.php:1132
 msgid "Buy Another License"
-msgstr ""
+msgstr "购买其他许可证"
 
 #: includes/class-fusioncore-plugin.php:1141
 msgid "Blog"
-msgstr ""
+msgstr "博客"
 
 #: includes/class-fusioncore-plugin.php:1141
 #: includes/class-fusioncore-plugin.php:1142
 #: includes/class-fusioncore-plugin.php:1143
 msgid "(opens in a new window)"
-msgstr ""
+msgstr "（在新窗口中打开）"
 
 #: includes/class-fusioncore-plugin.php:1142
 msgid "Docs"
-msgstr ""
+msgstr "文档"
 
 #: includes/class-fusioncore-plugin.php:1143
 msgid "Ticket"
-msgstr ""
+msgstr "工单"
 
 #: includes/widget/class-fusion-widget-ad-125-125.php:31
 msgid "Add 125x125 ads."
-msgstr ""
+msgstr "添加 125x125 广告。"
 
 #: includes/widget/class-fusion-widget-ad-125-125.php:37
 msgid "Avada: 125x125 Ads"
-msgstr ""
+msgstr "Avada：125x125 广告"
 
 #. translators: Number.
 #: includes/widget/class-fusion-widget-ad-125-125.php:147
@@ -878,97 +891,97 @@ msgstr ""
 #: includes/widget/class-fusion-widget-ad-125-125.php:185
 #: includes/widget/class-fusion-widget-ad-125-125.php:204
 msgid "Ad %s"
-msgstr ""
+msgstr "广告 %s"
 
 #: includes/widget/class-fusion-widget-ad-125-125.php:149
 #: includes/widget/class-fusion-widget-ad-125-125.php:168
 #: includes/widget/class-fusion-widget-ad-125-125.php:187
 #: includes/widget/class-fusion-widget-ad-125-125.php:206
 msgid "Image Ad Link:"
-msgstr ""
+msgstr "图片广告链接："
 
 #: includes/widget/class-fusion-widget-ad-125-125.php:153
 #: includes/widget/class-fusion-widget-ad-125-125.php:172
 #: includes/widget/class-fusion-widget-ad-125-125.php:191
 #: includes/widget/class-fusion-widget-ad-125-125.php:210
 msgid "Ad Link:"
-msgstr ""
+msgstr "广告链接："
 
 #: includes/widget/class-fusion-widget-ad-125-125.php:157
 #: includes/widget/class-fusion-widget-ad-125-125.php:176
 #: includes/widget/class-fusion-widget-ad-125-125.php:195
 #: includes/widget/class-fusion-widget-ad-125-125.php:214
 msgid "Image Hover Type:"
-msgstr ""
+msgstr "图像悬停类型："
 
 #: includes/widget/class-fusion-widget-ad-125-125.php:160
 #: includes/widget/class-fusion-widget-ad-125-125.php:179
 #: includes/widget/class-fusion-widget-ad-125-125.php:198
 #: includes/widget/class-fusion-widget-ad-125-125.php:217
 msgid "Zoom In"
-msgstr ""
+msgstr "放大"
 
 #: includes/widget/class-fusion-widget-ad-125-125.php:161
 #: includes/widget/class-fusion-widget-ad-125-125.php:180
 #: includes/widget/class-fusion-widget-ad-125-125.php:199
 #: includes/widget/class-fusion-widget-ad-125-125.php:218
 msgid "Zoon Out"
-msgstr ""
+msgstr "缩小"
 
 #: includes/widget/class-fusion-widget-ad-125-125.php:162
 #: includes/widget/class-fusion-widget-ad-125-125.php:181
 #: includes/widget/class-fusion-widget-ad-125-125.php:200
 #: includes/widget/class-fusion-widget-ad-125-125.php:219
 msgid "Lift Up"
-msgstr ""
+msgstr "竖起"
 
 #: includes/widget/class-fusion-widget-ad-125-125.php:222
 msgid "General Options"
-msgstr ""
+msgstr "常规选项"
 
 #: includes/widget/class-fusion-widget-ad-125-125.php:224
 #: includes/widget/class-fusion-widget-social-links.php:558
 msgid "Link Target:"
-msgstr ""
+msgstr "链接目标："
 
 #: includes/widget/class-fusion-widget-ad-125-125.php:226
 msgid "_self"
-msgstr ""
+msgstr "_self"
 
 #: includes/widget/class-fusion-widget-ad-125-125.php:227
 msgid "_blank"
-msgstr ""
+msgstr "_blank"
 
 #: includes/widget/class-fusion-widget-author.php:41
 msgid "Display author details."
-msgstr ""
+msgstr "显示作者详细信息。"
 
 #: includes/widget/class-fusion-widget-author.php:47
 msgid "Avada: Author"
-msgstr ""
+msgstr "Avada: 作者"
 
 #: includes/widget/class-fusion-widget-author.php:176
 msgid "Posted by"
-msgstr ""
+msgstr "发布者"
 
 #: includes/widget/class-fusion-widget-author.php:195
 msgid "This author has not yet filled in any details."
-msgstr ""
+msgstr "笔者尚未填写任何细节。"
 
 #. translators: %s: Number.
 #: includes/widget/class-fusion-widget-author.php:197
 msgid "So far the author has created %s blog entries."
-msgstr ""
+msgstr "到目前为止，作者已经创建了%s的博客条目。"
 
 #: includes/widget/class-fusion-widget-author.php:232
 #: includes/widget/class-fusion-widget-tabs.php:353
 msgid "Post Date"
-msgstr ""
+msgstr "发布日期"
 
 #: includes/widget/class-fusion-widget-author.php:286
 #: shortcodes/fusion-faq.php:994 shortcodes/fusion-portfolio.php:2465
 msgid "Author"
-msgstr ""
+msgstr "作者"
 
 #: includes/widget/class-fusion-widget-author.php:300
 msgid ""
@@ -976,6 +989,8 @@ msgid ""
 "want to display a specific author please use the \"Custom Author\" field. "
 "Post date will on be displayed on single posts."
 msgstr ""
+"重要提示：当用于单个帖子时，作者将被自动拉出。如果要显示特定作者，请使用\"自"
+"定义作者\"字段。发布日期将显示在单个帖子上。"
 
 #: includes/widget/class-fusion-widget-author.php:303
 #: includes/widget/class-fusion-widget-contact-info.php:156
@@ -986,47 +1001,47 @@ msgstr ""
 #: includes/widget/class-fusion-widget-tweets.php:283
 #: includes/widget/class-fusion-widget-vertical-menu.php:297
 msgid "Title:"
-msgstr ""
+msgstr "标题："
 
 #: includes/widget/class-fusion-widget-author.php:308
 msgid "Custom Author (username or ID):"
-msgstr ""
+msgstr "自定义作者（用户名或 ID）："
 
 #: includes/widget/class-fusion-widget-author.php:313
 msgid "Avatar:"
-msgstr ""
+msgstr "头像："
 
 #: includes/widget/class-fusion-widget-author.php:315
 msgid "Small"
-msgstr ""
+msgstr "小"
 
 #: includes/widget/class-fusion-widget-author.php:316
 msgid "Medium"
-msgstr ""
+msgstr "中等"
 
 #: includes/widget/class-fusion-widget-author.php:317
 msgid "Large"
-msgstr ""
+msgstr "大"
 
 #: includes/widget/class-fusion-widget-author.php:318
 msgid "XLarge"
-msgstr ""
+msgstr "X大"
 
 #: includes/widget/class-fusion-widget-author.php:324
 msgid "Display Name:"
-msgstr ""
+msgstr "显示名称："
 
 #: includes/widget/class-fusion-widget-author.php:326
 msgid "Name with label"
-msgstr ""
+msgstr "带标签的名称"
 
 #: includes/widget/class-fusion-widget-author.php:327
 msgid "Name only"
-msgstr ""
+msgstr "仅名称"
 
 #: includes/widget/class-fusion-widget-author.php:328
 msgid "Name as widget title"
-msgstr ""
+msgstr "名称作为小部件标题"
 
 #: includes/widget/class-fusion-widget-author.php:329
 #: includes/widget/class-fusion-widget-author.php:363
@@ -1040,167 +1055,167 @@ msgstr ""
 #: shortcodes/fusion-portfolio.php:2565 shortcodes/fusion-portfolio.php:2625
 #: shortcodes/fusion-portfolio.php:2643 shortcodes/fusion-portfolio.php:2661
 msgid "No"
-msgstr ""
+msgstr "不"
 
 #: includes/widget/class-fusion-widget-author.php:335
 msgid "Link to author page"
-msgstr ""
+msgstr "链接到作者页面"
 
 #: includes/widget/class-fusion-widget-author.php:340
 msgid "Display custom author message"
-msgstr ""
+msgstr "显示自定义作者消息"
 
 #: includes/widget/class-fusion-widget-author.php:345
 msgid "Display author biography"
-msgstr ""
+msgstr "显示作者简介"
 
 #: includes/widget/class-fusion-widget-author.php:350
 msgid "Display author social icons"
-msgstr ""
+msgstr "显示作者社交图标"
 
 #: includes/widget/class-fusion-widget-author.php:355
 msgid "Display separator"
-msgstr ""
+msgstr "显示分隔符"
 
 #: includes/widget/class-fusion-widget-author.php:359
 msgid "Display Post Date:"
-msgstr ""
+msgstr "显示发布日期："
 
 #: includes/widget/class-fusion-widget-author.php:361
 msgid "Date with label"
-msgstr ""
+msgstr "带标签的日期"
 
 #: includes/widget/class-fusion-widget-author.php:362
 msgid "Date only"
-msgstr ""
+msgstr "仅日期"
 
 #: includes/widget/class-fusion-widget-contact-info.php:31
 msgid "Adds custom contact information."
-msgstr ""
+msgstr "添加自定义联系人信息。"
 
 #: includes/widget/class-fusion-widget-contact-info.php:36
 msgid "Avada: Contact Info"
-msgstr ""
+msgstr "Avada：联系方式"
 
 #: includes/widget/class-fusion-widget-contact-info.php:67
 #: includes/widget/class-fusion-widget-contact-info.php:164
 msgid "Phone:"
-msgstr ""
+msgstr "电话："
 
 #: includes/widget/class-fusion-widget-contact-info.php:71
 #: includes/widget/class-fusion-widget-contact-info.php:168
 msgid "Mobile:"
-msgstr ""
+msgstr "移动："
 
 #: includes/widget/class-fusion-widget-contact-info.php:75
 #: includes/widget/class-fusion-widget-contact-info.php:172
 msgid "Fax:"
-msgstr ""
+msgstr "传真："
 
 #: includes/widget/class-fusion-widget-contact-info.php:80
 #: includes/widget/class-fusion-widget-contact-info.php:82
 #: includes/widget/class-fusion-widget-contact-info.php:176
 msgid "Email:"
-msgstr ""
+msgstr "电子邮件："
 
 #: includes/widget/class-fusion-widget-contact-info.php:87
 msgid "Web:"
-msgstr ""
+msgstr "蹼："
 
 #: includes/widget/class-fusion-widget-contact-info.php:160
 msgid "Address:"
-msgstr ""
+msgstr "地址："
 
 #: includes/widget/class-fusion-widget-contact-info.php:180
 msgid "Email Link Text:"
-msgstr ""
+msgstr "电子邮件链接文本："
 
 #: includes/widget/class-fusion-widget-contact-info.php:184
 msgid "Website URL (with HTTP(S)):"
-msgstr ""
+msgstr "网站网址（带 HTTP）："
 
 #: includes/widget/class-fusion-widget-contact-info.php:188
 msgid "Website URL Text:"
-msgstr ""
+msgstr "网站网址文本："
 
 #: includes/widget/class-fusion-widget-facebook-page.php:31
 msgid "Adds support for Facebook Page Plugin."
-msgstr ""
+msgstr "添加对 Facebook 公共主页插件的支持。"
 
 #: includes/widget/class-fusion-widget-facebook-page.php:37
 msgid "Avada: Facebook Page Plugin"
-msgstr ""
+msgstr "Avada:  Facebook页面插件"
 
 #: includes/widget/class-fusion-widget-facebook-page.php:200
 msgid "Find us on Facebook"
-msgstr ""
+msgstr "在脸书上找到我们"
 
 #: includes/widget/class-fusion-widget-facebook-page.php:215
 msgid ""
 "IMPORTANT: Please create a Facebook App and use its ID for features like "
 "sharing."
-msgstr ""
+msgstr "重要提示：请创建一个 Facebook 应用程序，并将其 ID 用于共享等功能。"
 
 #: includes/widget/class-fusion-widget-facebook-page.php:215
 msgid "See Instructions."
-msgstr ""
+msgstr "请参阅说明。"
 
 #: includes/widget/class-fusion-widget-facebook-page.php:223
 msgid "Facebook Page URL:"
-msgstr ""
+msgstr "脸书页面网址："
 
 #: includes/widget/class-fusion-widget-facebook-page.php:228
 msgid "Facebook App ID:"
-msgstr ""
+msgstr "脸书应用 ID："
 
 #: includes/widget/class-fusion-widget-facebook-page.php:233
 msgid "Width (has to be between 180 and 500):"
-msgstr ""
+msgstr "宽度（必须介于 180 和 500 之间）："
 
 #: includes/widget/class-fusion-widget-facebook-page.php:239
 msgid "Show Friends Faces"
-msgstr ""
+msgstr "显示好友面孔"
 
 #: includes/widget/class-fusion-widget-facebook-page.php:244
 msgid "Show Timeline Tab"
-msgstr ""
+msgstr "显示时间轴选项卡"
 
 #: includes/widget/class-fusion-widget-facebook-page.php:249
 msgid "Show Events Tab"
-msgstr ""
+msgstr "\"显示事件\"选项卡"
 
 #: includes/widget/class-fusion-widget-facebook-page.php:254
 msgid "Show Messages Tab"
-msgstr ""
+msgstr "\"显示消息\"选项卡"
 
 #: includes/widget/class-fusion-widget-facebook-page.php:259
 msgid "Show Cover Photo"
-msgstr ""
+msgstr "展会封面照片"
 
 #: includes/widget/class-fusion-widget-facebook-page.php:264
 msgid "Use Small Header"
-msgstr ""
+msgstr "使用小标题"
 
 #: includes/widget/class-fusion-widget-flickr.php:31
 msgid "The most recent photos from flickr."
-msgstr ""
+msgstr "来自flickr的最新照片。"
 
 #: includes/widget/class-fusion-widget-flickr.php:37
 msgid "Avada: Flickr"
-msgstr ""
+msgstr "Avada: Flickr"
 
 #: includes/widget/class-fusion-widget-flickr.php:159
 msgid "Photos from Flickr"
-msgstr ""
+msgstr "照片来自 Flickr"
 
 #. translators: URL.
 #: includes/widget/class-fusion-widget-flickr.php:177
 msgid "Flickr ID (<a href=\"%s\">Get your flickr ID</a>):"
-msgstr ""
+msgstr "Flickr ID （<a href=\"%s\">Get your flickr ID</a>）："
 
 #: includes/widget/class-fusion-widget-flickr.php:182
 msgid "Number of photos to show:"
-msgstr ""
+msgstr "要显示的照片数量："
 
 #. translators: URL.
 #: includes/widget/class-fusion-widget-flickr.php:188
@@ -1208,55 +1223,57 @@ msgid ""
 "API key (Use default or get your own from <a href=\"%s\">Flickr APP Garden</"
 "a>):"
 msgstr ""
+"API 密钥（使用默认值或从 <a href=\"%s\">Flickr APP Garden 获取自己的密钥</"
+"a>）："
 
 #. translators: the default key.
 #: includes/widget/class-fusion-widget-flickr.php:191
 msgid "Default key is: %s"
-msgstr ""
+msgstr "默认键为：%s"
 
 #: includes/widget/class-fusion-widget-form.php:31
 #: includes/widget/class-fusion-widget-menu.php:31
 msgid "Adds a horizontal navigation"
-msgstr ""
+msgstr "添加水平导航"
 
 #: includes/widget/class-fusion-widget-form.php:36
 msgid "Avada: Form"
-msgstr ""
+msgstr "Avada：表格"
 
 #: includes/widget/class-fusion-widget-form.php:114
 msgid "Select Form:"
-msgstr ""
+msgstr "选择表单："
 
 #: includes/widget/class-fusion-widget-form.php:116
 #: includes/widget/class-fusion-widget-menu.php:176
 #: includes/widget/class-fusion-widget-vertical-menu.php:313
 #: includes/widget/class-fusion-widget-vertical-menu.php:325
 msgid "Select"
-msgstr ""
+msgstr "选择"
 
 #: includes/widget/class-fusion-widget-menu.php:36
 msgid "Avada: Horizontal Menu"
-msgstr ""
+msgstr "Avada：水平菜单"
 
 #: includes/widget/class-fusion-widget-menu.php:106
 #: includes/widget/class-fusion-widget-vertical-menu.php:115
 msgid "Secondary navigation"
-msgstr ""
+msgstr "辅助导航"
 
 #. translators: The widget name.
 #: includes/widget/class-fusion-widget-menu.php:109
 #: includes/widget/class-fusion-widget-vertical-menu.php:118
 msgid "Secondary Navigation: %s"
-msgstr ""
+msgstr "辅助导航： %s"
 
 #: includes/widget/class-fusion-widget-menu.php:174
 #: includes/widget/class-fusion-widget-vertical-menu.php:311
 msgid "Select Menu:"
-msgstr ""
+msgstr "选择菜单："
 
 #: includes/widget/class-fusion-widget-menu.php:185
 msgid "Alignment:"
-msgstr ""
+msgstr "对准："
 
 #: includes/widget/class-fusion-widget-menu.php:187
 #: includes/widget/class-fusion-widget-social-links.php:609
@@ -1264,12 +1281,12 @@ msgstr ""
 #: shortcodes/fusion-faq.php:778 shortcodes/fusion-faq.php:1214
 #: shortcodes/fusion-portfolio.php:1708 shortcodes/fusion-portfolio.php:2233
 msgid "Left"
-msgstr ""
+msgstr "左"
 
 #: includes/widget/class-fusion-widget-menu.php:188
 #: shortcodes/fusion-portfolio.php:1709 shortcodes/fusion-portfolio.php:2234
 msgid "Center"
-msgstr ""
+msgstr "中心"
 
 #: includes/widget/class-fusion-widget-menu.php:189
 #: includes/widget/class-fusion-widget-social-links.php:607
@@ -1277,84 +1294,84 @@ msgstr ""
 #: shortcodes/fusion-faq.php:779 shortcodes/fusion-faq.php:1215
 #: shortcodes/fusion-portfolio.php:1710 shortcodes/fusion-portfolio.php:2235
 msgid "Right"
-msgstr ""
+msgstr "右"
 
 #: includes/widget/class-fusion-widget-menu.php:193
 msgid "Menu Padding:"
-msgstr ""
+msgstr "菜单填充："
 
 #: includes/widget/class-fusion-widget-menu.php:197
 msgid "Menu Link Color:"
-msgstr ""
+msgstr "菜单链接颜色："
 
 #: includes/widget/class-fusion-widget-menu.php:201
 msgid "Menu Link Hover Color:"
-msgstr ""
+msgstr "菜单链接 悬停颜色："
 
 #: includes/widget/class-fusion-widget-menu.php:205
 msgid "Separator Text:"
-msgstr ""
+msgstr "分隔符文本："
 
 #: includes/widget/class-fusion-widget-menu.php:209
 #: includes/widget/class-fusion-widget-vertical-menu.php:352
 msgid "Font Size:"
-msgstr ""
+msgstr "字体大小："
 
 #: includes/widget/class-fusion-widget-recent-works.php:31
 msgid "Recent works from the portfolio."
-msgstr ""
+msgstr "投资组合中的最新作品。"
 
 #: includes/widget/class-fusion-widget-recent-works.php:37
 msgid "Avada: Recent Works"
-msgstr ""
+msgstr "Avada：近期作品"
 
 #: includes/widget/class-fusion-widget-recent-works.php:132
 msgid "Recent Works"
-msgstr ""
+msgstr "近期作品"
 
 #: includes/widget/class-fusion-widget-recent-works.php:143
 msgid "Number Of Items To Show:"
-msgstr ""
+msgstr "要显示的项目数："
 
 #: includes/widget/class-fusion-widget-social-links.php:53
 msgid "Adds social media icons with custom links."
-msgstr ""
+msgstr "添加带有自定义链接的社交媒体图标。"
 
 #: includes/widget/class-fusion-widget-social-links.php:59
 msgid "Avada: Social Links"
-msgstr ""
+msgstr "Avada：社交链接"
 
 #: includes/widget/class-fusion-widget-social-links.php:326
 msgid "Email Address"
-msgstr ""
+msgstr "电邮地址"
 
 #: includes/widget/class-fusion-widget-social-links.php:495
 msgid "Get Social"
-msgstr ""
+msgstr "获取社交"
 
 #: includes/widget/class-fusion-widget-social-links.php:563
 msgid "Icons Font Size:"
-msgstr ""
+msgstr "图标 字体大小："
 
 #: includes/widget/class-fusion-widget-social-links.php:568
 msgid "Icons Color Type:"
-msgstr ""
+msgstr "图标 颜色类型："
 
 #: includes/widget/class-fusion-widget-social-links.php:570
 msgid "Custom Color"
-msgstr ""
+msgstr "自定义颜色"
 
 #: includes/widget/class-fusion-widget-social-links.php:571
 msgid "Brand Colors"
-msgstr ""
+msgstr "品牌颜色"
 
 #: includes/widget/class-fusion-widget-social-links.php:576
 msgid "Icons Color Hex Code:"
-msgstr ""
+msgstr "图标颜色十六进制代码："
 
 #: includes/widget/class-fusion-widget-social-links.php:581
 msgid "Icons Boxed:"
-msgstr ""
+msgstr "框装图标："
 
 #: includes/widget/class-fusion-widget-social-links.php:584
 #: includes/widget/class-fusion-widget-social-links.php:618
@@ -1366,159 +1383,159 @@ msgstr ""
 #: shortcodes/fusion-portfolio.php:2564 shortcodes/fusion-portfolio.php:2624
 #: shortcodes/fusion-portfolio.php:2642 shortcodes/fusion-portfolio.php:2660
 msgid "Yes"
-msgstr ""
+msgstr "是的"
 
 #: includes/widget/class-fusion-widget-social-links.php:589
 msgid "Boxed Icons Background Color Hex Code:"
-msgstr ""
+msgstr "盒装图标 背景颜色 十六进制代码："
 
 #: includes/widget/class-fusion-widget-social-links.php:594
 msgid "Boxed Icons Radius:"
-msgstr ""
+msgstr "盒装图标半径："
 
 #: includes/widget/class-fusion-widget-social-links.php:599
 msgid "Boxed Icons Padding:"
-msgstr ""
+msgstr "盒装图标填充："
 
 #: includes/widget/class-fusion-widget-social-links.php:604
 msgid "Tooltip Position:"
-msgstr ""
+msgstr "工具提示位置："
 
 #: includes/widget/class-fusion-widget-social-links.php:606
 msgid "Top"
-msgstr ""
+msgstr "返回页首"
 
 #: includes/widget/class-fusion-widget-social-links.php:608
 msgid "Bottom"
-msgstr ""
+msgstr "底"
 
 #: includes/widget/class-fusion-widget-social-links.php:615
 msgid "Show Custom Icons:"
-msgstr ""
+msgstr "显示自定义图标："
 
 #: includes/widget/class-fusion-widget-social-links.php:623
 msgid "Use Global Options Links:"
-msgstr ""
+msgstr "使用全局选项链接："
 
 #. translators: The social-network label.
 #: includes/widget/class-fusion-widget-social-links.php:643
 msgid "%s Link:"
-msgstr ""
+msgstr "%s 链接："
 
 #: includes/widget/class-fusion-widget-tabs.php:41
 msgid "Popular posts, recent post and comments."
-msgstr ""
+msgstr "热门帖子，最近的帖子和评论。"
 
 #: includes/widget/class-fusion-widget-tabs.php:47
 msgid "Avada: Tabs"
-msgstr ""
+msgstr "Avada：标签"
 
 #: includes/widget/class-fusion-widget-tabs.php:117
 msgid "Popular"
-msgstr ""
+msgstr "流行"
 
 #: includes/widget/class-fusion-widget-tabs.php:121
 msgid "Recent"
-msgstr ""
+msgstr "最近"
 
 #: includes/widget/class-fusion-widget-tabs.php:125
 msgid "Comments"
-msgstr ""
+msgstr "评论"
 
 #: includes/widget/class-fusion-widget-tabs.php:183
 #: includes/widget/class-fusion-widget-tabs.php:231
 msgid "No posts have been published yet."
-msgstr ""
+msgstr "尚未发布任何帖子。"
 
 #. translators: comment author.
 #: includes/widget/class-fusion-widget-tabs.php:259
 msgid "%s says:"
-msgstr ""
+msgstr "%s 说："
 
 #. translators: %1$s: comment author. %2$s: post-title.
 #: includes/widget/class-fusion-widget-tabs.php:262
 msgid "%1$s on %2$s"
-msgstr ""
+msgstr "%2$s 上的 %1$s"
 
 #: includes/widget/class-fusion-widget-tabs.php:268
 msgid "No comments have been published yet."
-msgstr ""
+msgstr "尚未发布任何评论。"
 
 #: includes/widget/class-fusion-widget-tabs.php:341
 msgid "Tabs Design:"
-msgstr ""
+msgstr "标签设计："
 
 #: includes/widget/class-fusion-widget-tabs.php:343
 msgid "Classic"
-msgstr ""
+msgstr "经典"
 
 #: includes/widget/class-fusion-widget-tabs.php:344
 msgid "Clean"
-msgstr ""
+msgstr "干净"
 
 #: includes/widget/class-fusion-widget-tabs.php:348
 msgid "Post Design:"
-msgstr ""
+msgstr "后期设计："
 
 #: includes/widget/class-fusion-widget-tabs.php:350
 msgid "Featured Image / Avatar Default Shape"
-msgstr ""
+msgstr "特色图片 / 头像默认形状"
 
 #: includes/widget/class-fusion-widget-tabs.php:351
 msgid "Featured Image / Avatar Square"
-msgstr ""
+msgstr "特色图片 / Avada Square"
 
 #: includes/widget/class-fusion-widget-tabs.php:352
 msgid "Featured Image / Avatar Circle"
-msgstr ""
+msgstr "特色图片 / Avada Circle"
 
 #: includes/widget/class-fusion-widget-tabs.php:357
 msgid "Popular Posts Order By:"
-msgstr ""
+msgstr "热门帖子排序："
 
 #: includes/widget/class-fusion-widget-tabs.php:359
 msgid "Highest Comments"
-msgstr ""
+msgstr "最高评论"
 
 #: includes/widget/class-fusion-widget-tabs.php:360
 msgid "Highest Views"
-msgstr ""
+msgstr "最高观看次数"
 
 #: includes/widget/class-fusion-widget-tabs.php:364
 msgid "Number of popular posts:"
-msgstr ""
+msgstr "热门帖子数量："
 
 #: includes/widget/class-fusion-widget-tabs.php:368
 msgid "Number of recent posts:"
-msgstr ""
+msgstr "最近的帖子数量："
 
 #: includes/widget/class-fusion-widget-tabs.php:372
 msgid "Number of comments:"
-msgstr ""
+msgstr "评论数："
 
 #: includes/widget/class-fusion-widget-tabs.php:377
 msgid "Show popular posts"
-msgstr ""
+msgstr "显示热门帖子"
 
 #: includes/widget/class-fusion-widget-tabs.php:381
 msgid "Show recent posts"
-msgstr ""
+msgstr "显示最近的帖子"
 
 #: includes/widget/class-fusion-widget-tabs.php:385
 msgid "Show comments"
-msgstr ""
+msgstr "显示评论"
 
 #: includes/widget/class-fusion-widget-tweets.php:41
 msgid "Adds your twitter timeline"
-msgstr ""
+msgstr "添加你的推特时间线"
 
 #: includes/widget/class-fusion-widget-tweets.php:47
 msgid "Avada: Twitter"
-msgstr ""
+msgstr "Avada：Twitter"
 
 #: includes/widget/class-fusion-widget-tweets.php:205
 msgid "Recent Tweets"
-msgstr ""
+msgstr "最近的推文"
 
 #. translators: "How to setup the Avada twitter widget." link.
 #: includes/widget/class-fusion-widget-tweets.php:280
@@ -1526,102 +1543,104 @@ msgid ""
 "For general setup information or information on how to setup a Twitter App "
 "or a Twitter Widget on twitter.com, please see our documentation: %s"
 msgstr ""
+"有关一般设置信息或有关如何在 twitter.com 上设置 Twitter 应用程序或 Twitter 小"
+"部件的信息，请参阅我们的文档：%s"
 
 #: includes/widget/class-fusion-widget-tweets.php:280
 msgid "How to setup the Avada twitter widget."
-msgstr ""
+msgstr "如何设置推特小部件。"
 
 #: includes/widget/class-fusion-widget-tweets.php:288
 msgid "Widget Style:"
-msgstr ""
+msgstr "小部件样式："
 
 #: includes/widget/class-fusion-widget-tweets.php:290
 msgid "Twitter Preconfigured Style (deprecated)"
-msgstr ""
+msgstr "Twitter 预配置样式（已弃用）"
 
 #: includes/widget/class-fusion-widget-tweets.php:291
 msgid "Twitter Style"
-msgstr ""
+msgstr "推特风格"
 
 #: includes/widget/class-fusion-widget-tweets.php:292
 msgid "Avada Style"
-msgstr ""
+msgstr "Avada风格"
 
 #: includes/widget/class-fusion-widget-tweets.php:297
 msgid "Twitter Username:"
-msgstr ""
+msgstr "推特用户名："
 
 #: includes/widget/class-fusion-widget-tweets.php:302
 msgid "Twitter Widget ID:"
-msgstr ""
+msgstr "推特小部件 ID："
 
 #: includes/widget/class-fusion-widget-tweets.php:307
 msgid "Consumer Key:"
-msgstr ""
+msgstr "使用者密钥："
 
 #: includes/widget/class-fusion-widget-tweets.php:312
 msgid "Consumer Secret:"
-msgstr ""
+msgstr "消费者秘密："
 
 #: includes/widget/class-fusion-widget-tweets.php:317
 msgid "Access Token:"
-msgstr ""
+msgstr "访问令牌："
 
 #: includes/widget/class-fusion-widget-tweets.php:322
 msgid "Access Token Secret:"
-msgstr ""
+msgstr "访问令牌机密："
 
 #: includes/widget/class-fusion-widget-tweets.php:327
 msgid "Number of Tweet (max. 20 tweets possible):"
-msgstr ""
+msgstr "推文数量（最多 20 条推文）："
 
 #: includes/widget/class-fusion-widget-tweets.php:332
 msgid "Icon Color (leave empty for default icon color):"
-msgstr ""
+msgstr "图标颜色（默认图标颜色留空）："
 
 #: includes/widget/class-fusion-widget-tweets.php:337
 msgid "Max. Width (has to be between 180 and 520):"
-msgstr ""
+msgstr "最大宽度（必须介于 180 和 520 之间）："
 
 #: includes/widget/class-fusion-widget-tweets.php:342
 msgid "Height (min. is 200):"
-msgstr ""
+msgstr "身高（最小值为 200）："
 
 #: includes/widget/class-fusion-widget-tweets.php:347
 msgid "Color Scheme:"
-msgstr ""
+msgstr "配色方案："
 
 #: includes/widget/class-fusion-widget-tweets.php:349
 msgid "Light"
-msgstr ""
+msgstr "光"
 
 #: includes/widget/class-fusion-widget-tweets.php:350
 msgid "Dark"
-msgstr ""
+msgstr "黑暗"
 
 #: includes/widget/class-fusion-widget-tweets.php:355
 msgid "Link Color (leave empty for Theme default link color):"
-msgstr ""
+msgstr "链接颜色（主题默认链接颜色留空）："
 
 #: includes/widget/class-fusion-widget-tweets.php:360
 msgid "Border Color:"
-msgstr ""
+msgstr "边框颜色："
 
 #: includes/widget/class-fusion-widget-tweets.php:366
 msgid "Show Header"
-msgstr ""
+msgstr "显示页眉"
 
 #: includes/widget/class-fusion-widget-tweets.php:371
 msgid "Show Footer"
-msgstr ""
+msgstr "显示页脚"
 
 #: includes/widget/class-fusion-widget-tweets.php:376
 msgid "Show Borders"
-msgstr ""
+msgstr "显示边框"
 
 #: includes/widget/class-fusion-widget-tweets.php:381
 msgid "Transparent Background"
-msgstr ""
+msgstr "透明背景"
 
 #. translators: The user's twitter handle.
 #. translators: The twitter-ID.
@@ -1630,75 +1649,76 @@ msgstr ""
 #: includes/widget/class-fusion-widget-tweets.php:414
 #: includes/widget/class-fusion-widget-tweets.php:417
 msgid "Tweets by %s"
-msgstr ""
+msgstr "%s 的推文"
 
 #: includes/widget/class-fusion-widget-vertical-menu.php:31
 msgid "This widget replaces the Side Navigation Template."
-msgstr ""
+msgstr "此小组件取代了侧面导航模板。"
 
 #: includes/widget/class-fusion-widget-vertical-menu.php:36
 msgid "Avada: Vertical Menu"
-msgstr ""
+msgstr "Avada：垂直菜单"
 
 #: includes/widget/class-fusion-widget-vertical-menu.php:137
 msgid ""
 "For the vertical layout to work, the page needs to be set as part of the "
 "WordPress parent/child hierarchy."
 msgstr ""
+"要使垂直布局正常工作，需要将页面设置为WordPress父级/子级层次结构的一部分。"
 
 #: includes/widget/class-fusion-widget-vertical-menu.php:148
 msgid "Back to Parent Page"
-msgstr ""
+msgstr "返回父级页面"
 
 #: includes/widget/class-fusion-widget-vertical-menu.php:302
 msgid "Menu Type:"
-msgstr ""
+msgstr "菜单类型："
 
 #: includes/widget/class-fusion-widget-vertical-menu.php:304
 msgid "Custom Menu"
-msgstr ""
+msgstr "自定义菜单"
 
 #: includes/widget/class-fusion-widget-vertical-menu.php:305
 msgid "Vertical Menu"
-msgstr ""
+msgstr "垂直菜单"
 
 #: includes/widget/class-fusion-widget-vertical-menu.php:307
 msgid ""
 "Choose if a custom menu or the classic side navigation (vertical menu "
 "option) should be displayed."
-msgstr ""
+msgstr "选择是应显示自定义菜单还是经典侧面导航（垂直菜单选项）。"
 
 #: includes/widget/class-fusion-widget-vertical-menu.php:323
 msgid "Parent Page:"
-msgstr ""
+msgstr "父级页面："
 
 #: includes/widget/class-fusion-widget-vertical-menu.php:336
 msgid "Behavior:"
-msgstr ""
+msgstr "行为："
 
 #: includes/widget/class-fusion-widget-vertical-menu.php:338
 msgid "Hover"
-msgstr ""
+msgstr "悬停"
 
 #: includes/widget/class-fusion-widget-vertical-menu.php:339
 msgid "Click"
-msgstr ""
+msgstr "点击"
 
 #: includes/widget/class-fusion-widget-vertical-menu.php:344
 msgid "Layout:"
-msgstr ""
+msgstr "布局："
 
 #: shortcodes/components/project-details.php:282
 #: shortcodes/components/templates/fusion-tb-project-details.php:27
 #: templates/single-avada_portfolio.php:118
 msgid "Project Details"
-msgstr ""
+msgstr "项目详情"
 
 #: shortcodes/components/project-details.php:297 shortcodes/fusion-faq.php:1234
 #: shortcodes/fusion-fusionslider.php:722 shortcodes/fusion-portfolio.php:2677
 #: shortcodes/fusion-privacy.php:388
 msgid "Element Visibility"
-msgstr ""
+msgstr "元素可见性"
 
 #: shortcodes/components/project-details.php:301 shortcodes/fusion-faq.php:1238
 #: shortcodes/fusion-fusionslider.php:726 shortcodes/fusion-portfolio.php:2681
@@ -1706,277 +1726,277 @@ msgstr ""
 msgid ""
 "Choose to show or hide the element on small, medium or large screens. You "
 "can choose more than one at a time."
-msgstr ""
+msgstr "选择在小、中或大屏幕上显示或隐藏元素。您可以一次选择多个。"
 
 #: shortcodes/components/project-details.php:305 shortcodes/fusion-faq.php:1242
 #: shortcodes/fusion-fusionslider.php:730 shortcodes/fusion-portfolio.php:2685
 #: shortcodes/fusion-privacy.php:396
 msgid "CSS Class"
-msgstr ""
+msgstr "CSS 类"
 
 #: shortcodes/components/project-details.php:306 shortcodes/fusion-faq.php:1243
 #: shortcodes/fusion-fusionslider.php:733 shortcodes/fusion-portfolio.php:2686
 #: shortcodes/fusion-privacy.php:397
 msgid "Add a class to the wrapping HTML element."
-msgstr ""
+msgstr "将类添加到包装 HTML 元素。"
 
 #: shortcodes/components/project-details.php:312 shortcodes/fusion-faq.php:1250
 #: shortcodes/fusion-fusionslider.php:737 shortcodes/fusion-portfolio.php:2693
 #: shortcodes/fusion-privacy.php:404
 msgid "CSS ID"
-msgstr ""
+msgstr "断续器"
 
 #: shortcodes/components/project-details.php:313 shortcodes/fusion-faq.php:1251
 #: shortcodes/fusion-fusionslider.php:740 shortcodes/fusion-portfolio.php:2694
 #: shortcodes/fusion-privacy.php:405
 msgid "Add an ID to the wrapping HTML element."
-msgstr ""
+msgstr "向包装 HTML 元素添加 ID。"
 
 #: shortcodes/components/project-details.php:319
 msgid "Enable Heading"
-msgstr ""
+msgstr "启用标题"
 
 #: shortcodes/components/project-details.php:320
 msgid "Turn on if you want to display default heading."
-msgstr ""
+msgstr "如果要显示默认标题，请打开。"
 
 #: shortcodes/components/project-details.php:327
 #: shortcodes/components/project-details.php:343
 #: shortcodes/components/project-details.php:357
 #: shortcodes/components/project-details.php:376
 msgid "Design"
-msgstr ""
+msgstr "设计"
 
 #: shortcodes/components/project-details.php:331
 msgid "HTML Heading Size"
-msgstr ""
+msgstr "标题大小"
 
 #: shortcodes/components/project-details.php:332
 msgid "Choose the size of the HTML heading that should be used, h1-h6."
-msgstr ""
+msgstr "选择应使用的 HTML 标题的大小 h1-h6。"
 
 #: shortcodes/components/project-details.php:353
 msgid "Show Author"
-msgstr ""
+msgstr "显示作者"
 
 #: shortcodes/components/project-details.php:354
 msgid "Choose to show or hide the author in the Project Details."
-msgstr ""
+msgstr "选择在\"项目详细信息\"中显示或隐藏作者。"
 
 #: shortcodes/components/project-details.php:360 shortcodes/fusion-faq.php:647
 #: shortcodes/fusion-faq.php:915
 msgid "Show"
-msgstr ""
+msgstr "显示"
 
 #: shortcodes/components/project-details.php:361 shortcodes/fusion-faq.php:649
 #: shortcodes/fusion-faq.php:917
 msgid "Hide"
-msgstr ""
+msgstr "隐藏"
 
 #: shortcodes/components/project-details.php:367
 msgid "Margin"
-msgstr ""
+msgstr "边缘"
 
 #: shortcodes/components/project-details.php:368
 msgid "In pixels or percentage, ex: 10px or 10%."
-msgstr ""
+msgstr "以像素或百分比为单位，例如：10px 或 10%。"
 
 #: shortcodes/components/templates/fusion-tb-project-details.php:33
 #: templates/single-avada_portfolio.php:127
 msgid "Skills Needed:"
-msgstr ""
+msgstr "所需技能："
 
 #: shortcodes/components/templates/fusion-tb-project-details.php:46
 #: templates/single-avada_portfolio.php:141
 msgid "Categories:"
-msgstr ""
+msgstr "类别："
 
 #: shortcodes/components/templates/fusion-tb-project-details.php:59
 #: templates/single-avada_portfolio.php:155
 msgid "Tags:"
-msgstr ""
+msgstr "标签："
 
 #: shortcodes/components/templates/fusion-tb-project-details.php:72
 #: templates/single-avada_portfolio.php:174
 msgid "Project URL:"
-msgstr ""
+msgstr "项目网址："
 
 #: shortcodes/components/templates/fusion-tb-project-details.php:83
 #: templates/single-avada_portfolio.php:191
 msgid "Copyright:"
-msgstr ""
+msgstr "版权："
 
 #: shortcodes/components/templates/fusion-tb-project-details.php:94
 #: templates/single-avada_portfolio.php:203
 msgid "By:"
-msgstr ""
+msgstr "由："
 
 #: shortcodes/fusion-faq.php:142 shortcodes/fusion-faq.php:436
 #: shortcodes/fusion-portfolio.php:203 shortcodes/fusion-portfolio.php:1072
 msgid "All"
-msgstr ""
+msgstr "都"
 
 #: shortcodes/fusion-faq.php:545
 #: templates/featured-image-avada_portfolio.php:45
 #: templates/featured-image-avada_portfolio.php:65
 msgid "View Larger Image"
-msgstr ""
+msgstr "查看大图"
 
 #: shortcodes/fusion-faq.php:624 shortcodes/fusion-faq.php:901
 msgid "FAQ"
-msgstr ""
+msgstr "常见问题"
 
 #: shortcodes/fusion-faq.php:632
 msgid "FAQ Featured Images"
-msgstr ""
+msgstr "常见问题 特色图片"
 
 #: shortcodes/fusion-faq.php:633
 msgid "Turn on to display featured images."
-msgstr ""
+msgstr "打开以显示特色图片。"
 
 #: shortcodes/fusion-faq.php:641
 msgid "FAQ Filters"
-msgstr ""
+msgstr "常见问题 过滤器"
 
 #: shortcodes/fusion-faq.php:642
 msgid "Controls how the filters display for FAQs."
-msgstr ""
+msgstr "控制筛选器如何显示常见问题解答。"
 
 #: shortcodes/fusion-faq.php:648 shortcodes/fusion-faq.php:916
 msgid "Show without \"All\""
-msgstr ""
+msgstr "没有\"全部\"的显示"
 
 #: shortcodes/fusion-faq.php:655
 msgid "FAQs in Toggles or Accordions"
-msgstr ""
+msgstr "切换或手风琴的常见问题"
 
 #: shortcodes/fusion-faq.php:656 shortcodes/fusion-faq.php:1042
 msgid ""
 "Toggles allow several items to be open at a time. Accordions only allow one "
 "item to be open at a time."
-msgstr ""
+msgstr "切换允许一次打开多个项目。手风琴一次只允许打开一个项目。"
 
 #: shortcodes/fusion-faq.php:661 shortcodes/fusion-faq.php:1046
 msgid "Toggles"
-msgstr ""
+msgstr "切换"
 
 #: shortcodes/fusion-faq.php:662 shortcodes/fusion-faq.php:1047
 msgid "Accordions"
-msgstr ""
+msgstr "手风琴"
 
 #: shortcodes/fusion-faq.php:667
 msgid "FAQ Items in Boxed Mode"
-msgstr ""
+msgstr "盒装模式下的常见问题项目"
 
 #: shortcodes/fusion-faq.php:668
 msgid ""
 "Turn on to display items in boxed mode. FAQ Item divider line must be "
 "disabled for this option to work."
-msgstr ""
+msgstr "打开以盒装模式显示项目。必须禁用 FAQ 项目分隔线才能使此选项正常工作。"
 
 #: shortcodes/fusion-faq.php:675
 msgid "FAQ Item Boxed Mode Border Width"
-msgstr ""
+msgstr "常见问题 项目 盒装模式 边框宽度"
 
 #: shortcodes/fusion-faq.php:676
 msgid "Controls the border size of the FAQ item."
-msgstr ""
+msgstr "控制常见问题解答项的边框大小。"
 
 #: shortcodes/fusion-faq.php:689
 msgid "FAQ Item Boxed Mode Border Color"
-msgstr ""
+msgstr "常见问题 项目盒装模式 边框颜色"
 
 #: shortcodes/fusion-faq.php:690
 msgid "Controls the border color of the FAQ item."
-msgstr ""
+msgstr "控制常见问题解答项的边框颜色。"
 
 #: shortcodes/fusion-faq.php:698
 msgid "FAQ Item Boxed Mode Background Color"
-msgstr ""
+msgstr "常见问题 项目 盒装模式 背景色"
 
 #: shortcodes/fusion-faq.php:699
 msgid "Controls the background color of the FAQ item."
-msgstr ""
+msgstr "控制常见问题解答项的背景色。"
 
 #: shortcodes/fusion-faq.php:707
 msgid "FAQ Item Boxed Mode Background Hover Color"
-msgstr ""
+msgstr "常见问题 项目 框式模式 背景 悬停颜色"
 
 #: shortcodes/fusion-faq.php:708
 msgid "Controls the background hover color of the FAQ item."
-msgstr ""
+msgstr "控制常见问题解答项的背景悬停颜色。"
 
 #: shortcodes/fusion-faq.php:716
 msgid "FAQ Item Divider Line"
-msgstr ""
+msgstr "常见问题 项目分隔线"
 
 #: shortcodes/fusion-faq.php:717
 msgid "Turn on to display a divider line between each item."
-msgstr ""
+msgstr "打开以显示每个项目之间的分隔线。"
 
 #: shortcodes/fusion-faq.php:725
 msgid "FAQ Title Font Size"
-msgstr ""
+msgstr "常见问题 标题 字体大小"
 
 #: shortcodes/fusion-faq.php:726
 msgid "Controls the size of the title text."
-msgstr ""
+msgstr "控制标题文本的大小。"
 
 #: shortcodes/fusion-faq.php:733
 msgid "FAQ Item Icon Size"
-msgstr ""
+msgstr "常见问题 项目图标大小"
 
 #: shortcodes/fusion-faq.php:734
 msgid "Set the size of the icon."
-msgstr ""
+msgstr "设置图标的大小。"
 
 #: shortcodes/fusion-faq.php:746
 msgid "FAQ Item Icon Color"
-msgstr ""
+msgstr "常见问题 项目图标 颜色"
 
 #: shortcodes/fusion-faq.php:747
 msgid "Controls the color of icon in FAQ box."
-msgstr ""
+msgstr "控制\"常见问题解答\"框中图标的颜色。"
 
 #: shortcodes/fusion-faq.php:754
 msgid "FAQ Item Icon Boxed Mode"
-msgstr ""
+msgstr "常见问题 项目图标 盒装模式"
 
 #: shortcodes/fusion-faq.php:755
 msgid "Turn on to display icon in boxed mode."
-msgstr ""
+msgstr "打开以在盒装模式下显示图标。"
 
 #: shortcodes/fusion-faq.php:762
 msgid "FAQ Item Icon Inactive Box Color"
-msgstr ""
+msgstr "常见问题 项目图标 非活动框颜色"
 
 #: shortcodes/fusion-faq.php:763
 msgid "Controls the color of the inactive FAQ box."
-msgstr ""
+msgstr "控制非活动常见问题解答框的颜色。"
 
 #: shortcodes/fusion-faq.php:771
 msgid "FAQ Item Icon Alignment"
-msgstr ""
+msgstr "常见问题 项目图标 对齐"
 
 #: shortcodes/fusion-faq.php:772
 msgid "Controls the alignment of the icon."
-msgstr ""
+msgstr "控制图标的对齐方式。"
 
 #: shortcodes/fusion-faq.php:783
 msgid "FAQ Item Icon Toggle Hover Accent Color"
-msgstr ""
+msgstr "常见问题 项目图标 切换 悬停主题色"
 
 #: shortcodes/fusion-faq.php:784 shortcodes/fusion-faq.php:1222
 msgid "Controls the accent color on hover for icon box and title."
-msgstr ""
+msgstr "控制图标框和标题的悬停时的主题色。"
 
 #: shortcodes/fusion-faq.php:910
 msgid "Display Filters"
-msgstr ""
+msgstr "显示过滤器"
 
 #: shortcodes/fusion-faq.php:911
 msgid "Display the FAQ filters."
-msgstr ""
+msgstr "显示常见问题解答筛选器。"
 
 #: shortcodes/fusion-faq.php:914 shortcodes/fusion-faq.php:1033
 #: shortcodes/fusion-faq.php:1045 shortcodes/fusion-faq.php:1057
@@ -1987,261 +2007,263 @@ msgstr ""
 #: shortcodes/fusion-portfolio.php:2407 shortcodes/fusion-portfolio.php:2505
 #: shortcodes/fusion-portfolio.php:2563
 msgid "Default"
-msgstr ""
+msgstr "违约"
 
 #: shortcodes/fusion-faq.php:922
 msgid "Maximum FAQ Element"
-msgstr ""
+msgstr "最大常见问题解答元素"
 
 #: shortcodes/fusion-faq.php:923
 msgid ""
 "Select the maximum number of FAQ elements. Set to -1 to display all. Set to "
 "0 to use number of posts from Settings > Reading."
 msgstr ""
+"选择 FAQ 元素的最大数量。设置为 -1 以显示全部。设置为 0 以使用\"设置\">\"阅读"
+"\"中的帖子数。"
 
 #: shortcodes/fusion-faq.php:937 shortcodes/fusion-faq.php:938
 msgid "Post Status"
-msgstr ""
+msgstr "职位状态"
 
 #: shortcodes/fusion-faq.php:939
 msgid ""
 "Select the status(es) of the posts that should be included or leave blank "
 "for published only posts."
-msgstr ""
+msgstr "选择应包含的帖子的状态，或为仅发布的帖子留空。"
 
 #: shortcodes/fusion-faq.php:942
 msgid "Published"
-msgstr ""
+msgstr "发表"
 
 #: shortcodes/fusion-faq.php:943
 msgid "Drafted"
-msgstr ""
+msgstr "起草"
 
 #: shortcodes/fusion-faq.php:944
 msgid "Scheduled"
-msgstr ""
+msgstr "计划"
 
 #: shortcodes/fusion-faq.php:945
 msgid "Private"
-msgstr ""
+msgstr "私人"
 
 #: shortcodes/fusion-faq.php:946
 msgid "Pending"
-msgstr ""
+msgstr "待定"
 
 #: shortcodes/fusion-faq.php:957 shortcodes/fusion-faq.php:958
 #: shortcodes/fusion-faq.php:972 shortcodes/fusion-portfolio.php:2318
 #: shortcodes/fusion-portfolio.php:2319 shortcodes/fusion-portfolio.php:2340
 msgid "Categories"
-msgstr ""
+msgstr "类别"
 
 #: shortcodes/fusion-faq.php:959
 msgid "Select categories to include or leave blank for all."
-msgstr ""
+msgstr "选择要包括的类别或将所有类别留空。"
 
 #: shortcodes/fusion-faq.php:971 shortcodes/fusion-portfolio.php:2339
 msgid "Exclude Categories"
-msgstr ""
+msgstr "排除类别"
 
 #: shortcodes/fusion-faq.php:973 shortcodes/fusion-portfolio.php:2341
 msgid "Select categories to exclude."
-msgstr ""
+msgstr "选择要排除的类别。"
 
 #: shortcodes/fusion-faq.php:986
 msgid "Defines how FAQs should be ordered."
-msgstr ""
+msgstr "定义常见问题解答应如何排序。"
 
 #: shortcodes/fusion-faq.php:991 shortcodes/fusion-portfolio.php:2462
 msgid "Post Title"
-msgstr ""
+msgstr "帖子标题"
 
 #: shortcodes/fusion-faq.php:992
 msgid "FAQ Order"
-msgstr ""
+msgstr "常见问题 订单"
 
 #: shortcodes/fusion-faq.php:993 shortcodes/fusion-portfolio.php:2464
 msgid "Post Slug"
-msgstr ""
+msgstr "后鼻涕虫"
 
 #: shortcodes/fusion-faq.php:995 shortcodes/fusion-portfolio.php:2467
 msgid "Last Modified"
-msgstr ""
+msgstr "上次修改时间"
 
 #: shortcodes/fusion-faq.php:1007
 msgid "Defines the sorting order of FAQs."
-msgstr ""
+msgstr "定义常见问题解答的排序顺序。"
 
 #: shortcodes/fusion-faq.php:1029
 msgid "Display Featured Images"
-msgstr ""
+msgstr "显示特色图片"
 
 #: shortcodes/fusion-faq.php:1030
 msgid "Display the FAQ featured images."
-msgstr ""
+msgstr "显示常见问题解答特色图片。"
 
 #: shortcodes/fusion-faq.php:1041
 msgid "Toggles or Accordions"
-msgstr ""
+msgstr "切换或手风琴"
 
 #: shortcodes/fusion-faq.php:1053
 msgid "Boxed Mode"
-msgstr ""
+msgstr "盒装模式"
 
 #: shortcodes/fusion-faq.php:1054
 msgid "Choose to display FAQs items in boxed mode."
-msgstr ""
+msgstr "选择以盒装模式显示常见问题解答项目。"
 
 #: shortcodes/fusion-faq.php:1065
 msgid "Boxed Mode Border Width"
-msgstr ""
+msgstr "盒装模式边框宽度"
 
 #: shortcodes/fusion-faq.php:1066
 msgid "Set the border width for FAQ item. In pixels."
-msgstr ""
+msgstr "设置常见问题项的边框宽度。以像素为单位。"
 
 #: shortcodes/fusion-faq.php:1083
 msgid "Boxed Mode Border Color"
-msgstr ""
+msgstr "盒装模式边框颜色"
 
 #: shortcodes/fusion-faq.php:1084
 msgid "Set the border color for FAQ item."
-msgstr ""
+msgstr "设置常见问题项的边框颜色。"
 
 #: shortcodes/fusion-faq.php:1103
 msgid "Boxed Mode Background Color"
-msgstr ""
+msgstr "盒装模式背景色"
 
 #: shortcodes/fusion-faq.php:1104
 msgid "Set the background color for FAQ item."
-msgstr ""
+msgstr "设置常见问题项的背景色。"
 
 #: shortcodes/fusion-faq.php:1118
 msgid "Boxed Mode Background Hover Color"
-msgstr ""
+msgstr "盒装模式背景悬停颜色"
 
 #: shortcodes/fusion-faq.php:1119
 msgid "Set the background hover color for FAQ item."
-msgstr ""
+msgstr "设置常见问题项目的背景悬停颜色。"
 
 #: shortcodes/fusion-faq.php:1138
 msgid "Divider Line"
-msgstr ""
+msgstr "分隔线"
 
 #: shortcodes/fusion-faq.php:1139
 msgid "Choose to display a divider line between each item."
-msgstr ""
+msgstr "选择在每个项目之间显示分隔线。"
 
 #: shortcodes/fusion-faq.php:1157
 msgid "Title Size"
-msgstr ""
+msgstr "标题大小"
 
 #: shortcodes/fusion-faq.php:1158
 msgid ""
 "Controls the size of the title. Enter value including any valid CSS unit, "
 "ex: 13px."
-msgstr ""
+msgstr "控制标题的大小。输入包含任何有效 CSS 单位的值，例如：13px。"
 
 #: shortcodes/fusion-faq.php:1163
 msgid "Icon Size"
-msgstr ""
+msgstr "图标大小"
 
 #: shortcodes/fusion-faq.php:1164
 msgid "Set the size of the icon. In pixels (px), ex: 13px."
-msgstr ""
+msgstr "设置图标的大小。以像素 （px） 为单位，例如：13px。"
 
 #: shortcodes/fusion-faq.php:1174
 msgid "Icon Color"
-msgstr ""
+msgstr "图标颜色"
 
 #: shortcodes/fusion-faq.php:1175
 msgid "Set the color of icon in toggle box."
-msgstr ""
+msgstr "在切换框中设置图标的颜色。"
 
 #: shortcodes/fusion-faq.php:1182
 msgid "Icon Boxed Mode"
-msgstr ""
+msgstr "图标盒装模式"
 
 #: shortcodes/fusion-faq.php:1183
 msgid "Choose to display icon in boxed mode."
-msgstr ""
+msgstr "选择以盒装模式显示图标。"
 
 #: shortcodes/fusion-faq.php:1194
 msgid "Icon Inactive Box Color"
-msgstr ""
+msgstr "图标非活动框颜色"
 
 #: shortcodes/fusion-faq.php:1195
 msgid "Controls the color of the inactive toggle box."
-msgstr ""
+msgstr "控制非活动切换框的颜色。"
 
 #: shortcodes/fusion-faq.php:1209
 msgid "Icon Alignment"
-msgstr ""
+msgstr "图标对齐"
 
 #: shortcodes/fusion-faq.php:1210
 msgid "Controls the alignment of FAQ icon."
-msgstr ""
+msgstr "控制常见问题解答图标的对齐方式。"
 
 #: shortcodes/fusion-faq.php:1221
 msgid "FAQ Toggle Hover Accent Color"
-msgstr ""
+msgstr "常见问题解答 切换悬停主题色"
 
 #: shortcodes/fusion-faq.php:1246 shortcodes/fusion-faq.php:1254
 #: shortcodes/fusion-portfolio.php:2689 shortcodes/fusion-portfolio.php:2697
 #: shortcodes/fusion-privacy.php:400 shortcodes/fusion-privacy.php:408
 msgid "General"
-msgstr ""
+msgstr "常规"
 
 #: shortcodes/fusion-fusionslider.php:107
 msgid "Incorrect slider name. Please make sure to use a valid slider slug."
-msgstr ""
+msgstr "滑块名称不正确。请确保使用有效的滑块辅助工具。"
 
 #: shortcodes/fusion-fusionslider.php:679
 msgid "Slider Name"
-msgstr ""
+msgstr "滑块名称"
 
 #: shortcodes/fusion-fusionslider.php:680
 msgid ""
 "Select the slider you want to use. The options will appear as the slider "
 "name next to the number of slides in brackets."
-msgstr ""
+msgstr "选择要使用的滑块。这些选项将显示为滑块名称，位于括号中的幻灯片数旁边。"
 
 #: shortcodes/fusion-fusionslider.php:687
 msgid "Full Height"
-msgstr ""
+msgstr "全高"
 
 #: shortcodes/fusion-fusionslider.php:688
 msgid "Makes slider full screen height."
-msgstr ""
+msgstr "使滑块全屏高度。"
 
 #: shortcodes/fusion-fusionslider.php:703
 msgid "Full Height Offset"
-msgstr ""
+msgstr "全高偏移"
 
 #: shortcodes/fusion-fusionslider.php:704
 msgid "The slider offset. Accepts both pixels and CSS selectors."
-msgstr ""
+msgstr "滑块偏移。接受像素和 CSS 选择器。"
 
 #: shortcodes/fusion-portfolio.php:201 shortcodes/fusion-portfolio.php:986
 #: templates/portfolio-archive-layout.php:392
 msgid "Learn More"
-msgstr ""
+msgstr "了解更多信息"
 
 #: shortcodes/fusion-portfolio.php:202 shortcodes/fusion-portfolio.php:991
 msgid "View Project"
-msgstr ""
+msgstr "查看项目"
 
 #: shortcodes/fusion-portfolio.php:204 shortcodes/fusion-portfolio.php:1182
 #: templates/portfolio-archive-layout.php:452
 msgid "Load More Posts"
-msgstr ""
+msgstr "加载更多帖子"
 
 #: shortcodes/fusion-portfolio.php:1581 shortcodes/fusion-portfolio.php:1899
 msgid "Portfolio"
-msgstr ""
+msgstr "投资 组合"
 
 #: shortcodes/fusion-portfolio.php:1588
 msgid "Portfolio Featured Image Size"
-msgstr ""
+msgstr "投资组合特色图片大小"
 
 #: shortcodes/fusion-portfolio.php:1589
 msgid ""
@@ -2249,18 +2271,21 @@ msgid ""
 "ratio) for portfolio elements. <strong>IMPORTANT:</strong> Fixed works best "
 "with a standard 940px site width. Auto works best with larger site widths."
 msgstr ""
+"控制投资组合元素的特色图像大小是固定（裁剪）还是自动（完整图像比率）。"
+"<strong>重要：</strong>Fixed 最适合标准 940px 网站宽度。自动最适合较大的网站"
+"宽度。"
 
 #: shortcodes/fusion-portfolio.php:1595 shortcodes/fusion-portfolio.php:1926
 msgid "Fixed"
-msgstr ""
+msgstr "固定"
 
 #: shortcodes/fusion-portfolio.php:1596 shortcodes/fusion-portfolio.php:1927
 msgid "Auto"
-msgstr ""
+msgstr "自动"
 
 #: shortcodes/fusion-portfolio.php:1600 shortcodes/fusion-portfolio.php:2075
 msgid "Number of Columns"
-msgstr ""
+msgstr "列数"
 
 #: shortcodes/fusion-portfolio.php:1601 shortcodes/fusion-portfolio.php:2076
 msgid ""
@@ -2268,18 +2293,20 @@ msgid ""
 "maximum amount of columns. <strong>IMPORTANT:</strong> Masonry layout does "
 "not work with 1 column."
 msgstr ""
+"设置每行的列数。对于轮播布局，这会指定最大列数。<strong>重要：</strong>砌体布"
+"局不适用于 1 列。"
 
 #: shortcodes/fusion-portfolio.php:1613 shortcodes/fusion-portfolio.php:2086
 msgid "Column Spacing"
-msgstr ""
+msgstr "列间距"
 
 #: shortcodes/fusion-portfolio.php:1614 shortcodes/fusion-portfolio.php:2087
 msgid "Controls the column spacing for portfolio items."
-msgstr ""
+msgstr "控制项目组合项的列间距。"
 
 #: shortcodes/fusion-portfolio.php:1626
 msgid "Number of Portfolio Items Per Page"
-msgstr ""
+msgstr "每页项目组合项数"
 
 #: shortcodes/fusion-portfolio.php:1627
 msgid ""
@@ -2287,274 +2314,281 @@ msgid ""
 "Set to -1 to display all. Set to 0 to use the number of posts from Settings "
 "> Reading."
 msgstr ""
+"控制每页显示的项目组合元素的帖子数。设置为 -1 以显示全部。设置为 0 以使用\"设"
+"置\">阅读\"中的帖子数。"
 
 #: shortcodes/fusion-portfolio.php:1639
 msgid "Portfolio Text Layout"
-msgstr ""
+msgstr "作品集文本布局"
 
 #: shortcodes/fusion-portfolio.php:1640
 msgid ""
 "Controls if the portfolio text content is displayed boxed or unboxed or is "
 "completely disabled for portfolio elements."
 msgstr ""
+"控制项目组合文本内容是以盒装形式显示还是以非框形式显示，或者是否对项目组合元"
+"素完全禁用。"
 
 #: shortcodes/fusion-portfolio.php:1646 shortcodes/fusion-portfolio.php:1661
 #: shortcodes/fusion-portfolio.php:1945 shortcodes/fusion-portfolio.php:2508
 msgid "No Text"
-msgstr ""
+msgstr "无文本"
 
 #: shortcodes/fusion-portfolio.php:1647 shortcodes/fusion-portfolio.php:1946
 msgid "Boxed"
-msgstr ""
+msgstr "盒装"
 
 #: shortcodes/fusion-portfolio.php:1648 shortcodes/fusion-portfolio.php:1947
 msgid "Unboxed"
-msgstr ""
+msgstr "无框"
 
 #: shortcodes/fusion-portfolio.php:1652
 msgid "Portfolio Text Display"
-msgstr ""
+msgstr "作品集文本显示"
 
 #: shortcodes/fusion-portfolio.php:1653
 msgid ""
 "Choose how to display the post excerpt for portfolio elements. Does not "
 "apply to image rollovers."
-msgstr ""
+msgstr "选择如何显示项目组合元素的帖子摘录。不适用于图像翻转。"
 
 #: shortcodes/fusion-portfolio.php:1659 shortcodes/fusion-portfolio.php:2506
 msgid "Full Content"
-msgstr ""
+msgstr "完整内容"
 
 #: shortcodes/fusion-portfolio.php:1660 shortcodes/fusion-portfolio.php:2507
 msgid "Excerpt"
-msgstr ""
+msgstr "摘录"
 
 #: shortcodes/fusion-portfolio.php:1665 shortcodes/fusion-portfolio.php:2526
 msgid "Excerpt Length"
-msgstr ""
+msgstr "摘录长度"
 
 #: shortcodes/fusion-portfolio.php:1666
 msgid "Controls the number of words in the excerpts for portfolio elements."
-msgstr ""
+msgstr "控制项目组合元素摘录中的字数。"
 
 #: shortcodes/fusion-portfolio.php:1679
 msgid "Strip HTML from Excerpt"
-msgstr ""
+msgstr "从摘录中剥离 HTML"
 
 #: shortcodes/fusion-portfolio.php:1680
 msgid "Turn on to strip HTML content from the excerpt for portfolio elements."
-msgstr ""
+msgstr "打开以从项目组合元素的摘录中去除 HTML 内容。"
 
 #: shortcodes/fusion-portfolio.php:1687 shortcodes/fusion-portfolio.php:2202
 msgid "Portfolio Title Display"
-msgstr ""
+msgstr "作品集标题显示"
 
 #: shortcodes/fusion-portfolio.php:1688
 msgid ""
 "Controls what displays with the portfolio post title for portfolio elements."
-msgstr ""
+msgstr "控制与项目组合标题一起为项目组合元素显示的内容。"
 
 #: shortcodes/fusion-portfolio.php:1694 shortcodes/fusion-portfolio.php:2207
 msgid "Title and Categories"
-msgstr ""
+msgstr "标题和类别"
 
 #: shortcodes/fusion-portfolio.php:1695 shortcodes/fusion-portfolio.php:2208
 msgid "Only Title"
-msgstr ""
+msgstr "仅标题"
 
 #: shortcodes/fusion-portfolio.php:1696 shortcodes/fusion-portfolio.php:2209
 msgid "Only Categories"
-msgstr ""
+msgstr "仅类别"
 
 #: shortcodes/fusion-portfolio.php:1701 shortcodes/fusion-portfolio.php:2228
 msgid "Portfolio Text Alignment"
-msgstr ""
+msgstr "作品集文本对齐方式"
 
 #: shortcodes/fusion-portfolio.php:1702
 msgid ""
 "Controls the alignment of the portfolio title, categories and excerpt text "
 "when using the Portfolio Text layouts in portfolio elements."
 msgstr ""
+"在项目组合元素中使用\"作品集文本\"布局时，控制项目组合标题、类别和摘录文本的"
+"对齐方式。"
 
 #: shortcodes/fusion-portfolio.php:1714
 msgid "Portfolio Text Layout Padding"
-msgstr ""
+msgstr "作品集文本布局填充"
 
 #: shortcodes/fusion-portfolio.php:1715
 msgid ""
 "Controls the padding for the portfolio text layout when using boxed mode in "
 "portfolio elements."
-msgstr ""
+msgstr "在项目组合元素中使用盒装模式时控制项目组合文本布局的填充。"
 
 #: shortcodes/fusion-portfolio.php:1739 shortcodes/fusion-portfolio.php:2402
 msgid "Pagination Type"
-msgstr ""
+msgstr "分页类型"
 
 #: shortcodes/fusion-portfolio.php:1740
 msgid "Controls the pagination type for portfolio elements."
-msgstr ""
+msgstr "控制项目组合元素的分页类型。"
 
 #: shortcodes/fusion-portfolio.php:1746 shortcodes/fusion-portfolio.php:2408
 msgid "Pagination"
-msgstr ""
+msgstr "分页"
 
 #: shortcodes/fusion-portfolio.php:1747
 msgid "Infinite Scroll"
-msgstr ""
+msgstr "无限滚动"
 
 #: shortcodes/fusion-portfolio.php:1748 shortcodes/fusion-portfolio.php:2410
 msgid "Load More Button"
-msgstr ""
+msgstr "\"加载更多\"按钮"
 
 #: shortcodes/fusion-portfolio.php:1752
 msgid "Load More Posts Button Background Color"
-msgstr ""
+msgstr "加载更多帖子按钮背景色"
 
 #: shortcodes/fusion-portfolio.php:1753
 msgid ""
 "Controls the background color of the load more button for ajax post loading "
 "for portfolio elements."
-msgstr ""
+msgstr "控制投资组合元素的 ajax 后加载的\"加载更多\"按钮的背景色。"
 
 #: shortcodes/fusion-portfolio.php:1766
 msgid "Load More Posts Button Text Color"
-msgstr ""
+msgstr "加载更多帖子按钮文本颜色"
 
 #: shortcodes/fusion-portfolio.php:1767
 msgid ""
 "Controls the text color of the load more button for ajax post loading for "
 "portfolio elements."
-msgstr ""
+msgstr "控制投资组合元素的 ajax 后加载的\"加载更多\"按钮的文本颜色。"
 
 #: shortcodes/fusion-portfolio.php:1780
 msgid "Load More Posts Button Hover Background Color"
-msgstr ""
+msgstr "加载更多帖子按钮悬停背景色"
 
 #: shortcodes/fusion-portfolio.php:1781
 msgid ""
 "Controls the hover background color of the load more button for ajax post "
 "loading for portfolio elements."
-msgstr ""
+msgstr "控制投资组合元素的 ajax 后加载的\"加载更多\"按钮的悬停背景色。"
 
 #: shortcodes/fusion-portfolio.php:1794
 msgid "Load More Posts Hover Button Text Color"
-msgstr ""
+msgstr "加载更多帖子 悬停按钮文本颜色"
 
 #: shortcodes/fusion-portfolio.php:1795
 msgid ""
 "Controls the hover text color of the load more button for ajax post loading "
 "for portfolio elements."
-msgstr ""
+msgstr "控制投资组合元素的 ajax 后加载的\"加载更多\"按钮的悬停文本颜色。"
 
 #: shortcodes/fusion-portfolio.php:1909
 msgid "Layout"
-msgstr ""
+msgstr "布局"
 
 #: shortcodes/fusion-portfolio.php:1910
 msgid "Select the layout for the element."
-msgstr ""
+msgstr "选择元素的布局。"
 
 #: shortcodes/fusion-portfolio.php:1913
 msgid "Carousel"
-msgstr ""
+msgstr "旋转 木马"
 
 #: shortcodes/fusion-portfolio.php:1914
 msgid "Grid"
-msgstr ""
+msgstr "网 格"
 
 #: shortcodes/fusion-portfolio.php:1915
 msgid "Masonry"
-msgstr ""
+msgstr "砌筑"
 
 #: shortcodes/fusion-portfolio.php:1921
 msgid "Picture Size"
-msgstr ""
+msgstr "图片大小"
 
 #: shortcodes/fusion-portfolio.php:1922
 msgid ""
 "fixed = width and height will be fixed <br />auto = width and height will "
 "adjust to the image."
-msgstr ""
+msgstr "fixed = 宽度和高度将固定<br />auto = 宽度和高度将根据图像进行调整。"
 
 #: shortcodes/fusion-portfolio.php:1940
 msgid "Text Layout"
-msgstr ""
+msgstr "文本布局"
 
 #: shortcodes/fusion-portfolio.php:1941
 msgid ""
 "Controls if the portfolio text content is displayed boxed or unboxed or is "
 "completely disabled."
 msgstr ""
+"控制项目组合文本内容是以盒装形式显示还是以非装箱方式显示，或者是否完全禁用。"
 
 #: shortcodes/fusion-portfolio.php:1960
 msgid "Grid Box Color"
-msgstr ""
+msgstr "网格框颜色"
 
 #: shortcodes/fusion-portfolio.php:1961
 msgid ""
 "Controls the background color for the grid boxes. For grid layout this "
 "option will only work in boxed mode."
-msgstr ""
+msgstr "控制网格框的背景色。对于网格布局，此选项仅在盒装模式下有效。"
 
 #: shortcodes/fusion-portfolio.php:1980
 msgid "Grid Element Color"
-msgstr ""
+msgstr "网格元素颜色"
 
 #: shortcodes/fusion-portfolio.php:1981
 msgid "Controls the color of borders of the grid boxes."
-msgstr ""
+msgstr "控制网格框边框的颜色。"
 
 #: shortcodes/fusion-portfolio.php:2005
 msgid "Grid Separator Style"
-msgstr ""
+msgstr "网格分隔符样式"
 
 #: shortcodes/fusion-portfolio.php:2006
 msgid "Controls the line style of grid separators."
-msgstr ""
+msgstr "控制网格分隔符的线条样式。"
 
 #: shortcodes/fusion-portfolio.php:2010
 msgid "No Style"
-msgstr ""
+msgstr "无风格"
 
 #: shortcodes/fusion-portfolio.php:2011
 msgid "Single Border Solid"
-msgstr ""
+msgstr "单边框实心"
 
 #: shortcodes/fusion-portfolio.php:2012
 msgid "Double Border Solid"
-msgstr ""
+msgstr "双边框实心"
 
 #: shortcodes/fusion-portfolio.php:2013
 msgid "Single Border Dashed"
-msgstr ""
+msgstr "单边框虚线"
 
 #: shortcodes/fusion-portfolio.php:2014
 msgid "Double Border Dashed"
-msgstr ""
+msgstr "双边框虚线"
 
 #: shortcodes/fusion-portfolio.php:2015
 msgid "Single Border Dotted"
-msgstr ""
+msgstr "单边框虚线"
 
 #: shortcodes/fusion-portfolio.php:2016
 msgid "Double Border Dotted"
-msgstr ""
+msgstr "双边框虚线"
 
 #: shortcodes/fusion-portfolio.php:2017
 msgid "Shadow"
-msgstr ""
+msgstr "影子"
 
 #: shortcodes/fusion-portfolio.php:2045
 msgid "Grid Separator Color"
-msgstr ""
+msgstr "网格分隔符颜色"
 
 #: shortcodes/fusion-portfolio.php:2046
 msgid "Controls the line style color of grid separators."
-msgstr ""
+msgstr "控制网格分隔符的线条样式颜色。"
 
 #: shortcodes/fusion-portfolio.php:2104
 msgid "Masonry Image Aspect Ratio"
-msgstr ""
+msgstr "砌体图像长宽比"
 
 #: shortcodes/fusion-portfolio.php:2105
 msgid ""
@@ -2563,10 +2597,13 @@ msgid ""
 "</strong> The value of \"1.0\" represents a special case, which will use the "
 "auto calculated ratios like in versions prior to Avada 5.5."
 msgstr ""
+"设置比率以决定图像何时应变为横向（宽：高）和纵向（宽：宽）。<strong>重要：</"
+"strong>\"1.0\"的值表示一种特殊情况，它将使用自动计算的比率，就像在Avada 5.5 "
+"之前的版本中一样。"
 
 #: shortcodes/fusion-portfolio.php:2122
 msgid "Masonry 2x2 Width"
-msgstr ""
+msgstr "砌体 2x2 宽度"
 
 #: shortcodes/fusion-portfolio.php:2123
 msgid ""
@@ -2577,429 +2614,441 @@ msgid ""
 "image will appear (1x1, landscape, portrait or 2x2), regardless of the "
 "original ratio. In pixels."
 msgstr ""
+"此选项决定正方形 1x1 图像何时应变为 2x2。这不适用于高度支持横向或纵向布局的图"
+"像。<strong>重要：</strong>WP媒体库中的每个图像都有一个\"砌体图像布局\"设置，"
+"允许您手动设置图像的显示方式（1x1，横向，纵向或2x2），而不管原始比率如何。以"
+"像素为单位。"
 
 #: shortcodes/fusion-portfolio.php:2140
 msgid "Content Position"
-msgstr ""
+msgstr "内容位置"
 
 #: shortcodes/fusion-portfolio.php:2141
 msgid ""
 "Select if title, terms and excerpts should be displayed below or next to the "
 "featured images."
-msgstr ""
+msgstr "选择标题、术语和摘录是否应显示在特色图片的下方或旁边。"
 
 #: shortcodes/fusion-portfolio.php:2145
 msgid "Below image"
-msgstr ""
+msgstr "下图"
 
 #: shortcodes/fusion-portfolio.php:2146
 msgid "Next to Image"
-msgstr ""
+msgstr "在图像旁边"
 
 #: shortcodes/fusion-portfolio.php:2163
 msgid "Equal Heights"
-msgstr ""
+msgstr "同等高度"
 
 #: shortcodes/fusion-portfolio.php:2164
 msgid "Set to yes to display grid boxes with equal heights per row."
-msgstr ""
+msgstr "设置为 yes 可显示每行高度相等的网格框。"
 
 #: shortcodes/fusion-portfolio.php:2186
 msgid "Posts Per Page"
-msgstr ""
+msgstr "每页帖子数"
 
 #: shortcodes/fusion-portfolio.php:2187
 msgid ""
 "Select number of posts per page. Set to -1 to display all. Set to 0 to use "
 "number of posts from Settings > Reading."
 msgstr ""
+"选择每页的帖子数。设置为 -1 以显示全部。设置为 0 以使用\"设置\">\"阅读\"中的"
+"帖子数。"
 
 #: shortcodes/fusion-portfolio.php:2203
 msgid "Controls what displays with the portfolio post title."
-msgstr ""
+msgstr "控制与作品集帖子标题一起显示的内容。"
 
 #: shortcodes/fusion-portfolio.php:2229
 msgid ""
 "Controls the alignment of the portfolio title, categories and excerpt text "
 "when using the Portfolio Text layouts."
-msgstr ""
+msgstr "控制使用作品集文本布局时项目组合标题、类别和摘录文本的对齐方式。"
 
 #: shortcodes/fusion-portfolio.php:2254
 msgid "Portfolio Text Layout Padding "
-msgstr ""
+msgstr "作品集文本布局填充"
 
 #: shortcodes/fusion-portfolio.php:2255
 msgid ""
 "Controls the padding for the portfolio text layout when using boxed mode. "
 "Enter values including any valid CSS unit, ex: 25px, 25px, 25px, 25px."
 msgstr ""
+"控制使用盒装模式时项目组合文本布局的填充。输入的值包括任何有效的 CSS 单位，例"
+"如：25px、25px、25px、25px。"
 
 #: shortcodes/fusion-portfolio.php:2283
 msgid "Show Filters"
-msgstr ""
+msgstr "显示过滤器"
 
 #: shortcodes/fusion-portfolio.php:2284
 msgid "Choose to show or hide the category filters."
-msgstr ""
+msgstr "选择显示或隐藏类别筛选器。"
 
 #: shortcodes/fusion-portfolio.php:2288
 msgid "Yes without \"All\""
-msgstr ""
+msgstr "是，没有\"全部\""
 
 #: shortcodes/fusion-portfolio.php:2302
 msgid "Pull Posts By"
-msgstr ""
+msgstr "拉取帖子依据"
 
 #: shortcodes/fusion-portfolio.php:2303
 msgid "Choose to show posts by category or tag."
-msgstr ""
+msgstr "选择按类别或标签显示帖子。"
 
 #: shortcodes/fusion-portfolio.php:2307
 msgid "Category"
-msgstr ""
+msgstr "类别"
 
 #: shortcodes/fusion-portfolio.php:2308
 msgid "Tag"
-msgstr ""
+msgstr "标记"
 
 #: shortcodes/fusion-portfolio.php:2320
 msgid "Select categories or leave blank for all."
-msgstr ""
+msgstr "选择类别或全部留空。"
 
 #: shortcodes/fusion-portfolio.php:2360 shortcodes/fusion-portfolio.php:2361
 #: shortcodes/fusion-portfolio.php:2382
 msgid "Tags"
-msgstr ""
+msgstr "标签"
 
 #: shortcodes/fusion-portfolio.php:2362
 msgid "Select a tag or leave blank for all."
-msgstr ""
+msgstr "选择一个标记或全部留空。"
 
 #: shortcodes/fusion-portfolio.php:2381
 msgid "Exclude Tags"
-msgstr ""
+msgstr "排除标签"
 
 #: shortcodes/fusion-portfolio.php:2383
 msgid "Select a tag to exclude."
-msgstr ""
+msgstr "选择要排除的标记。"
 
 #: shortcodes/fusion-portfolio.php:2403
 msgid "Choose the type of pagination."
-msgstr ""
+msgstr "选择分页类型。"
 
 #: shortcodes/fusion-portfolio.php:2409
 msgid "Infinite Scrolling"
-msgstr ""
+msgstr "无限滚动"
 
 #: shortcodes/fusion-portfolio.php:2423
 msgid "Hide URL Parameter"
-msgstr ""
+msgstr "隐藏网址参数"
 
 #: shortcodes/fusion-portfolio.php:2424
 msgid ""
 "Turn on to remove portfolio category parameters in single post URLs. These "
 "are mainly used for single item pagination within selected categories."
 msgstr ""
+"开启此选项可移除单个帖子网址中的投资组合类别参数。这些主要用于选定类别中的单"
+"个项目分页。"
 
 #: shortcodes/fusion-portfolio.php:2428
 msgid "On"
-msgstr ""
+msgstr "上"
 
 #: shortcodes/fusion-portfolio.php:2429
 msgid "Off"
-msgstr ""
+msgstr "熄灭"
 
 #: shortcodes/fusion-portfolio.php:2441
 msgid "Post Offset"
-msgstr ""
+msgstr "后偏移量"
 
 #: shortcodes/fusion-portfolio.php:2442
 msgid "The number of posts to skip. ex: 1."
-msgstr ""
+msgstr "要跳过的帖子数。例如：1。"
 
 #: shortcodes/fusion-portfolio.php:2457
 msgid "Defines how portfolios should be ordered."
-msgstr ""
+msgstr "定义投资组合应如何排序。"
 
 #: shortcodes/fusion-portfolio.php:2463
 msgid "Portfolio Order"
-msgstr ""
+msgstr "投资组合订单"
 
 #: shortcodes/fusion-portfolio.php:2466
 msgid "Number of Comments"
-msgstr ""
+msgstr "评论数"
 
 #: shortcodes/fusion-portfolio.php:2479
 msgid "Defines the sorting order of portfolios."
-msgstr ""
+msgstr "定义项目组合的排序顺序。"
 
 #: shortcodes/fusion-portfolio.php:2501
 msgid "Text Display"
-msgstr ""
+msgstr "文本显示"
 
 #: shortcodes/fusion-portfolio.php:2502
 msgid "Choose how to display the post excerpt."
-msgstr ""
+msgstr "选择如何显示帖子摘录。"
 
 #: shortcodes/fusion-portfolio.php:2527
 msgid "Insert the number of words/characters you want to show in the excerpt."
-msgstr ""
+msgstr "插入要在摘录中显示的单词/字符数。"
 
 #: shortcodes/fusion-portfolio.php:2559
 msgid "Strip HTML"
-msgstr ""
+msgstr "剥离 HTML"
 
 #: shortcodes/fusion-portfolio.php:2560
 msgid "Strip HTML from the post excerpt."
-msgstr ""
+msgstr "从帖子摘录中删除 HTML。"
 
 #: shortcodes/fusion-portfolio.php:2588
 msgid "Carousel Layout"
-msgstr ""
+msgstr "轮播布局"
 
 #: shortcodes/fusion-portfolio.php:2589
 msgid "Choose to show titles on rollover image, or below image."
-msgstr ""
+msgstr "选择在鼠标悬停图像上或图像下方显示标题。"
 
 #: shortcodes/fusion-portfolio.php:2592
 msgid "Title below image"
-msgstr ""
+msgstr "图片下方的标题"
 
 #: shortcodes/fusion-portfolio.php:2593
 msgid "Title on rollover"
-msgstr ""
+msgstr "展期交割时的标题"
 
 #: shortcodes/fusion-portfolio.php:2606
 msgid "Carousel Scroll Items"
-msgstr ""
+msgstr "轮播滚动项"
 
 #: shortcodes/fusion-portfolio.php:2607
 msgid ""
 "Insert the amount of items to scroll. Leave empty to scroll number of "
 "visible items."
-msgstr ""
+msgstr "插入要滚动的项目数。留空可滚动可见项数。"
 
 #: shortcodes/fusion-portfolio.php:2620
 msgid "Carousel Autoplay"
-msgstr ""
+msgstr "轮播自动播放"
 
 #: shortcodes/fusion-portfolio.php:2621
 msgid "Choose to autoplay the carousel."
-msgstr ""
+msgstr "选择自动播放轮播。"
 
 #: shortcodes/fusion-portfolio.php:2638
 msgid "Carousel Show Navigation"
-msgstr ""
+msgstr "轮播秀导航"
 
 #: shortcodes/fusion-portfolio.php:2639
 msgid "Choose to show navigation buttons on the carousel."
-msgstr ""
+msgstr "选择在轮播上显示导航按钮。"
 
 #: shortcodes/fusion-portfolio.php:2656
 msgid "Carousel Mouse Scroll"
-msgstr ""
+msgstr "轮播鼠标滚动"
 
 #: shortcodes/fusion-portfolio.php:2657
 msgid "Choose to enable mouse drag control on the carousel."
-msgstr ""
+msgstr "选择以在轮播上启用鼠标拖动控制。"
 
 #: shortcodes/fusion-privacy.php:98 shortcodes/fusion-privacy.php:193
 msgid "Update"
-msgstr ""
+msgstr "更新"
 
 #: shortcodes/fusion-privacy.php:322 shortcodes/fusion-privacy.php:324
 msgid "Your embed preferences have been updated."
-msgstr ""
+msgstr "您的嵌入首选项已更新。"
 
 #: shortcodes/fusion-privacy.php:328 shortcodes/fusion-privacy.php:330
 msgid "Your embed preferences have been cleared."
-msgstr ""
+msgstr "您的嵌入首选项已清除。"
 
 #: shortcodes/fusion-privacy.php:357
 msgid "Privacy"
-msgstr ""
+msgstr "隐私"
 
 #: shortcodes/fusion-privacy.php:366
 msgid "Privacy Text"
-msgstr ""
+msgstr "隐私文本"
 
 #: shortcodes/fusion-privacy.php:367
 msgid "Controls the privacy text which will show above the form."
-msgstr ""
+msgstr "控制将显示在窗体上方的隐私文本。"
 
 #: shortcodes/fusion-privacy.php:369
 msgid "Your Content Goes Here"
-msgstr ""
+msgstr "您的内容转到此处"
 
 #: shortcodes/fusion-privacy.php:374
 msgid "Form Field Layout"
-msgstr ""
+msgstr "表单域布局"
 
 #: shortcodes/fusion-privacy.php:375
 msgid ""
 "Choose if form checkboxes should be stacked and full width, or if they "
 "should be floated."
-msgstr ""
+msgstr "选择表单复选框是应堆叠和全宽，还是应浮动。"
 
 #: shortcodes/fusion-privacy.php:378
 msgid "Stacked"
-msgstr ""
+msgstr "堆叠"
 
 #: shortcodes/fusion-privacy.php:379
 msgid "Floated"
-msgstr ""
+msgstr "浮动"
 
 #. Translators: Categories list.
 #: shortcodes/previews/front-end/components/fusion-tb-project-details.php:23
 msgid "<h4>Skills Needed:</h4> %s"
-msgstr ""
+msgstr "<h4>所需技能：</h4> %s"
 
 #. Translators: Categories list.
 #: shortcodes/previews/front-end/components/fusion-tb-project-details.php:35
 msgid "<h4>Categories:</h4> %s"
-msgstr ""
+msgstr "<h4>分类：</h4> %s"
 
 #. Translators: List of tags
 #: shortcodes/previews/front-end/components/fusion-tb-project-details.php:47
 msgid "<h4>Tags:</h4> %s"
-msgstr ""
+msgstr "<h4>标签：</h4> %s"
 
 #. Translators: Link.
 #: shortcodes/previews/front-end/components/fusion-tb-project-details.php:59
 msgid "<h4>Project URL:</h4> %s"
-msgstr ""
+msgstr "<h4>项目网址：</h4> %s"
 
 #. translators: Link
 #: shortcodes/previews/front-end/components/fusion-tb-project-details.php:71
 msgid "<h4>Copyright:</h4> %s"
-msgstr ""
+msgstr "<h4>版权：</h4> %s"
 
 #. translators: The author name.
 #: shortcodes/previews/front-end/components/fusion-tb-project-details.php:83
 msgid "<h4>By:</h4> %s"
-msgstr ""
+msgstr "<h4>通过：</h4> %s"
 
 #. translators: The categories.
 #: shortcodes/previews/fusion-faq-preview.php:15
 #: shortcodes/previews/fusion-portfolio-preview.php:30
 msgid "categories = %s"
-msgstr ""
+msgstr "类别 = %s"
 
 #. translators: The layout.
 #: shortcodes/previews/fusion-portfolio-preview.php:14
 msgid "layout = %s"
-msgstr ""
+msgstr "布局 = %s"
 
 #. translators: The tags.
 #: shortcodes/previews/fusion-portfolio-preview.php:25
 msgid "tags = %s"
-msgstr ""
+msgstr "标记 = %s"
 
 #: templates/portfolio-archive-layout.php:401
 msgid " View Project"
-msgstr ""
+msgstr "查看项目"
 
 #: templates/single-avada_portfolio.php:29
 #: templates/single-avada_portfolio.php:37
 #: templates/single-avada_portfolio.php:52
 msgid "Previous"
-msgstr ""
+msgstr "以前"
 
 #: templates/single-avada_portfolio.php:59
 #: templates/single-avada_portfolio.php:67
 #: templates/single-avada_portfolio.php:82
 msgid "Next"
-msgstr ""
+msgstr "下一个"
 
 #: templates/single-avada_portfolio.php:104
 msgid "Project Description"
-msgstr ""
+msgstr "项目描述"
 
 #. Plugin Name of the plugin/theme
 msgid "Avada Core"
-msgstr ""
+msgstr "Avada核心"
 
 #. Author URI of the plugin/theme
 msgid "https://theme-fusion.com"
-msgstr ""
+msgstr "https://theme-fusion.com"
 
 #. Description of the plugin/theme
 msgid ""
 "Avada Core Plugin for the advanced, premium drag & drop Avada Website "
 "Builder. Streamline your work and save time for the more important things."
 msgstr ""
+" Core Plugin，用于高级拖放式网站构建器。简化您的工作，节省时间用于更重要的事"
+"情。"
 
 #. Author of the plugin/theme
 msgid "ThemeFusion"
-msgstr ""
+msgstr "主题融合"
 
 #: fusion-slider/class-fusion-slider.php:107
 msgctxt "Post Type General Name"
 msgid "Avada Slides"
-msgstr ""
+msgstr "Avada幻灯片"
 
 #: includes/class-fusioncore-plugin.php:407
 msgctxt "Post Type General Name"
 msgid "Portfolio"
-msgstr ""
+msgstr "投资 组合"
 
 #: includes/class-fusioncore-plugin.php:483
 msgctxt "Post Type General Name"
 msgid "FAQs"
-msgstr ""
+msgstr "常见问题"
 
 #: includes/class-fusioncore-plugin.php:533
 msgctxt "Post Type General Name"
 msgid "Elastic Sliders"
-msgstr ""
+msgstr "弹性滑块"
 
 #: fusion-slider/class-fusion-slider.php:108
 msgctxt "Post Type Singular Name"
 msgid "Avada Slide"
-msgstr ""
+msgstr "Avada幻灯片"
 
 #: includes/class-fusioncore-plugin.php:408
 msgctxt "Post Type Singular Name"
 msgid "Portfolio"
-msgstr ""
+msgstr "投资 组合"
 
 #: includes/class-fusioncore-plugin.php:484
 msgctxt "Post Type Singular Name"
 msgid "FAQ"
-msgstr ""
+msgstr "常见问题"
 
 #: includes/class-fusioncore-plugin.php:534
 msgctxt "Post Type Singular Name"
 msgid "Elastic Slide"
-msgstr ""
+msgstr "弹性滑动"
 
 #: includes/class-fusioncore-plugin.php:436
 msgctxt "slug"
 msgid "portfolio_category"
-msgstr ""
+msgstr "portfolio_category"
 
 #: includes/class-fusioncore-plugin.php:454
 msgctxt "slug"
 msgid "portfolio_skills"
-msgstr ""
+msgstr "portfolio_skills"
 
 #: includes/class-fusioncore-plugin.php:469
 msgctxt "slug"
 msgid "portfolio_tags"
-msgstr ""
+msgstr "portfolio_tags"
 
 #: includes/class-fusioncore-plugin.php:563
 msgctxt "Taxonomy General Name"
 msgid "Groups"
-msgstr ""
+msgstr "组"
 
 #: includes/class-fusioncore-plugin.php:564
 msgctxt "Taxonomy Singular Name"
 msgid "Group"
-msgstr ""
+msgstr "群"
 
 #. translators: time difference.
 #: includes/widget/class-fusion-widget-tweets.php:752
 msgctxt "%s = human-readable time difference"
 msgid "%s ago"
-msgstr ""
+msgstr "%s 前"
