@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Fusion Core 3.1.6\n"
 "Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/fusion-core\n"
 "POT-Creation-Date: 2022-01-17 11:27:34+00:00\n"
-"PO-Revision-Date: 2022-04-03 19:21+0800\n"
+"PO-Revision-Date: 2022-04-04 10:25+0800\n"
 "Last-Translator: Aristeides <info@theme-fusion.com>\n"
 "Language-Team: Chinese (simplified)\n"
 "Language: zh_CN\n"
@@ -582,7 +582,7 @@ msgstr "上传和导入"
 
 #: fusion-slider/templates/slider.php:47 shortcodes/fusion-fusionslider.php:203
 msgid "Loading..."
-msgstr "装载。。。"
+msgstr "载入中..."
 
 #. Translators: 1 is the required WordPress version and 2 is the user's current
 #. version.
@@ -802,7 +802,7 @@ msgstr "所有组"
 
 #: includes/class-fusioncore-plugin.php:567
 msgid "Parent Group:"
-msgstr "父级："
+msgstr "父级组："
 
 #: includes/class-fusioncore-plugin.php:568
 msgid "New Group Name"
@@ -1025,7 +1025,7 @@ msgstr "大"
 
 #: includes/widget/class-fusion-widget-author.php:318
 msgid "XLarge"
-msgstr "X大"
+msgstr "超大"
 
 #: includes/widget/class-fusion-widget-author.php:324
 msgid "Display Name:"
@@ -1148,7 +1148,7 @@ msgstr "Avada:  Facebook页面插件"
 
 #: includes/widget/class-fusion-widget-facebook-page.php:200
 msgid "Find us on Facebook"
-msgstr "在脸书上找到我们"
+msgstr "在Facebook上找到我们"
 
 #: includes/widget/class-fusion-widget-facebook-page.php:215
 msgid ""
@@ -1162,11 +1162,11 @@ msgstr "请参阅说明。"
 
 #: includes/widget/class-fusion-widget-facebook-page.php:223
 msgid "Facebook Page URL:"
-msgstr "脸书页面网址："
+msgstr "Facebook页面网址："
 
 #: includes/widget/class-fusion-widget-facebook-page.php:228
 msgid "Facebook App ID:"
-msgstr "脸书应用 ID："
+msgstr "Facebook应用 ID："
 
 #: includes/widget/class-fusion-widget-facebook-page.php:233
 msgid "Width (has to be between 180 and 500):"
@@ -1211,7 +1211,7 @@ msgstr "照片来自 Flickr"
 #. translators: URL.
 #: includes/widget/class-fusion-widget-flickr.php:177
 msgid "Flickr ID (<a href=\"%s\">Get your flickr ID</a>):"
-msgstr "Flickr ID （<a href=\"%s\">Get your flickr ID</a>）："
+msgstr "Flickr ID （<a href=\"%s\">获取你的 flickr ID</a>）："
 
 #: includes/widget/class-fusion-widget-flickr.php:182
 msgid "Number of photos to show:"
@@ -1223,8 +1223,8 @@ msgid ""
 "API key (Use default or get your own from <a href=\"%s\">Flickr APP Garden</"
 "a>):"
 msgstr ""
-"API 密钥（使用默认值或从 <a href=\"%s\">Flickr APP Garden 获取自己的密钥</"
-"a>）："
+"API 密钥（使用默认值或从 <a href=\"%s\">Flickr APP Garden</a> 获取自己的密"
+"钥）："
 
 #. translators: the default key.
 #: includes/widget/class-fusion-widget-flickr.php:191

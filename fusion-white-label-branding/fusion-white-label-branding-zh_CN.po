@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Fusion White Label Branding 1.0\n"
 "Report-Msgid-Bugs-To: https://theme-fusion.com/support/\n"
 "POT-Creation-Date: 2022-01-17 11:30:32+00:00\n"
-"PO-Revision-Date: 2022-04-03 18:52+0800\n"
+"PO-Revision-Date: 2022-04-04 10:23+0800\n"
 "Last-Translator: ARISTEIDIS STATHOPOULOS <info@theme-fusion.com>\n"
 "Language-Team: Chinese (simplified)\n"
 "Language: zh_CN\n"
@@ -323,19 +323,19 @@ msgstr "更改管理区域的社交媒体链接。设置为\"#\"以删除网络�
 
 #: inc/admin-screens/avada.php:386
 msgid "Facebook"
-msgstr "脸书"
+msgstr "Facebook"
 
 #: inc/admin-screens/avada.php:387
 msgid "Twitter"
-msgstr "唽"
+msgstr "Twitter"
 
 #: inc/admin-screens/avada.php:388
 msgid "Instagram"
-msgstr "我们的优势"
+msgstr "Instagram"
 
 #: inc/admin-screens/avada.php:389
 msgid "YouTube"
-msgstr "优酷视频"
+msgstr "YouTube"
 
 #. Translators: %s: Avada Custom Branding.
 #: inc/admin-screens/avada.php:421
@@ -499,15 +499,15 @@ msgstr ""
 
 #: inc/admin-screens/dashboard.php:102 inc/admin-screens/dashboard.php:108
 msgid "Facebook Group"
-msgstr "脸书群组"
+msgstr "Facebook群组"
 
 #: inc/admin-screens/dashboard.php:105
 msgid ""
 "We have an amazing Facebook Group! Share with other Avada users and help "
 "grow our community. Please note, ThemeFusion does not provide support here."
 msgstr ""
-"我们有一个了不起的脸书群！与其他 Avada 用户分享并帮助发展我们的社区。请注意，"
-"ThemeFusion不在此处提供支持。"
+"我们有一个了不起的Facebook群！与其他 Avada 用户分享并帮助发展我们的社区。请注"
+"意，ThemeFusion不在此处提供支持。"
 
 #: inc/admin-screens/import-export.php:13
 #: inc/class-fusion-white-label-branding-admin.php:215

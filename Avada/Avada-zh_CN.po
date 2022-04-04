@@ -12,7 +12,7 @@ msgstr ""
 "Project-Id-Version: Avada\n"
 "Report-Msgid-Bugs-To: https://wordpress.org/support/theme/Avada\n"
 "POT-Creation-Date: 2022-01-17 11:25:54+00:00\n"
-"PO-Revision-Date: 2022-04-04 02:15+0800\n"
+"PO-Revision-Date: 2022-04-04 10:38+0800\n"
 "Last-Translator: SinnohZeng\n"
 "Language-Team: Chinese (China) (http://www.transifex.com/projects/p/avada/"
 "language/zh_CN/)\n"
@@ -649,7 +649,7 @@ msgid ""
 "be used as the default website header instead of the legacy approach using "
 "global options."
 msgstr ""
-"可以在布局生成器页面上生成全局标头。设置后，这将用作默认网站标头，而不是使用"
+"可以在布局构建器页面上生成全局标头。设置后，这将用作默认网站标头，而不是使用"
 "全局选项的旧方法。"
 
 #: includes/admin-screens/performance.php:157
@@ -844,7 +844,7 @@ msgid ""
 "scan your website and show which Elements you are using."
 msgstr ""
 "在此步骤中，您可以禁用任何不使用的设计、布局和表单元素。禁用后，元素将不会加"
-"载，因此在生成器中不可用。单击\"查找建议\"按钮以扫描您的网站并显示您正在使用"
+"载，因此在构建器中不可用。单击\"查找建议\"按钮以扫描您的网站并显示您正在使用"
 "的元素。"
 
 #: includes/admin-screens/performance.php:363
@@ -1970,7 +1970,7 @@ msgid ""
 msgstr ""
 "%1$s - 建议值： %2$s.<br />Post 最大值长度限制可能会禁止将全局选项数据保存到"
 "数据库中。请参阅： <a href=\"%3$s\" target=\"_blank\" rel=\"noopener "
-"noreferrer\">Suhosin Configuration Info</a>."
+"noreferrer\">Suhosin 配置信息</a>."
 
 #: includes/admin-screens/status.php:560
 msgid "ZipArchive:"
@@ -3232,7 +3232,7 @@ msgstr "Avada Builder将在Avada Core插件更新后安装。"
 #: includes/class-avada-admin.php:1152
 #: includes/lib/inc/fusion-app/templates/front-customize.php:39
 msgid "Avada Builder"
-msgstr "Avada 生成器"
+msgstr "Avada 构建器"
 
 #: includes/class-avada-admin.php:1171
 msgid "Manage Plugins Below"
@@ -3350,7 +3350,7 @@ msgid ""
 "\"_blank\">Dashboard Welcome</a> tab."
 msgstr ""
 "只有在您成功完成 Avada 产品注册后，才能在 <a href=\"%s\" target=\"_blank"
-"\">Dashboard Welcome 选项卡上安装或更新此插件</a>。"
+"\">Dashboard Welcome</a> 选项卡上安装或更新此插件。"
 
 #: includes/class-avada-admin.php:1410
 msgid "Plugin install failed. Please try Again."
@@ -7396,7 +7396,7 @@ msgstr "删除容器"
 
 #: includes/lib/inc/fusion-app/helpers.php:225
 msgid "Builder Containers"
-msgstr "生成器容器"
+msgstr "构建器容器"
 
 #: includes/lib/inc/fusion-app/helpers.php:226
 msgid "Click to toggle"
@@ -7500,7 +7500,7 @@ msgstr "搜索列"
 # @ Avada
 #: includes/lib/inc/fusion-app/helpers.php:250
 msgid "Builder Columns"
-msgstr "生成器列"
+msgstr "构建器列"
 
 # @ Avada
 #: includes/lib/inc/fusion-app/helpers.php:251
@@ -7521,7 +7521,7 @@ msgstr "库元素"
 
 #: includes/lib/inc/fusion-app/helpers.php:259
 msgid "Inline element for usage in the Avada Builder Generator."
-msgstr "用于 Avada 生成器生成器的内联元素。"
+msgstr "用于 Avada 构建器构建器的内联元素。"
 
 #: includes/lib/inc/fusion-app/helpers.php:260
 msgid "This element can be added only"
@@ -7917,7 +7917,7 @@ msgstr "突出"
 # @ Avada
 #: includes/lib/inc/fusion-app/helpers.php:358
 msgid "Add Button"
-msgstr "\"添加\"按钮"
+msgstr "添加按钮"
 
 # @ Avada
 #: includes/lib/inc/fusion-app/helpers.php:361
@@ -8005,7 +8005,7 @@ msgstr "标签"
 
 #: includes/lib/inc/fusion-app/helpers.php:384
 msgid "Field"
-msgstr "田"
+msgstr "字段"
 
 #: includes/lib/inc/fusion-app/helpers.php:385
 msgid "Select Field"
@@ -8013,7 +8013,7 @@ msgstr "选择字段"
 
 #: includes/lib/inc/fusion-app/helpers.php:386
 msgid "Value"
-msgstr "价值"
+msgstr "值"
 
 #: includes/lib/inc/fusion-app/helpers.php:387
 msgid "Bulk / Predefined"
@@ -8138,7 +8138,7 @@ msgstr "特殊"
 
 #: includes/lib/inc/fusion-app/helpers.php:417
 msgid "Special Items"
-msgstr "特殊物品"
+msgstr "特殊项目"
 
 #: includes/lib/inc/fusion-app/helpers.php:418
 msgid ""
@@ -8270,7 +8270,7 @@ msgstr ""
 
 #: includes/lib/inc/fusion-app/helpers.php:451
 msgid "+ Add Value Column"
-msgstr "+ 增值列"
+msgstr "+ 增加值列"
 
 #: includes/lib/inc/fusion-app/helpers.php:452
 msgid "+ Add Data Set"
@@ -8349,7 +8349,7 @@ msgstr "观看视频"
 
 #: includes/lib/inc/fusion-app/helpers.php:472
 msgid "Avada Builder Docs"
-msgstr "Avada Builder Docs"
+msgstr "Avada 构建器文档"
 
 #: includes/lib/inc/fusion-app/helpers.php:473
 msgid "Videos not for you? That's ok! We have you covered."
@@ -8378,7 +8378,7 @@ msgstr "切换响应选项"
 #: includes/options/social_media.php:257 includes/options/social_media.php:512
 #: includes/options/social_media.php:829 includes/options/woocommerce.php:204
 msgid "Top"
-msgstr "返回页首"
+msgstr "顶部"
 
 #: includes/lib/inc/fusion-app/helpers.php:477
 #: includes/lib/inc/redux/custom-fields/spacing/field_spacing.php:122
@@ -8393,7 +8393,7 @@ msgstr "返回页首"
 #: includes/options/social_media.php:514 includes/options/social_media.php:831
 #: includes/options/woocommerce.php:206
 msgid "Bottom"
-msgstr "底"
+msgstr "底部"
 
 #: includes/lib/inc/fusion-app/helpers.php:480
 #: includes/lib/inc/redux/custom-fields/dimensions/field_dimensions.php:84
@@ -8478,7 +8478,7 @@ msgstr "我确定"
 
 #: includes/lib/inc/fusion-app/helpers.php:499
 msgid "Ok"
-msgstr "还行"
+msgstr "好的"
 
 #: includes/lib/inc/fusion-app/helpers.php:500
 msgid "Import Prebuilt Website Page"
@@ -8636,7 +8636,7 @@ msgstr "在新选项卡中打开链接"
 
 #: includes/lib/inc/fusion-app/helpers.php:536
 msgid "Clear"
-msgstr "清楚"
+msgstr "清除"
 
 #: includes/lib/inc/fusion-app/helpers.php:537
 msgid "Remove formatting"
@@ -8715,7 +8715,7 @@ msgstr "作为全局性的"
 msgid ""
 "This action will redirect you to the front-end builder. All unsaved changes "
 "will be lost. Are you sure?"
-msgstr "此操作会将您重定向到前端生成器。所有未保存的更改都将丢失。是否确定？"
+msgstr "此操作会将您重定向到前端构建器。所有未保存的更改都将丢失。是否确定？"
 
 #: includes/lib/inc/fusion-app/helpers.php:555
 msgid ""
@@ -8798,7 +8798,7 @@ msgstr "设置动态内容以更新预览源。"
 
 #: includes/lib/inc/fusion-app/helpers.php:581
 msgid "Avada Builder Library"
-msgstr "Avada 生成器库"
+msgstr "Avada 构建器库"
 
 # @ Avada
 #: includes/lib/inc/fusion-app/helpers.php:585
@@ -8826,7 +8826,7 @@ msgstr "导入工作室内容失败"
 
 #: includes/lib/inc/fusion-app/helpers.php:591
 msgid "Importing Studio Media:"
-msgstr "导入演播室媒体："
+msgstr "导入Studio媒体："
 
 #: includes/lib/inc/fusion-app/helpers.php:592
 msgid "Failed to retrieve data from API"
@@ -9758,8 +9758,8 @@ msgid ""
 "document</a>, or your theme will be rejected because of FusionRedux."
 msgstr ""
 "<span class=\"tc-lead tc-recommendation\">建议</span>：如果您要提交到 "
-"WordPress.org 主题存储库，强烈建议您阅读<a href=\"%s\" target=\"<strong></"
-"strong>_blank\">此文档</a>，否则您的主题将因FusionRedux而被拒绝。"
+"WordPress.org 主题存储库，<strong>强烈</strong>建议您阅读<a href=\"%s\" "
+"target=\"_blank\">此文档</a>，否则您的主题将因FusionRedux而被拒绝。"
 
 #: includes/lib/inc/redux/framework/FusionReduxCore/inc/themecheck/checks/embedded.php:32
 msgid "Optional"
@@ -9934,7 +9934,7 @@ msgid ""
 "FusionRedux</a>."
 msgstr ""
 "FusionRedux是由全局开发人员社区创建的。想列出您的名字吗？<a href=\"%d\" "
-"target=\"_blank\">Contribute to FusionRedux</a>."
+"target=\"_blank\">为 FusionRedux 做贡献</a>."
 
 #: includes/lib/inc/redux/framework/FusionReduxCore/inc/welcome/views/extensions.php:73
 msgid "FusionRedux Framework - Extensions"
@@ -10497,7 +10497,8 @@ msgstr ""
 "如果你喜欢<strong>FusionRedux</strong>，请给我们留下一个<a href=\"https://"
 "wordpress.org/support/view/plugin-reviews/fusionredux-framework?"
 "filter=5#postform\" target=\"_blank\" class=\"fusionredux-rating-link\" data-"
-"rating=\"Thanks :)\">★★★★★</a>评级。提前从FusionRedux非常感谢！"
+"rated=\"Thanks :)\">&#9733;&#9733;&#9733;&#9733;&#9733;</a>评级。提前从"
+"FusionRedux非常感谢！"
 
 #: includes/lib/inc/redux/framework/FusionReduxCore/inc/welcome/welcome.php:145
 msgid "Support hash could not be generated. Please try again later."
@@ -11716,7 +11717,7 @@ msgid ""
 "the Form Builder to display confirmation notices for your form upon "
 "submission."
 msgstr ""
-"<strong>重要提示：</strong>使用表单生成器中的<strong>\"通知\"元素</strong>在"
+"<strong>重要提示：</strong>使用表单构建器中的<strong>\"通知\"元素</strong>在"
 "提交表单时显示表单的确认通知。"
 
 #: includes/metaboxes/tabs/tab_form_confirmation.php:55
@@ -13889,7 +13890,7 @@ msgid ""
 "selection. However, if you wish to disable this feature, simply turn this "
 "option off, and all dependencies will be disabled (requires save & refresh)."
 msgstr ""
-"Avada 的选项网络由全局选项、页面选项和生成器选项组成，默认情况下，每个选项都"
+"Avada 的选项网络由全局选项、页面选项和构建器选项组成，默认情况下，每个选项都"
 "有从属选项 ON。这意味着您看到的唯一选项是当前唯一可供您选择的选项。但是，如果"
 "您希望禁用此功能，只需关闭此选项，所有依赖项都将被禁用（需要保存和刷新）。"
 
@@ -14638,7 +14639,7 @@ msgid ""
 msgstr ""
 "控制博客备用布局的月份和年份格式。<a href=\"https://wordpress.org/support/"
 "article/formatting-date-and-time/\" target=\"_blank\" rel=\"noopener "
-"noreferrer\">Formating Date and Time</a>"
+"noreferrer\">格式化日期和时间</a>"
 
 #: includes/options/blog.php:709
 msgid "Blog Alternate Layout Day Format"
@@ -14651,8 +14652,8 @@ msgid ""
 "rel=\"noopener noreferrer\">Formatting Date and Time</a>"
 msgstr ""
 "控制博客备用布局的日期格式。<a href=\"https://wordpress.org/support/article/"
-"formatting-date-and-time/\" target=\"_blank\" rel=\"noopener noreferrer"
-"\">Formating Date and Time</a>"
+"formatting-date-and-time/\" target=\"_blank\" rel=\"noopener noreferrer\">格"
+"式化日期和时间</a>"
 
 #: includes/options/blog.php:716
 msgid "Blog Timeline Layout Date Format"
@@ -14666,7 +14667,7 @@ msgid ""
 msgstr ""
 "控制博客时间轴布局的时间线标签格式。<a href=\"https://wordpress.org/support/"
 "article/formatting-date-and-time/\" target=\"_blank\" rel=\"noopener "
-"noreferrer\">Formatting Date</a>"
+"noreferrer\">格式化日期</a>"
 
 # @ Avada
 #: includes/options/blog.php:726
@@ -14896,9 +14897,9 @@ msgid ""
 "a>"
 msgstr ""
 "控制日期元数据的日期格式。 <a href=\"https://wordpress.org/support/article/"
-"formatting-date-and-time/\" target=\"_blank\" rel=\"noopener noreferrer\">日"
-"期和时间格式</a>留空以使用<a href=\"%s\" target=\"_blank\">WordPress 设置中的"
-"默认值</a>"
+"formatting-date-and-time/\" target=\"_blank\" rel=\"noopener noreferrer\">格"
+"式化日期和时间</a>留空以使用<a href=\"%s\" target=\"_blank\">WordPress 设置中"
+"的默认值</a>"
 
 # @ Avada
 #: includes/options/breadcrumbs.php:34
@@ -15126,8 +15127,7 @@ msgid ""
 msgstr ""
 "选择应用于加载地图的 Google API 类型。JavaScript API允许更多选项和自定义样"
 "式，但Google可以根据地图负载收费，而嵌入API可以免费使用，无论地图加载如何。有"
-"关更多信息，请参阅<a href=\"%s\" target=\"_blank\">Google Maps Users Guide</"
-"a>。"
+"关更多信息，请参阅<a href=\"%s\" target=\"_blank\">Google Maps 用户指南</a>。"
 
 #: includes/options/contact.php:185
 msgid "JS API"
@@ -16473,7 +16473,7 @@ msgid ""
 "%1$s Layout, <a href=\"%2$s\" target=\"_blank\">visit this page</a>."
 msgstr ""
 "<strong>重要提示：</strong>为了获得更大的灵活性和更现代、更高性能的设置，我们"
-"建议使用 %1$s 生成器。要创建自定义 %1$s 布局，<a href=\"%2$s\" target="
+"建议使用 %1$s 构建器。要创建自定义 %1$s 布局，<a href=\"%2$s\" target="
 "\"_blank\">访问此页面</a>。"
 
 # @ Avada
@@ -20389,7 +20389,7 @@ msgid ""
 "\">here</a>."
 msgstr ""
 "<strong>重要提示：</strong>Avada Builder Elements settigns 被移动到 Avada "
-"Builder Elements 选项面板<a href=\"%s\" target=\"_blank\">here</a>。"
+"Builder Elements 选项面板<a href=\"%s\" target=\"_blank\">此处</a>。"
 
 #: includes/options/sidebars.php:72
 msgid "Sidebar Styling"

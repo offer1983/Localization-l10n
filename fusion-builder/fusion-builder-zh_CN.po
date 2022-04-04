@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Fusion Builder 1.1.6\n"
 "Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/fusion-builder\n"
 "POT-Creation-Date: 2022-01-17 11:28:56+00:00\n"
-"PO-Revision-Date: 2022-04-04 02:21+0800\n"
+"PO-Revision-Date: 2022-04-04 10:38+0800\n"
 "Last-Translator: Aristeides <info@theme-fusion.com>\n"
 "Language-Team: Chinese (simplified)\n"
 "Language: zh_CN\n"
@@ -4912,8 +4912,8 @@ msgid ""
 "\">Formatting Date and Time</a>"
 msgstr ""
 "要使用的时间格式。 <a href=\"https://wordpress.org/support/article/"
-"formatting-date-and-time/\" target=\"_blank\" rel=\"noopener noreferrer"
-"\">Formating Date and Time</a>"
+"formatting-date-and-time/\" target=\"_blank\" rel=\"noopener noreferrer\">格"
+"式化日期和时间</a>"
 
 #: inc/class-fusion-dynamic-data.php:810 inc/class-fusion-dynamic-data.php:1289
 msgid "Date Type"
@@ -4938,8 +4938,8 @@ msgid ""
 "\">Formatting Date and Time</a>"
 msgstr ""
 "要使用的日期格式。 <a href=\"https://wordpress.org/support/article/"
-"formatting-date-and-time/\" target=\"_blank\" rel=\"noopener noreferrer"
-"\">Formating Date and Time</a>"
+"formatting-date-and-time/\" target=\"_blank\" rel=\"noopener noreferrer\">格"
+"式化日期和时间</a>"
 
 #. translators: The number of views will be displayed before this text.
 #: inc/class-fusion-dynamic-data.php:831 shortcodes/components/meta.php:775
@@ -12051,8 +12051,8 @@ msgid ""
 "\" target=\"_blank\">FusionRedux Vendor Support</a> plugin/extension to "
 "bypass the our CDN and avoid this warning"
 msgstr ""
-"如果您正在离线开发，请下载并安装<href=\"%s\" target=\"_blank\">FusionRedux供"
-"应商支持</a>插件/扩展，以绕过我们的CDN并避免此警告"
+"如果您正在离线开发，请下载并安装<a href=\"%s\" target=\"_blank\">FusionRedux"
+"供应商支持</a>插件/扩展，以绕过我们的CDN并避免此警告"
 
 #: inc/lib/inc/redux/framework/FusionReduxCore/inc/class.fusionredux_cdn.php:84
 msgid "FusionRedux Framework Warning"
@@ -12263,9 +12263,9 @@ msgid ""
 "strong> suggested that you read <a href=\"%s\" target=\"_blank\">this "
 "document</a>, or your theme will be rejected because of FusionRedux."
 msgstr ""
-"<span class=\"tc-lead tc-recommendation\">RECOMMENDED</span>：如果您要提交到 "
-"WordPress.org 主题存储库，强烈建议您阅读<href=\"%s\" target=\"<strong></"
-"strong>_blank\">此文档</a>，否则您的主题将因FusionRedux而被拒绝。"
+"<span class=\"tc-lead tc-recommendation\">建议</span>：如果您要提交到 "
+"WordPress.org 主题存储库，<strong>强烈</strong>建议您阅读<a href=\"%s\" "
+"target=\"_blank\">此文档</a>，否则您的主题将因FusionRedux而被拒绝。"
 
 #: inc/lib/inc/redux/framework/FusionReduxCore/inc/themecheck/checks/embedded.php:32
 msgid "Optional"
@@ -12449,7 +12449,7 @@ msgid ""
 "FusionRedux</a>."
 msgstr ""
 "FusionRedux是由全局开发人员社区创建的。想列出您的名字吗？<a href=\"%d\" "
-"target=\"_blank\">Contribute to FusionRedux</a>."
+"target=\"_blank\">为 FusionRedux 做贡献</a>."
 
 #: inc/lib/inc/redux/framework/FusionReduxCore/inc/welcome/views/extensions.php:73
 msgid "FusionRedux Framework - Extensions"
@@ -13085,7 +13085,7 @@ msgid ""
 "Should the developer not be responsive, read the <a href=\"%s\" target="
 "\"_blank\">following article</a> before asking for support from us directly."
 msgstr ""
-"如果开发人员没有响应，请在直接向我们寻求支持之前阅读<href=\"%s\"target="
+"如果开发人员没有响应，请在直接向我们寻求支持之前阅读<a href=\"%s\" target="
 "\"_blank\">关注的文章</a>。"
 
 #: inc/lib/inc/redux/framework/FusionReduxCore/inc/welcome/welcome.php:104
@@ -13096,10 +13096,11 @@ msgid ""
 "rated=\"Thanks :)\">&#9733;&#9733;&#9733;&#9733;&#9733;</a> rating. A huge "
 "thank you from FusionRedux in advance!"
 msgstr ""
-"如果你喜欢<strong>FusionRedux</strong>，请给我们留下一个<href=\"https://"
+"如果你喜欢<strong>FusionRedux</strong>，请给我们留下一个<a href=\"https://"
 "wordpress.org/support/view/plugin-reviews/fusionredux-framework?"
 "filter=5#postform\" target=\"_blank\" class=\"fusionredux-rating-link\" data-"
-"rating=\"Thanks :)\">★★★★★</a>评级。提前从FusionRedux非常感谢！"
+"rated=\"Thanks :)\">&#9733;&#9733;&#9733;&#9733;&#9733;</a>评级。提前从"
+"FusionRedux非常感谢！"
 
 #: inc/lib/inc/redux/framework/FusionReduxCore/inc/welcome/welcome.php:145
 msgid "Support hash could not be generated. Please try again later."
@@ -16441,7 +16442,7 @@ msgstr ""
 "控制单个产品页面图像库的最大宽度。要使图像库缩放功能正常工作，您上传的图像必"
 "须大于您为此选项选择的图库大小。<strong>重要提示：</strong>更改此选项后，您可"
 "能需要调整WooCommerce设置中的\"单个产品图像大小\"设置，以确保该图像更大并且还"
-"会重新生成缩略图。<href=\"https://theme-fusion.com/documentation/avada/"
+"会重新生成缩略图。<a href=\"https://theme-fusion.com/documentation/avada/"
 "woocommerce-single-product-gallery/\" target=\"_blank\">有关更多信息，请参阅"
 "这篇文章。</a><br/>"
 
@@ -17074,8 +17075,8 @@ msgid ""
 "Enter the date format you need. You can check the complete list of available "
 "formatting tokens <a href=\"%s\" target=\"_blank\">here</a>."
 msgstr ""
-"输入您需要的日期格式。您可以检查可用格式化标记的完整列表<a href=\"%s\" "
-"target=\"_blank\">here</a>。"
+"输入您需要的日期格式。您可以在 <a href=\"%s\" target=\"_blank\">此处</a>检查"
+"可用格式化标记的完整列表。"
 
 #: shortcodes/form/date.php:236 shortcodes/form/email.php:149
 #: shortcodes/form/number.php:165 shortcodes/form/password.php:149
@@ -21320,8 +21321,8 @@ msgid ""
 "Use default API key or get your own from <a href=\"%s\" target=\"_blank"
 "\">Flickr APP Garden</a>."
 msgstr ""
-"使用默认的API密钥或从<a href=\"%s\" target=\"_blank\">Flickr APP Garden获取自"
-"己的API密钥</a>。"
+"使用默认的API密钥或从<a href=\"%s\" target=\"_blank\">Flickr APP Garden</a>获"
+"取自己的API密钥。"
 
 #: shortcodes/fusion-flickr.php:417
 msgid "Flickr ID"
@@ -22225,8 +22226,8 @@ msgid ""
 msgstr ""
 "选择应用于加载地图的 Google API 类型。JavaScript API允许更多选项和自定义样"
 "式，但Google可以根据地图加载量收费。嵌入和静态 API 可以免费使用，而不管地图负"
-"载如何。有关更多信息，请参阅<a href=\"%s\" target=\"_blank\">Google Maps "
-"Users Guide</a>。"
+"载如何。有关更多信息，请参阅<a href=\"%s\" target=\"_blank\">Google Maps 用户"
+"指南</a>。"
 
 #: shortcodes/fusion-google-map.php:650 shortcodes/fusion-google-map.php:720
 msgid "JS API"
@@ -25086,7 +25087,7 @@ msgstr "Discord链接"
 
 #: shortcodes/fusion-person.php:1559 shortcodes/fusion-social-links.php:1077
 msgid "Insert your custom Discord link."
-msgstr "插入您的自定义不和谐链接。"
+msgstr "插入您的自定义Discord链接。"
 
 #: shortcodes/fusion-person.php:1566 shortcodes/fusion-social-links.php:1084
 msgid "Digg Link"
@@ -25098,11 +25099,11 @@ msgstr "插入您的自定义 Digg 链接。"
 
 #: shortcodes/fusion-person.php:1574 shortcodes/fusion-social-links.php:1092
 msgid "Dribbble Link"
-msgstr "Dribbble链路"
+msgstr "Dribbble 链接"
 
 #: shortcodes/fusion-person.php:1575 shortcodes/fusion-social-links.php:1093
 msgid "Insert your custom Dribbble link."
-msgstr "插入您的自定义滴水链接。"
+msgstr "插入您的自定义Dribbble链接。"
 
 #: shortcodes/fusion-person.php:1582 shortcodes/fusion-social-links.php:1100
 msgid "Dropbox Link"
@@ -25118,7 +25119,7 @@ msgstr "Facebook链接"
 
 #: shortcodes/fusion-person.php:1591 shortcodes/fusion-social-links.php:1109
 msgid "Insert your custom Facebook link."
-msgstr "插入您的自定义脸书链接。"
+msgstr "插入您的自定义Facebook链接。"
 
 #: shortcodes/fusion-person.php:1598 shortcodes/fusion-social-links.php:1116
 msgid "Flickr Link"
@@ -25210,7 +25211,7 @@ msgstr "插入您的自定义 Microsoft Teams链接。"
 
 #: shortcodes/fusion-person.php:1686 shortcodes/fusion-social-links.php:1196
 msgid "SoundCloud Link"
-msgstr "声云链接"
+msgstr "SoundCloud 链接"
 
 #: shortcodes/fusion-person.php:1687 shortcodes/fusion-social-links.php:1197
 msgid "Insert your custom SoundCloud link."
@@ -25258,11 +25259,11 @@ msgstr "插入您的自定义Twitch链接。"
 
 #: shortcodes/fusion-person.php:1734 shortcodes/fusion-social-links.php:1252
 msgid "Twitter Link"
-msgstr "推特链接"
+msgstr "Twitter链接"
 
 #: shortcodes/fusion-person.php:1735 shortcodes/fusion-social-links.php:1253
 msgid "Insert your custom Twitter link."
-msgstr "插入您的自定义推特链接。"
+msgstr "插入您的自定义Twitter链接。"
 
 #: shortcodes/fusion-person.php:1742 shortcodes/fusion-social-links.php:1260
 msgid "Vimeo Link"
@@ -25314,7 +25315,7 @@ msgstr "插入您的自定义雅虎链接。"
 
 #: shortcodes/fusion-person.php:1790 shortcodes/fusion-social-links.php:1308
 msgid "Yelp Link"
-msgstr "耶利普链接"
+msgstr "Yelp链接"
 
 #: shortcodes/fusion-person.php:1791 shortcodes/fusion-social-links.php:1309
 msgid "Insert your custom Yelp link."
@@ -25322,7 +25323,7 @@ msgstr "插入您的自定义 Yelp 链接。"
 
 #: shortcodes/fusion-person.php:1798 shortcodes/fusion-social-links.php:1316
 msgid "Youtube Link"
-msgstr "优酷链接"
+msgstr "Youtube链接"
 
 #: shortcodes/fusion-person.php:1799 shortcodes/fusion-social-links.php:1317
 msgid "Insert your custom Youtube link."
@@ -26803,9 +26804,9 @@ msgid ""
 msgstr ""
 "单击下面的Youtube或Vimeo元素按钮，然后输入您唯一的视频编号，或复制并粘贴您的"
 "视频嵌入代码。<p class=\"insert-slider-video-wrap\"><a href=\"#\" class="
-"\"insert-slider-video\" data-type=\"fusion_youtube\">Add YouTube Video</a></"
+"\"insert-slider-video\" data-type=\"fusion_youtube\">添加 YouTube 视频</a></"
 "p><p class=\"insert-slider-video-wrap\"><a href=\"#\" class=\"insert-slider-"
-"video\" data-type=\"fusion_vimeo\">Add Vimeo Video</a></p>."
+"video\" data-type=\"fusion_vimeo\">添加 Vimeo 视频</a></p>."
 
 #: shortcodes/fusion-slider.php:684
 msgid "Full Image Link or External Link"
@@ -29083,11 +29084,11 @@ msgstr "推文作者"
 
 #: shortcodes/fusion-twitter-timeline.php:332
 msgid "Twitter Timeline"
-msgstr "推特时间线"
+msgstr "Twitter时间线"
 
 #: shortcodes/fusion-twitter-timeline.php:344
 msgid "Twitter Username"
-msgstr "推特用户名"
+msgstr "Twitter用户名"
 
 #: shortcodes/fusion-twitter-timeline.php:345
 msgid "Enter the username of the twitter timeline you want to display."
@@ -29095,11 +29096,11 @@ msgstr "输入要显示的 Twitter 时间线的用户名。"
 
 #: shortcodes/fusion-twitter-timeline.php:352
 msgid "Set the dimensions of the twitter timeline. In pixels."
-msgstr "设置推特时间线的维度。以像素为单位。"
+msgstr "设置Twitter时间线的维度。以像素为单位。"
 
 #: shortcodes/fusion-twitter-timeline.php:362
 msgid "Choose thhe language the twitter timeline should be displayed in."
-msgstr "选择推特时间线应显示的语言。"
+msgstr "选择Twitter时间线应显示的语言。"
 
 #: shortcodes/fusion-twitter-timeline.php:367
 msgid "English"
@@ -29239,7 +29240,7 @@ msgstr "越南语"
 
 #: shortcodes/fusion-twitter-timeline.php:406
 msgid "Select the theme of the twitter timeline."
-msgstr "选择推特时间线的主题。"
+msgstr "选择Twitter时间线的主题。"
 
 #: shortcodes/fusion-twitter-timeline.php:411
 msgid "dark"
@@ -30261,7 +30262,7 @@ msgstr "查看方式列表"
 
 #: shortcodes/fusion-woo-sorting.php:589
 msgid "Woo Sorting"
-msgstr "Woo排序"
+msgstr "Woo 排序"
 
 #: shortcodes/fusion-woo-sorting.php:605
 msgid "Sorting Options"
@@ -30344,7 +30345,7 @@ msgstr "控制下拉列表的边框颜色。"
 
 #: shortcodes/fusion-youtube.php:256
 msgid "YouTube"
-msgstr "优酷视频"
+msgstr "Youtube视频"
 
 #: shortcodes/fusion-youtube.php:266
 msgid ""
