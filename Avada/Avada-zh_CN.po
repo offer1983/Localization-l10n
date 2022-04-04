@@ -9,19 +9,22 @@
 # slingshotsean <sean@sling-shot.co.za>, 2014
 msgid ""
 msgstr ""
-"Project-Id-Version: Avada\n"
+"Project-Id-Version: Avada 7.6.1\n"
 "Report-Msgid-Bugs-To: https://wordpress.org/support/theme/Avada\n"
 "POT-Creation-Date: 2022-01-17 11:25:54+00:00\n"
-"PO-Revision-Date: 2022-04-04 10:38+0800\n"
+"PO-Revision-Date: 2022-04-04 13:31+0800\n"
 "Last-Translator: SinnohZeng\n"
-"Language-Team: Chinese (China) (http://www.transifex.com/projects/p/avada/"
-"language/zh_CN/)\n"
+"Language-Team: offer1983\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Poedit 3.0.1\n"
+"X-Poedit-Basepath: ../../../../文件/sunshine网站/Avada_Full_Package/Avada "
+"Theme\n"
+"X-Poedit-SearchPath-0: Avada\n"
+"X-Poedit-SearchPath-1: Avada-Child-Theme\n"
 
 #: includes/metaboxes/tabs/tab_template.php:204
 msgid "404"
@@ -3050,7 +3053,7 @@ msgstr "网站"
 #: includes/metaboxes/metaboxes.php:598
 #: includes/metaboxes/tabs/tab_studio.php:23
 msgid "Studio"
-msgstr "演播室"
+msgstr "工作室"
 
 #: includes/class-avada-admin-bar.php:69
 #: includes/class-avada-megamenu-framework.php:475
@@ -3079,7 +3082,7 @@ msgstr "重置 Avada 缓存"
 #: includes/class-avada-admin-bar.php:161 includes/class-avada-admin.php:208
 #: includes/class-avada-woocommerce.php:1047
 msgid "Dashboard"
-msgstr "挡泥板"
+msgstr "仪表盘"
 
 #. translators: The "Fusion Documentation" link.
 #: includes/class-avada-admin-notices.php:69
@@ -3098,7 +3101,7 @@ msgstr ""
 
 #: includes/class-avada-admin.php:311 includes/class-avada-admin.php:500
 msgid "Maintenance"
-msgstr "保养"
+msgstr "维护"
 
 #: includes/class-avada-admin.php:323 includes/class-avada-admin.php:515
 msgid "Plugins & Add-ons"
@@ -12635,12 +12638,12 @@ msgstr "选择如何对齐内容容器。"
 #: includes/metaboxes/tabs/tab_off_canvas_general.php:287
 #: includes/metaboxes/tabs/tab_off_canvas_general.php:323
 msgid "Flex Start"
-msgstr "灵活启动"
+msgstr "Flex 启动"
 
 #: includes/metaboxes/tabs/tab_off_canvas_general.php:289
 #: includes/metaboxes/tabs/tab_off_canvas_general.php:325
 msgid "Flex End"
-msgstr "柔性端"
+msgstr "Flex 结束"
 
 #: includes/metaboxes/tabs/tab_off_canvas_general.php:290
 msgid "Space Between"
@@ -13863,7 +13866,7 @@ msgstr "选择侧页眉应移动到页面顶部的时间的视口宽度。"
 # @ Avada
 #: includes/options/advanced.php:27
 msgid "Advanced"
-msgstr "高深"
+msgstr "高级"
 
 #: includes/options/advanced.php:41
 msgid "Enable Language Updates"
@@ -18662,8 +18665,8 @@ msgid ""
 "<strong>IMPORTANT NOTE:</strong> Mega Menu is disabled in Advanced > Theme "
 "Features section. Please enable it to see the options."
 msgstr ""
-"<strong>重要提示：</strong>Mega菜单在高级>主题功能部分被禁用。请启用它以查看"
-"选项。"
+"<strong>重要提示：</strong>Mega菜单在 高级>主题功能部分 被禁用。请启用它以查"
+"看选项。"
 
 #: includes/options/menu.php:2901
 msgid "Mega Menu Wrapper Max Width"
@@ -18931,6 +18934,7 @@ msgstr ""
 msgid "WordPress JPG Quality"
 msgstr "WordPress JPG Quality"
 
+# There will be an error after translation here
 #. translators: "Regenerate Thumbnails" plugin link.
 #: includes/options/performance.php:74
 msgid ""
@@ -18939,9 +18943,9 @@ msgid ""
 "qualities but also higher file sizes. <strong>NOTE:</strong> After changing "
 "this value, please install and run the %s plugin once."
 msgstr ""
-"控制为每个上传的图像生成的图像大小的质量。范围介于 0 和 100% 之间。值越高，图"
-"像质量越好，文件大小越大。<strong>注意：</strong>更改此值后，请安装并运行 %s "
-"插件一次。"
+"控制为每个上传的图像生成的图像大小的质量。范围介于 0 和 100 之间。值越高，图"
+"像质量越好，文件大小越大。\n"
+"<strong>注意：</strong> 更改此值后，请安装并运行 %s 插件一次。"
 
 #: includes/options/performance.php:87
 msgid "WordPress Big Image Size Threshold"
